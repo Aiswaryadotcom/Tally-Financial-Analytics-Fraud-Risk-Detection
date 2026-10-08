@@ -1,0 +1,426 @@
+voucher_no,date,customer_id,customer_name,city,segment,item_id,item_name,category,quantity,unit_price,discount_pct,net_sales,tax,total_amount,payment_mode
+INV1001,2026-06-13,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM001,Laptop,Electronics,5,50409.76,0,252048.8,45368.78,297417.58,Bank
+INV1002,2026-06-23,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM010,Barcode Scanner,POS,7,6387.76,0,44714.32,2235.72,46950.04,UPI
+INV1003,2026-05-10,C001,Arun Traders,Chennai,Retail,ITM009,External SSD,Storage,4,6232.09,8,22934.09,4128.14,27062.23,Credit
+INV1004,2026-02-26,C008,Bright Retail Hub,Anna Nagar,Retail,ITM010,Barcode Scanner,POS,5,7947.72,0,39738.6,1986.93,41725.53,Credit
+INV1005,2026-03-29,C005,Delta Distributors,Redhills,Wholesale,ITM003,Keyboard,Accessories,4,1062.43,0,4249.72,212.49,4462.21,Bank
+INV1006,2026-04-08,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM006,Desk,Furniture,6,8070.49,10,43580.65,2179.03,45759.68,Credit
+INV1007,2026-05-18,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM007,Router,Networking,2,2391.35,10,4304.43,774.8,5079.23,Cash
+INV1008,2026-05-28,C004,Greenline Enterprises,Avadi,Corporate,ITM002,Monitor,Electronics,1,12376.38,10,11138.74,1336.65,12475.39,Bank
+INV1009,2026-03-01,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM007,Router,Networking,5,2292.13,10,10314.59,1237.75,11552.34,UPI
+INV1010,2026-04-05,C006,Vetri Agencies,Poonamallee,Wholesale,ITM004,Printer,Electronics,5,11334.59,8,52139.11,9385.04,61524.15,Bank
+INV1011,2026-06-05,C003,Metro Office Mart,Chennai,Corporate,ITM009,External SSD,Storage,4,5200.91,2,20387.57,2446.51,22834.08,UPI
+INV1012,2026-06-25,C006,Vetri Agencies,Poonamallee,Wholesale,ITM001,Laptop,Electronics,4,53825.07,10,193770.25,23252.43,217022.68,Credit
+INV1013,2026-03-10,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM004,Printer,Electronics,6,9832.76,2,57816.63,6938.0,64754.63,Credit
+INV1014,2026-02-06,C005,Delta Distributors,Redhills,Wholesale,ITM003,Keyboard,Accessories,4,985.18,5,3743.68,449.24,4192.92,Credit
+INV1015,2026-05-30,C007,Prime Tech Solutions,Guindy,Corporate,ITM006,Desk,Furniture,4,9009.62,0,36038.48,6486.93,42525.41,Credit
+INV1016,2026-01-24,C001,Arun Traders,Chennai,Retail,ITM002,Monitor,Electronics,3,12291.16,10,33186.13,5973.5,39159.63,Credit
+INV1017,2026-06-02,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM007,Router,Networking,7,2435.46,2,16707.26,3007.31,19714.57,Cash
+INV1018,2026-05-22,C001,Arun Traders,Chennai,Retail,ITM002,Monitor,Electronics,5,12646.87,0,63234.35,3161.72,66396.07,Cash
+INV1019,2026-04-22,C003,Metro Office Mart,Chennai,Corporate,ITM008,UPS,Electronics,1,5025.52,8,4623.48,554.82,5178.3,UPI
+INV1020,2026-05-10,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM005,Office Chair,Furniture,4,5616.71,10,20220.16,1011.01,21231.17,Bank
+INV1021,2026-06-03,C006,Vetri Agencies,Poonamallee,Wholesale,ITM008,UPS,Electronics,1,3740.71,0,3740.71,448.89,4189.6,UPI
+INV1022,2026-01-15,C004,Greenline Enterprises,Avadi,Corporate,ITM010,Barcode Scanner,POS,2,6495.82,2,12731.81,636.59,13368.4,UPI
+INV1023,2026-02-02,C008,Bright Retail Hub,Anna Nagar,Retail,ITM009,External SSD,Storage,3,5390.6,10,14554.62,2619.83,17174.45,Credit
+INV1024,2026-02-24,C004,Greenline Enterprises,Avadi,Corporate,ITM005,Office Chair,Furniture,7,7340.08,8,47270.12,5672.41,52942.53,Credit
+INV1025,2026-05-13,C008,Bright Retail Hub,Anna Nagar,Retail,ITM002,Monitor,Electronics,4,11276.24,0,45104.96,2255.25,47360.21,UPI
+INV1026,2026-05-31,C004,Greenline Enterprises,Avadi,Corporate,ITM001,Laptop,Electronics,2,53150.42,0,106300.84,5315.04,111615.88,Bank
+INV1027,2026-01-09,C006,Vetri Agencies,Poonamallee,Wholesale,ITM002,Monitor,Electronics,4,11411.76,2,44734.1,2236.7,46970.8,UPI
+INV1028,2026-05-27,C008,Bright Retail Hub,Anna Nagar,Retail,ITM004,Printer,Electronics,8,11659.02,0,93272.16,4663.61,97935.77,Bank
+INV1029,2026-06-18,C007,Prime Tech Solutions,Guindy,Corporate,ITM006,Desk,Furniture,7,7610.89,10,47948.61,8630.75,56579.36,Bank
+INV1030,2026-06-22,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM001,Laptop,Electronics,7,53271.02,10,335607.43,16780.37,352387.8,UPI
+INV1031,2026-02-19,C004,Greenline Enterprises,Avadi,Corporate,ITM009,External SSD,Storage,8,5157.58,0,41260.64,4951.28,46211.92,Credit
+INV1032,2026-03-05,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM008,UPS,Electronics,2,3647.2,5,6929.68,346.48,7276.16,Bank
+INV1033,2026-03-02,C003,Metro Office Mart,Chennai,Corporate,ITM007,Router,Networking,8,2320.25,10,16705.8,2004.7,18710.5,Bank
+INV1034,2026-02-12,C007,Prime Tech Solutions,Guindy,Corporate,ITM001,Laptop,Electronics,7,50530.0,10,318339.0,38200.68,356539.68,Cash
+INV1035,2026-04-19,C008,Bright Retail Hub,Anna Nagar,Retail,ITM003,Keyboard,Accessories,4,822.0,0,3288.0,591.84,3879.84,Bank
+INV1036,2026-03-22,C001,Arun Traders,Chennai,Retail,ITM001,Laptop,Electronics,8,51936.87,10,373945.46,67310.18,441255.64,UPI
+INV1037,2026-01-15,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM003,Keyboard,Accessories,2,930.59,8,1712.29,85.61,1797.9,Credit
+INV1038,2026-01-31,C004,Greenline Enterprises,Avadi,Corporate,ITM010,Barcode Scanner,POS,1,7566.48,2,7415.15,1334.73,8749.88,Cash
+INV1039,2026-03-08,C004,Greenline Enterprises,Avadi,Corporate,ITM006,Desk,Furniture,4,7263.76,0,29055.04,5229.91,34284.95,Cash
+INV1040,2026-04-28,C006,Vetri Agencies,Poonamallee,Wholesale,ITM002,Monitor,Electronics,1,11864.88,5,11271.64,563.58,11835.22,Bank
+INV1041,2026-05-18,C004,Greenline Enterprises,Avadi,Corporate,ITM009,External SSD,Storage,5,5143.16,0,25715.8,1285.79,27001.59,UPI
+INV1042,2026-04-05,C005,Delta Distributors,Redhills,Wholesale,ITM003,Keyboard,Accessories,8,1017.48,8,7488.65,898.64,8387.29,Bank
+INV1043,2026-06-20,C005,Delta Distributors,Redhills,Wholesale,ITM002,Monitor,Electronics,3,11376.45,0,34129.35,6143.28,40272.63,UPI
+INV1044,2026-03-11,C005,Delta Distributors,Redhills,Wholesale,ITM010,Barcode Scanner,POS,4,7763.53,0,31054.12,5589.74,36643.86,Cash
+INV1045,2026-05-10,C008,Bright Retail Hub,Anna Nagar,Retail,ITM005,Office Chair,Furniture,1,5492.84,2,5382.98,645.96,6028.94,Bank
+INV1046,2026-01-01,C006,Vetri Agencies,Poonamallee,Wholesale,ITM003,Keyboard,Accessories,5,772.82,2,3786.82,681.63,4468.45,Credit
+INV1047,2026-05-24,C001,Arun Traders,Chennai,Retail,ITM002,Monitor,Electronics,2,13091.53,8,24088.42,1204.42,25292.84,Bank
+INV1048,2026-04-05,C003,Metro Office Mart,Chennai,Corporate,ITM007,Router,Networking,3,1878.08,0,5634.24,281.71,5915.95,Cash
+INV1049,2026-02-23,C004,Greenline Enterprises,Avadi,Corporate,ITM002,Monitor,Electronics,6,12675.89,10,68449.81,8213.98,76663.79,UPI
+INV1050,2026-03-02,C003,Metro Office Mart,Chennai,Corporate,ITM003,Keyboard,Accessories,7,723.02,8,4656.25,558.75,5215.0,Credit
+INV1051,2026-06-21,C004,Greenline Enterprises,Avadi,Corporate,ITM005,Office Chair,Furniture,3,6914.97,0,20744.91,2489.39,23234.3,Bank
+INV1052,2026-05-01,C004,Greenline Enterprises,Avadi,Corporate,ITM004,Printer,Electronics,8,10253.45,10,73824.84,3691.24,77516.08,UPI
+INV1053,2026-01-07,C004,Greenline Enterprises,Avadi,Corporate,ITM007,Router,Networking,6,2116.27,0,12697.62,1523.71,14221.33,Cash
+INV1054,2026-06-14,C007,Prime Tech Solutions,Guindy,Corporate,ITM009,External SSD,Storage,6,6648.62,0,39891.72,4787.01,44678.73,UPI
+INV1055,2026-05-29,C005,Delta Distributors,Redhills,Wholesale,ITM001,Laptop,Electronics,2,52491.7,0,104983.4,18897.01,123880.41,Cash
+INV1056,2026-04-22,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM007,Router,Networking,4,2092.25,8,7699.48,923.94,8623.42,Bank
+INV1057,2026-05-14,C004,Greenline Enterprises,Avadi,Corporate,ITM006,Desk,Furniture,7,6796.96,8,43772.42,5252.69,49025.11,Cash
+INV1058,2026-06-19,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM005,Office Chair,Furniture,5,6668.46,0,33342.3,4001.08,37343.38,Cash
+INV1059,2026-05-22,C003,Metro Office Mart,Chennai,Corporate,ITM004,Printer,Electronics,7,11221.33,2,76978.32,13856.1,90834.42,UPI
+INV1060,2026-06-07,C005,Delta Distributors,Redhills,Wholesale,ITM007,Router,Networking,1,2141.7,0,2141.7,257.0,2398.7,Cash
+INV1061,2026-04-30,C008,Bright Retail Hub,Anna Nagar,Retail,ITM008,UPS,Electronics,4,4350.05,10,15660.18,2818.83,18479.01,UPI
+INV1062,2026-06-18,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM005,Office Chair,Furniture,6,5495.07,10,29673.38,1483.67,31157.05,Cash
+INV1063,2026-02-27,C004,Greenline Enterprises,Avadi,Corporate,ITM003,Keyboard,Accessories,1,730.82,2,716.2,128.92,845.12,Bank
+INV1064,2026-04-27,C007,Prime Tech Solutions,Guindy,Corporate,ITM010,Barcode Scanner,POS,4,7765.0,2,30438.8,3652.66,34091.46,Credit
+INV1065,2026-03-04,C003,Metro Office Mart,Chennai,Corporate,ITM001,Laptop,Electronics,2,53568.25,0,107136.5,5356.83,112493.33,Credit
+INV1066,2026-01-13,C004,Greenline Enterprises,Avadi,Corporate,ITM002,Monitor,Electronics,8,11046.01,2,86600.72,15588.13,102188.85,Cash
+INV1067,2026-04-24,C007,Prime Tech Solutions,Guindy,Corporate,ITM009,External SSD,Storage,8,6570.19,8,48356.6,5802.79,54159.39,Credit
+INV1068,2026-03-08,C004,Greenline Enterprises,Avadi,Corporate,ITM005,Office Chair,Furniture,8,6586.33,0,52690.64,6322.88,59013.52,Bank
+INV1069,2026-03-15,C004,Greenline Enterprises,Avadi,Corporate,ITM005,Office Chair,Furniture,6,5958.13,5,33961.34,1698.07,35659.41,UPI
+INV1070,2026-02-08,C004,Greenline Enterprises,Avadi,Corporate,ITM007,Router,Networking,3,2546.66,0,7639.98,916.8,8556.78,Credit
+INV1071,2026-03-26,C008,Bright Retail Hub,Anna Nagar,Retail,ITM007,Router,Networking,1,2044.08,2,2003.2,240.38,2243.58,Bank
+INV1072,2026-05-28,C007,Prime Tech Solutions,Guindy,Corporate,ITM008,UPS,Electronics,1,5008.62,0,5008.62,601.03,5609.65,Credit
+INV1073,2026-05-18,C004,Greenline Enterprises,Avadi,Corporate,ITM008,UPS,Electronics,4,3986.5,2,15627.08,781.35,16408.43,Credit
+INV1074,2026-03-28,C007,Prime Tech Solutions,Guindy,Corporate,ITM003,Keyboard,Accessories,8,1048.71,5,7970.2,1434.64,9404.84,Bank
+INV1075,2026-04-11,C001,Arun Traders,Chennai,Retail,ITM002,Monitor,Electronics,7,11051.96,2,75816.45,3790.82,79607.27,Bank
+INV1076,2026-03-08,C007,Prime Tech Solutions,Guindy,Corporate,ITM006,Desk,Furniture,4,7714.91,0,30859.64,3703.16,34562.8,Cash
+INV1077,2026-04-18,C005,Delta Distributors,Redhills,Wholesale,ITM002,Monitor,Electronics,8,10758.85,5,81767.26,4088.36,85855.62,Cash
+INV1078,2026-02-27,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM001,Laptop,Electronics,1,54581.7,0,54581.7,2729.09,57310.79,UPI
+INV1079,2026-03-03,C003,Metro Office Mart,Chennai,Corporate,ITM008,UPS,Electronics,2,4430.62,0,8861.24,1063.35,9924.59,Cash
+INV1080,2026-04-05,C003,Metro Office Mart,Chennai,Corporate,ITM010,Barcode Scanner,POS,2,7884.25,0,15768.5,1892.22,17660.72,Bank
+INV1081,2026-05-29,C001,Arun Traders,Chennai,Retail,ITM005,Office Chair,Furniture,7,6115.55,8,39384.14,1969.21,41353.35,Bank
+INV1082,2026-06-01,C004,Greenline Enterprises,Avadi,Corporate,ITM002,Monitor,Electronics,5,12852.74,5,61050.51,3052.53,64103.04,Bank
+INV1083,2026-03-30,C007,Prime Tech Solutions,Guindy,Corporate,ITM006,Desk,Furniture,2,7837.22,0,15674.44,783.72,16458.16,Credit
+INV1084,2026-05-06,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM007,Router,Networking,6,2475.4,10,13367.16,1604.06,14971.22,UPI
+INV1085,2026-04-22,C003,Metro Office Mart,Chennai,Corporate,ITM009,External SSD,Storage,5,6045.29,5,28715.13,3445.82,32160.95,Credit
+INV1086,2026-04-22,C005,Delta Distributors,Redhills,Wholesale,ITM006,Desk,Furniture,4,8612.12,0,34448.48,4133.82,38582.3,Credit
+INV1087,2026-03-04,C008,Bright Retail Hub,Anna Nagar,Retail,ITM010,Barcode Scanner,POS,7,6998.81,2,48011.84,5761.42,53773.26,UPI
+INV1088,2026-05-05,C004,Greenline Enterprises,Avadi,Corporate,ITM006,Desk,Furniture,5,7442.05,5,35349.74,6362.95,41712.69,Cash
+INV1089,2026-05-23,C001,Arun Traders,Chennai,Retail,ITM009,External SSD,Storage,4,5055.75,8,18605.16,2232.62,20837.78,Credit
+INV1090,2026-05-23,C004,Greenline Enterprises,Avadi,Corporate,ITM008,UPS,Electronics,8,4253.91,0,34031.28,1701.56,35732.84,Cash
+INV1091,2026-02-26,C007,Prime Tech Solutions,Guindy,Corporate,ITM004,Printer,Electronics,5,11218.36,0,56091.8,6731.02,62822.82,Cash
+INV1092,2026-04-19,C006,Vetri Agencies,Poonamallee,Wholesale,ITM006,Desk,Furniture,8,7276.41,0,58211.28,2910.56,61121.84,Bank
+INV1093,2026-02-19,C006,Vetri Agencies,Poonamallee,Wholesale,ITM002,Monitor,Electronics,3,11192.68,8,30891.8,3707.02,34598.82,Cash
+INV1094,2026-05-31,C005,Delta Distributors,Redhills,Wholesale,ITM002,Monitor,Electronics,4,11456.54,0,45826.16,2291.31,48117.47,Cash
+INV1095,2026-01-04,C003,Metro Office Mart,Chennai,Corporate,ITM005,Office Chair,Furniture,1,7297.41,5,6932.54,831.9,7764.44,UPI
+INV1096,2026-06-13,C008,Bright Retail Hub,Anna Nagar,Retail,ITM002,Monitor,Electronics,1,12156.64,2,11913.51,1429.62,13343.13,Credit
+INV1097,2026-03-29,C003,Metro Office Mart,Chennai,Corporate,ITM001,Laptop,Electronics,5,54531.1,2,267202.39,13360.12,280562.51,Bank
+INV1098,2026-04-13,C008,Bright Retail Hub,Anna Nagar,Retail,ITM002,Monitor,Electronics,1,11092.35,10,9983.11,1796.96,11780.07,Cash
+INV1099,2026-01-22,C004,Greenline Enterprises,Avadi,Corporate,ITM002,Monitor,Electronics,7,12237.92,10,77098.9,13877.8,90976.7,UPI
+INV1100,2026-05-14,C007,Prime Tech Solutions,Guindy,Corporate,ITM008,UPS,Electronics,8,4023.76,5,30580.58,3669.67,34250.25,Cash
+INV1101,2026-05-26,C001,Arun Traders,Chennai,Retail,ITM010,Barcode Scanner,POS,2,8224.87,0,16449.74,2960.95,19410.69,UPI
+INV1102,2026-03-09,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM003,Keyboard,Accessories,4,777.27,0,3109.08,155.45,3264.53,Bank
+INV1103,2026-04-15,C008,Bright Retail Hub,Anna Nagar,Retail,ITM010,Barcode Scanner,POS,8,6908.27,0,55266.16,6631.94,61898.1,Cash
+INV1104,2026-06-29,C008,Bright Retail Hub,Anna Nagar,Retail,ITM002,Monitor,Electronics,4,13038.26,10,46937.74,8448.79,55386.53,UPI
+INV1105,2026-04-19,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM009,External SSD,Storage,4,6104.49,0,24417.96,1220.9,25638.86,Bank
+INV1106,2026-01-16,C003,Metro Office Mart,Chennai,Corporate,ITM005,Office Chair,Furniture,5,6202.51,2,30392.3,5470.61,35862.91,Cash
+INV1107,2026-06-29,C007,Prime Tech Solutions,Guindy,Corporate,ITM005,Office Chair,Furniture,8,6199.65,5,47117.34,2355.87,49473.21,Credit
+INV1108,2026-03-24,C005,Delta Distributors,Redhills,Wholesale,ITM001,Laptop,Electronics,2,50315.23,8,92580.02,16664.4,109244.42,Bank
+INV1109,2026-06-22,C005,Delta Distributors,Redhills,Wholesale,ITM010,Barcode Scanner,POS,1,7854.8,0,7854.8,942.58,8797.38,Credit
+INV1110,2026-03-13,C003,Metro Office Mart,Chennai,Corporate,ITM010,Barcode Scanner,POS,7,7597.38,2,52118.03,2605.9,54723.93,Credit
+INV1111,2026-03-31,C007,Prime Tech Solutions,Guindy,Corporate,ITM006,Desk,Furniture,6,8228.94,10,44436.28,2221.81,46658.09,Cash
+INV1112,2026-04-16,C008,Bright Retail Hub,Anna Nagar,Retail,ITM005,Office Chair,Furniture,7,6968.56,5,46340.92,2317.05,48657.97,Credit
+INV1113,2026-01-23,C006,Vetri Agencies,Poonamallee,Wholesale,ITM005,Office Chair,Furniture,6,5541.18,10,29922.37,3590.68,33513.05,Bank
+INV1114,2026-06-18,C008,Bright Retail Hub,Anna Nagar,Retail,ITM007,Router,Networking,1,2024.71,0,2024.71,364.45,2389.16,Credit
+INV1115,2026-06-10,C008,Bright Retail Hub,Anna Nagar,Retail,ITM001,Laptop,Electronics,4,50540.97,0,202163.88,24259.67,226423.55,Credit
+INV1116,2026-06-28,C008,Bright Retail Hub,Anna Nagar,Retail,ITM002,Monitor,Electronics,1,13162.33,5,12504.21,625.21,13129.42,UPI
+INV1117,2026-03-21,C001,Arun Traders,Chennai,Retail,ITM009,External SSD,Storage,7,5069.93,10,31940.56,1597.03,33537.59,Credit
+INV1118,2026-01-31,C003,Metro Office Mart,Chennai,Corporate,ITM008,UPS,Electronics,5,4346.54,0,21732.7,2607.92,24340.62,Credit
+INV1119,2026-05-01,C004,Greenline Enterprises,Avadi,Corporate,ITM008,UPS,Electronics,3,4155.35,5,11842.75,2131.69,13974.44,UPI
+INV1120,2026-01-18,C005,Delta Distributors,Redhills,Wholesale,ITM007,Router,Networking,6,2775.85,5,15822.34,1898.68,17721.02,Bank
+INV1121,2026-03-14,C005,Delta Distributors,Redhills,Wholesale,ITM010,Barcode Scanner,POS,8,8059.71,2,63188.13,11373.86,74561.99,Credit
+INV1122,2026-03-30,C006,Vetri Agencies,Poonamallee,Wholesale,ITM009,External SSD,Storage,7,5745.67,0,40219.69,2010.98,42230.67,UPI
+INV1123,2026-05-27,C007,Prime Tech Solutions,Guindy,Corporate,ITM004,Printer,Electronics,7,9314.0,8,59982.16,7197.86,67180.02,Credit
+INV1124,2026-04-09,C003,Metro Office Mart,Chennai,Corporate,ITM008,UPS,Electronics,1,3762.65,5,3574.52,428.94,4003.46,Bank
+INV1125,2026-04-23,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM009,External SSD,Storage,8,4924.64,0,39397.12,4727.65,44124.77,UPI
+INV1126,2026-01-20,C008,Bright Retail Hub,Anna Nagar,Retail,ITM005,Office Chair,Furniture,6,6579.19,2,38685.64,6963.42,45649.06,Bank
+INV1127,2026-03-26,C007,Prime Tech Solutions,Guindy,Corporate,ITM006,Desk,Furniture,8,8711.51,0,69692.08,12544.57,82236.65,Bank
+INV1128,2026-03-02,C005,Delta Distributors,Redhills,Wholesale,ITM004,Printer,Electronics,2,10512.29,0,21024.58,3784.42,24809.0,Bank
+INV1129,2026-04-24,C003,Metro Office Mart,Chennai,Corporate,ITM005,Office Chair,Furniture,1,5398.1,10,4858.29,242.91,5101.2,Cash
+INV1130,2026-04-02,C006,Vetri Agencies,Poonamallee,Wholesale,ITM007,Router,Networking,3,2081.66,2,6120.08,1101.61,7221.69,UPI
+INV1131,2026-02-13,C003,Metro Office Mart,Chennai,Corporate,ITM002,Monitor,Electronics,7,12271.67,0,85901.69,10308.2,96209.89,UPI
+INV1132,2026-03-01,C008,Bright Retail Hub,Anna Nagar,Retail,ITM005,Office Chair,Furniture,8,5826.4,0,46611.2,5593.34,52204.54,Cash
+INV1133,2026-06-23,C003,Metro Office Mart,Chennai,Corporate,ITM002,Monitor,Electronics,8,13091.99,5,99499.12,11939.89,111439.01,Credit
+INV1134,2026-06-26,C005,Delta Distributors,Redhills,Wholesale,ITM008,UPS,Electronics,5,3874.01,2,18982.65,2277.92,21260.57,Bank
+INV1135,2026-03-02,C007,Prime Tech Solutions,Guindy,Corporate,ITM010,Barcode Scanner,POS,6,7477.07,8,41273.43,4952.81,46226.24,Bank
+INV1136,2026-06-18,C007,Prime Tech Solutions,Guindy,Corporate,ITM005,Office Chair,Furniture,1,6461.89,8,5944.94,1070.09,7015.03,Bank
+INV1137,2026-06-05,C008,Bright Retail Hub,Anna Nagar,Retail,ITM005,Office Chair,Furniture,4,6546.05,0,26184.2,1309.21,27493.41,UPI
+INV1138,2026-06-08,C005,Delta Distributors,Redhills,Wholesale,ITM003,Keyboard,Accessories,2,1042.84,8,1918.83,95.94,2014.77,Cash
+INV1139,2026-04-23,C001,Arun Traders,Chennai,Retail,ITM010,Barcode Scanner,POS,6,7793.11,0,46758.66,5611.04,52369.7,Cash
+INV1140,2026-04-17,C003,Metro Office Mart,Chennai,Corporate,ITM004,Printer,Electronics,3,11594.59,0,34783.77,6261.08,41044.85,Cash
+INV1141,2026-02-12,C005,Delta Distributors,Redhills,Wholesale,ITM008,UPS,Electronics,5,4709.25,0,23546.25,1177.31,24723.56,Credit
+INV1142,2026-01-20,C003,Metro Office Mart,Chennai,Corporate,ITM004,Printer,Electronics,7,12149.52,10,76541.98,13777.56,90319.54,Cash
+INV1143,2026-01-24,C007,Prime Tech Solutions,Guindy,Corporate,ITM001,Laptop,Electronics,5,52136.51,2,255468.9,30656.27,286125.17,Cash
+INV1144,2026-05-30,C007,Prime Tech Solutions,Guindy,Corporate,ITM006,Desk,Furniture,2,8240.16,2,16150.71,807.54,16958.25,Cash
+INV1145,2026-06-06,C004,Greenline Enterprises,Avadi,Corporate,ITM002,Monitor,Electronics,8,13001.66,0,104013.28,18722.39,122735.67,Credit
+INV1146,2026-01-30,C003,Metro Office Mart,Chennai,Corporate,ITM001,Laptop,Electronics,1,50761.84,2,49746.6,2487.33,52233.93,Bank
+INV1147,2026-03-02,C003,Metro Office Mart,Chennai,Corporate,ITM007,Router,Networking,8,2209.24,8,16260.01,2926.8,19186.81,Credit
+INV1148,2026-05-31,C003,Metro Office Mart,Chennai,Corporate,ITM007,Router,Networking,2,2674.7,5,5081.93,609.83,5691.76,Cash
+INV1149,2026-01-09,C006,Vetri Agencies,Poonamallee,Wholesale,ITM004,Printer,Electronics,8,10545.22,0,84361.76,10123.41,94485.17,Bank
+INV1150,2026-06-25,C006,Vetri Agencies,Poonamallee,Wholesale,ITM009,External SSD,Storage,6,5008.99,0,30053.94,1502.7,31556.64,Bank
+INV1151,2026-04-27,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM004,Printer,Electronics,1,9335.28,0,9335.28,466.76,9802.04,UPI
+INV1152,2026-05-25,C004,Greenline Enterprises,Avadi,Corporate,ITM002,Monitor,Electronics,4,12187.69,10,43875.68,2193.78,46069.46,Cash
+INV1153,2026-02-07,C001,Arun Traders,Chennai,Retail,ITM005,Office Chair,Furniture,3,7324.48,5,20874.77,2504.97,23379.74,UPI
+INV1154,2026-01-29,C001,Arun Traders,Chennai,Retail,ITM003,Keyboard,Accessories,1,844.4,10,759.96,38.0,797.96,Cash
+INV1155,2026-01-05,C003,Metro Office Mart,Chennai,Corporate,ITM005,Office Chair,Furniture,1,5563.35,2,5452.08,981.37,6433.45,Bank
+INV1156,2026-01-17,C008,Bright Retail Hub,Anna Nagar,Retail,ITM008,UPS,Electronics,6,4353.2,0,26119.2,3134.3,29253.5,UPI
+INV1157,2026-06-07,C001,Arun Traders,Chennai,Retail,ITM009,External SSD,Storage,5,5750.71,0,28753.55,1437.68,30191.23,Credit
+INV1158,2026-04-13,C007,Prime Tech Solutions,Guindy,Corporate,ITM002,Monitor,Electronics,8,12505.25,2,98041.16,4902.06,102943.22,Bank
+INV1159,2026-03-24,C003,Metro Office Mart,Chennai,Corporate,ITM002,Monitor,Electronics,3,11403.04,8,31472.39,5665.03,37137.42,Cash
+INV1160,2026-04-08,C005,Delta Distributors,Redhills,Wholesale,ITM008,UPS,Electronics,7,3721.35,8,23965.49,1198.27,25163.76,UPI
+INV1161,2026-04-21,C008,Bright Retail Hub,Anna Nagar,Retail,ITM004,Printer,Electronics,7,10220.52,2,70112.77,8413.53,78526.3,Credit
+INV1162,2026-01-25,C006,Vetri Agencies,Poonamallee,Wholesale,ITM007,Router,Networking,6,2505.1,0,15030.6,751.53,15782.13,Credit
+INV1163,2026-01-18,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM002,Monitor,Electronics,2,11798.33,8,21708.93,3907.61,25616.54,Cash
+INV1164,2026-02-03,C001,Arun Traders,Chennai,Retail,ITM010,Barcode Scanner,POS,6,7668.05,2,45088.13,5410.58,50498.71,Credit
+INV1165,2026-01-14,C005,Delta Distributors,Redhills,Wholesale,ITM010,Barcode Scanner,POS,5,7029.4,5,33389.65,6010.14,39399.79,UPI
+INV1166,2026-02-09,C008,Bright Retail Hub,Anna Nagar,Retail,ITM004,Printer,Electronics,2,10254.85,5,19484.22,2338.11,21822.33,Bank
+INV1167,2026-03-13,C004,Greenline Enterprises,Avadi,Corporate,ITM007,Router,Networking,1,2448.65,8,2252.76,405.5,2658.26,Cash
+INV1168,2026-01-08,C003,Metro Office Mart,Chennai,Corporate,ITM005,Office Chair,Furniture,5,7189.47,0,35947.35,1797.37,37744.72,UPI
+INV1169,2026-02-06,C007,Prime Tech Solutions,Guindy,Corporate,ITM002,Monitor,Electronics,3,12577.24,0,37731.72,1886.59,39618.31,UPI
+INV1170,2026-04-07,C007,Prime Tech Solutions,Guindy,Corporate,ITM008,UPS,Electronics,6,3810.21,0,22861.26,4115.03,26976.29,Cash
+INV1171,2026-05-26,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM001,Laptop,Electronics,3,49891.87,5,142191.83,7109.59,149301.42,Bank
+INV1172,2026-03-11,C008,Bright Retail Hub,Anna Nagar,Retail,ITM007,Router,Networking,8,2446.72,2,19182.28,2301.87,21484.15,UPI
+INV1173,2026-05-12,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM006,Desk,Furniture,7,6894.58,8,44401.1,7992.2,52393.3,Credit
+INV1174,2026-05-15,C005,Delta Distributors,Redhills,Wholesale,ITM001,Laptop,Electronics,4,51299.96,5,194939.85,9746.99,204686.84,Bank
+INV1175,2026-02-22,C005,Delta Distributors,Redhills,Wholesale,ITM004,Printer,Electronics,3,11525.97,0,34577.91,4149.35,38727.26,Bank
+INV1176,2026-01-02,C008,Bright Retail Hub,Anna Nagar,Retail,ITM007,Router,Networking,3,1965.96,5,5602.99,1008.54,6611.53,UPI
+INV1177,2026-05-09,C006,Vetri Agencies,Poonamallee,Wholesale,ITM002,Monitor,Electronics,7,12881.65,0,90171.55,10820.59,100992.14,Bank
+INV1178,2026-04-28,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM006,Desk,Furniture,7,7998.13,8,51507.96,9271.43,60779.39,Credit
+INV1179,2026-03-16,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM007,Router,Networking,1,2808.0,0,2808.0,505.44,3313.44,Credit
+INV1180,2026-06-26,C006,Vetri Agencies,Poonamallee,Wholesale,ITM002,Monitor,Electronics,7,12838.1,0,89866.7,10784.0,100650.7,Credit
+INV1181,2026-05-15,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM007,Router,Networking,5,2586.28,0,12931.4,1551.77,14483.17,UPI
+INV1182,2026-01-20,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM009,External SSD,Storage,4,6586.45,0,26345.8,3161.5,29507.3,UPI
+INV1183,2026-03-02,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM003,Keyboard,Accessories,5,785.81,5,3732.6,186.63,3919.23,Bank
+INV1184,2026-02-15,C008,Bright Retail Hub,Anna Nagar,Retail,ITM008,UPS,Electronics,8,4609.41,5,35031.52,6305.67,41337.19,Cash
+INV1185,2026-06-10,C006,Vetri Agencies,Poonamallee,Wholesale,ITM003,Keyboard,Accessories,8,738.86,2,5792.66,1042.68,6835.34,Cash
+INV1186,2026-03-12,C001,Arun Traders,Chennai,Retail,ITM006,Desk,Furniture,2,7370.63,2,14446.43,722.32,15168.75,Bank
+INV1187,2026-04-05,C005,Delta Distributors,Redhills,Wholesale,ITM002,Monitor,Electronics,2,12259.82,5,23293.66,2795.24,26088.9,Credit
+INV1188,2026-05-29,C001,Arun Traders,Chennai,Retail,ITM008,UPS,Electronics,4,4060.65,2,15917.75,2865.19,18782.94,UPI
+INV1189,2026-01-16,C008,Bright Retail Hub,Anna Nagar,Retail,ITM002,Monitor,Electronics,6,13185.61,0,79113.66,14240.46,93354.12,UPI
+INV1190,2026-01-11,C004,Greenline Enterprises,Avadi,Corporate,ITM008,UPS,Electronics,8,4369.73,5,33209.95,1660.5,34870.45,Cash
+INV1191,2026-04-06,C005,Delta Distributors,Redhills,Wholesale,ITM007,Router,Networking,7,2615.11,8,16841.31,3031.44,19872.75,Bank
+INV1192,2026-06-11,C006,Vetri Agencies,Poonamallee,Wholesale,ITM002,Monitor,Electronics,6,10948.15,8,60433.79,7252.05,67685.84,Cash
+INV1193,2026-03-06,C003,Metro Office Mart,Chennai,Corporate,ITM006,Desk,Furniture,2,8020.42,0,16040.84,1924.9,17965.74,Cash
+INV1194,2026-06-17,C007,Prime Tech Solutions,Guindy,Corporate,ITM003,Keyboard,Accessories,2,826.69,2,1620.31,291.66,1911.97,Cash
+INV1195,2026-02-02,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM007,Router,Networking,6,1854.34,0,11126.04,556.3,11682.34,UPI
+INV1196,2026-03-29,C008,Bright Retail Hub,Anna Nagar,Retail,ITM004,Printer,Electronics,4,12249.93,0,48999.72,2449.99,51449.71,Cash
+INV1197,2026-01-26,C001,Arun Traders,Chennai,Retail,ITM006,Desk,Furniture,3,8055.03,0,24165.09,1208.25,25373.34,UPI
+INV1198,2026-06-27,C003,Metro Office Mart,Chennai,Corporate,ITM008,UPS,Electronics,1,4196.97,8,3861.21,695.02,4556.23,UPI
+INV1199,2026-04-24,C005,Delta Distributors,Redhills,Wholesale,ITM008,UPS,Electronics,4,4384.9,0,17539.6,2104.75,19644.35,UPI
+INV1200,2026-04-05,C008,Bright Retail Hub,Anna Nagar,Retail,ITM008,UPS,Electronics,5,4757.42,5,22597.74,4067.59,26665.33,Credit
+INV1201,2026-02-11,C004,Greenline Enterprises,Avadi,Corporate,ITM010,Barcode Scanner,POS,3,8075.24,0,24225.72,4360.63,28586.35,Credit
+INV1202,2026-04-06,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM009,External SSD,Storage,2,5427.93,10,9770.27,488.51,10258.78,Cash
+INV1203,2026-04-26,C003,Metro Office Mart,Chennai,Corporate,ITM007,Router,Networking,2,2788.09,0,5576.18,669.14,6245.32,Cash
+INV1204,2026-01-07,C007,Prime Tech Solutions,Guindy,Corporate,ITM001,Laptop,Electronics,7,51931.88,0,363523.16,43622.78,407145.94,Bank
+INV1205,2026-04-06,C004,Greenline Enterprises,Avadi,Corporate,ITM001,Laptop,Electronics,6,54470.49,10,294140.65,52945.32,347085.97,Cash
+INV1206,2026-02-07,C003,Metro Office Mart,Chennai,Corporate,ITM001,Laptop,Electronics,5,54390.99,2,266515.85,47972.85,314488.7,UPI
+INV1207,2026-06-30,C008,Bright Retail Hub,Anna Nagar,Retail,ITM008,UPS,Electronics,1,4952.34,0,4952.34,594.28,5546.62,UPI
+INV1208,2026-02-08,C007,Prime Tech Solutions,Guindy,Corporate,ITM002,Monitor,Electronics,5,11308.85,0,56544.25,2827.21,59371.46,UPI
+INV1209,2026-04-18,C008,Bright Retail Hub,Anna Nagar,Retail,ITM002,Monitor,Electronics,2,12818.45,2,25124.16,4522.35,29646.51,Bank
+INV1210,2026-06-11,C004,Greenline Enterprises,Avadi,Corporate,ITM003,Keyboard,Accessories,5,870.24,5,4133.64,496.04,4629.68,UPI
+INV1211,2026-05-27,C007,Prime Tech Solutions,Guindy,Corporate,ITM003,Keyboard,Accessories,2,904.55,0,1809.1,90.45,1899.55,Bank
+INV1212,2026-04-10,C008,Bright Retail Hub,Anna Nagar,Retail,ITM001,Laptop,Electronics,7,54767.75,0,383374.25,69007.36,452381.61,Bank
+INV1213,2026-04-02,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM006,Desk,Furniture,4,8378.8,8,30833.98,1541.7,32375.68,Cash
+INV1214,2026-02-04,C001,Arun Traders,Chennai,Retail,ITM006,Desk,Furniture,6,8571.03,0,51426.18,9256.71,60682.89,Credit
+INV1215,2026-06-28,C008,Bright Retail Hub,Anna Nagar,Retail,ITM003,Keyboard,Accessories,3,736.97,10,1989.82,238.78,2228.6,Bank
+INV1216,2026-03-17,C004,Greenline Enterprises,Avadi,Corporate,ITM001,Laptop,Electronics,4,54203.88,0,216815.52,26017.86,242833.38,Credit
+INV1217,2026-05-20,C008,Bright Retail Hub,Anna Nagar,Retail,ITM005,Office Chair,Furniture,1,6845.23,0,6845.23,821.43,7666.66,Cash
+INV1218,2026-01-13,C006,Vetri Agencies,Poonamallee,Wholesale,ITM005,Office Chair,Furniture,2,6939.45,2,13601.32,1632.16,15233.48,Credit
+INV1219,2026-04-09,C006,Vetri Agencies,Poonamallee,Wholesale,ITM003,Keyboard,Accessories,8,965.91,0,7727.28,1390.91,9118.19,Cash
+INV1220,2026-01-22,C007,Prime Tech Solutions,Guindy,Corporate,ITM002,Monitor,Electronics,7,12228.18,10,77037.53,3851.88,80889.41,Cash
+INV1221,2026-03-24,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM002,Monitor,Electronics,6,12375.52,0,74253.12,8910.37,83163.49,Credit
+INV1222,2026-02-12,C008,Bright Retail Hub,Anna Nagar,Retail,ITM006,Desk,Furniture,8,6731.06,10,48463.63,5815.64,54279.27,Credit
+INV1223,2026-03-12,C001,Arun Traders,Chennai,Retail,ITM002,Monitor,Electronics,7,11625.54,10,73240.9,13183.36,86424.26,UPI
+INV1224,2026-01-08,C003,Metro Office Mart,Chennai,Corporate,ITM010,Barcode Scanner,POS,8,6393.81,0,51150.48,2557.52,53708.0,Cash
+INV1225,2026-04-03,C007,Prime Tech Solutions,Guindy,Corporate,ITM010,Barcode Scanner,POS,1,7537.82,8,6934.79,832.17,7766.96,Cash
+INV1226,2026-04-06,C008,Bright Retail Hub,Anna Nagar,Retail,ITM002,Monitor,Electronics,3,12044.24,2,35410.07,4249.21,39659.28,Cash
+INV1227,2026-03-05,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM001,Laptop,Electronics,3,51914.34,2,152628.16,27473.07,180101.23,Bank
+INV1228,2026-03-09,C005,Delta Distributors,Redhills,Wholesale,ITM008,UPS,Electronics,4,5090.45,0,20361.8,3665.12,24026.92,Credit
+INV1229,2026-02-21,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM003,Keyboard,Accessories,2,878.54,8,1616.51,193.98,1810.49,Bank
+INV1230,2026-06-24,C006,Vetri Agencies,Poonamallee,Wholesale,ITM006,Desk,Furniture,2,7942.29,0,15884.58,1906.15,17790.73,UPI
+INV1231,2026-06-29,C003,Metro Office Mart,Chennai,Corporate,ITM006,Desk,Furniture,4,6919.57,0,27678.28,1383.91,29062.19,UPI
+INV1232,2026-05-07,C001,Arun Traders,Chennai,Retail,ITM006,Desk,Furniture,6,7745.23,5,44147.81,2207.39,46355.2,Bank
+INV1233,2026-01-17,C005,Delta Distributors,Redhills,Wholesale,ITM007,Router,Networking,8,2364.85,10,17026.92,2043.23,19070.15,Bank
+INV1234,2026-02-02,C006,Vetri Agencies,Poonamallee,Wholesale,ITM002,Monitor,Electronics,8,11883.9,5,90317.64,10838.12,101155.76,UPI
+INV1235,2026-05-22,C003,Metro Office Mart,Chennai,Corporate,ITM003,Keyboard,Accessories,7,897.04,10,5651.35,282.57,5933.92,Bank
+INV1236,2026-05-13,C003,Metro Office Mart,Chennai,Corporate,ITM005,Office Chair,Furniture,3,5635.38,8,15553.65,777.68,16331.33,Cash
+INV1237,2026-05-13,C005,Delta Distributors,Redhills,Wholesale,ITM002,Monitor,Electronics,5,11204.68,5,53222.23,6386.67,59608.9,UPI
+INV1238,2026-06-10,C005,Delta Distributors,Redhills,Wholesale,ITM010,Barcode Scanner,POS,2,7332.16,0,14664.32,2639.58,17303.9,UPI
+INV1239,2026-02-13,C006,Vetri Agencies,Poonamallee,Wholesale,ITM010,Barcode Scanner,POS,1,7979.42,0,7979.42,398.97,8378.39,Bank
+INV1240,2026-06-14,C005,Delta Distributors,Redhills,Wholesale,ITM004,Printer,Electronics,7,11077.59,0,77543.13,9305.18,86848.31,Cash
+INV1241,2026-06-14,C005,Delta Distributors,Redhills,Wholesale,ITM008,UPS,Electronics,4,4797.95,8,17656.46,2118.78,19775.24,Cash
+INV1242,2026-04-27,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM001,Laptop,Electronics,3,51562.46,2,151593.63,18191.24,169784.87,UPI
+INV1243,2026-03-29,C003,Metro Office Mart,Chennai,Corporate,ITM006,Desk,Furniture,6,8381.8,10,45261.72,5431.41,50693.13,Credit
+INV1244,2026-02-03,C006,Vetri Agencies,Poonamallee,Wholesale,ITM009,External SSD,Storage,2,5491.47,2,10763.28,538.16,11301.44,Cash
+INV1245,2026-04-26,C004,Greenline Enterprises,Avadi,Corporate,ITM003,Keyboard,Accessories,2,732.42,2,1435.54,258.4,1693.94,Credit
+INV1246,2026-03-05,C003,Metro Office Mart,Chennai,Corporate,ITM006,Desk,Furniture,6,7082.94,0,42497.64,5099.72,47597.36,Credit
+INV1247,2026-05-08,C005,Delta Distributors,Redhills,Wholesale,ITM008,UPS,Electronics,1,3707.41,2,3633.26,653.99,4287.25,Credit
+INV1248,2026-03-03,C004,Greenline Enterprises,Avadi,Corporate,ITM010,Barcode Scanner,POS,6,6421.61,0,38529.66,4623.56,43153.22,Credit
+INV1249,2026-03-15,C001,Arun Traders,Chennai,Retail,ITM002,Monitor,Electronics,7,11047.52,0,77332.64,13919.88,91252.52,Cash
+INV1250,2026-04-14,C006,Vetri Agencies,Poonamallee,Wholesale,ITM001,Laptop,Electronics,7,49262.85,5,327597.95,16379.9,343977.85,Cash
+INV1251,2026-05-22,C005,Delta Distributors,Redhills,Wholesale,ITM002,Monitor,Electronics,7,11980.72,10,75478.54,13586.14,89064.68,Cash
+INV1252,2026-06-09,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM003,Keyboard,Accessories,2,857.38,10,1543.28,185.19,1728.47,Cash
+INV1253,2026-02-06,C004,Greenline Enterprises,Avadi,Corporate,ITM010,Barcode Scanner,POS,7,7327.16,0,51290.12,2564.51,53854.63,UPI
+INV1254,2026-03-27,C008,Bright Retail Hub,Anna Nagar,Retail,ITM009,External SSD,Storage,8,5173.92,5,39321.79,1966.09,41287.88,Cash
+INV1255,2026-06-06,C006,Vetri Agencies,Poonamallee,Wholesale,ITM003,Keyboard,Accessories,7,1074.58,8,6920.3,830.44,7750.74,Cash
+INV1256,2026-05-10,C008,Bright Retail Hub,Anna Nagar,Retail,ITM010,Barcode Scanner,POS,5,7276.63,0,36383.15,4365.98,40749.13,Cash
+INV1257,2026-06-22,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM007,Router,Networking,5,2637.54,8,12132.68,2183.88,14316.56,Bank
+INV1258,2026-06-02,C008,Bright Retail Hub,Anna Nagar,Retail,ITM005,Office Chair,Furniture,4,6779.98,5,25763.92,3091.67,28855.59,UPI
+INV1259,2026-05-15,C007,Prime Tech Solutions,Guindy,Corporate,ITM003,Keyboard,Accessories,4,725.49,8,2669.8,133.49,2803.29,UPI
+INV1260,2026-01-05,C008,Bright Retail Hub,Anna Nagar,Retail,ITM006,Desk,Furniture,7,6991.31,8,45024.04,2251.2,47275.24,Credit
+INV1261,2026-05-09,C008,Bright Retail Hub,Anna Nagar,Retail,ITM001,Laptop,Electronics,3,52030.6,5,148287.21,17794.47,166081.68,Credit
+INV1262,2026-05-15,C007,Prime Tech Solutions,Guindy,Corporate,ITM006,Desk,Furniture,3,7726.76,5,22021.27,2642.55,24663.82,Cash
+INV1263,2026-06-23,C005,Delta Distributors,Redhills,Wholesale,ITM010,Barcode Scanner,POS,8,6709.68,0,53677.44,6441.29,60118.73,Cash
+INV1264,2026-02-27,C005,Delta Distributors,Redhills,Wholesale,ITM005,Office Chair,Furniture,4,6716.23,2,26327.62,3159.31,29486.93,Credit
+INV1265,2026-03-31,C005,Delta Distributors,Redhills,Wholesale,ITM005,Office Chair,Furniture,2,6477.33,5,12306.93,1476.83,13783.76,Credit
+INV1266,2026-03-30,C003,Metro Office Mart,Chennai,Corporate,ITM005,Office Chair,Furniture,1,5892.49,8,5421.09,271.05,5692.14,Cash
+INV1267,2026-04-24,C005,Delta Distributors,Redhills,Wholesale,ITM008,UPS,Electronics,4,3878.36,5,14737.77,1768.53,16506.3,Cash
+INV1268,2026-02-05,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM010,Barcode Scanner,POS,4,6810.37,8,25062.16,4511.19,29573.35,UPI
+INV1269,2026-06-13,C004,Greenline Enterprises,Avadi,Corporate,ITM001,Laptop,Electronics,2,51406.74,8,94588.4,11350.61,105939.01,Bank
+INV1270,2026-06-24,C003,Metro Office Mart,Chennai,Corporate,ITM001,Laptop,Electronics,3,51368.89,2,151024.54,18122.94,169147.48,UPI
+INV1271,2026-03-15,C006,Vetri Agencies,Poonamallee,Wholesale,ITM005,Office Chair,Furniture,1,7161.64,0,7161.64,1289.1,8450.74,UPI
+INV1272,2026-05-17,C001,Arun Traders,Chennai,Retail,ITM003,Keyboard,Accessories,7,1035.14,0,7245.98,362.3,7608.28,Credit
+INV1273,2026-05-07,C003,Metro Office Mart,Chennai,Corporate,ITM005,Office Chair,Furniture,1,5322.96,5,5056.81,910.23,5967.04,Bank
+INV1274,2026-03-27,C005,Delta Distributors,Redhills,Wholesale,ITM008,UPS,Electronics,8,4927.01,0,39416.08,7094.89,46510.97,Credit
+INV1275,2026-03-11,C004,Greenline Enterprises,Avadi,Corporate,ITM002,Monitor,Electronics,6,11119.49,2,65382.6,11768.87,77151.47,Cash
+INV1276,2026-02-17,C001,Arun Traders,Chennai,Retail,ITM006,Desk,Furniture,5,7984.73,10,35931.28,1796.56,37727.84,UPI
+INV1277,2026-06-06,C007,Prime Tech Solutions,Guindy,Corporate,ITM007,Router,Networking,6,1923.26,8,10616.4,530.82,11147.22,UPI
+INV1278,2026-02-05,C008,Bright Retail Hub,Anna Nagar,Retail,ITM006,Desk,Furniture,4,6646.3,2,26053.5,1302.68,27356.18,Credit
+INV1279,2026-03-10,C006,Vetri Agencies,Poonamallee,Wholesale,ITM005,Office Chair,Furniture,1,5839.14,0,5839.14,1051.05,6890.19,UPI
+INV1280,2026-01-16,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM008,UPS,Electronics,5,3813.73,8,17543.16,3157.77,20700.93,Cash
+INV1281,2026-06-26,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM005,Office Chair,Furniture,6,6561.52,0,39369.12,1968.46,41337.58,Credit
+INV1282,2026-02-09,C008,Bright Retail Hub,Anna Nagar,Retail,ITM010,Barcode Scanner,POS,6,7158.19,5,40801.68,4896.2,45697.88,UPI
+INV1283,2026-03-05,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM009,External SSD,Storage,8,5881.57,0,47052.56,2352.63,49405.19,Bank
+INV1284,2026-01-16,C004,Greenline Enterprises,Avadi,Corporate,ITM010,Barcode Scanner,POS,3,6654.06,10,17965.96,3233.87,21199.83,Credit
+INV1285,2026-01-30,C004,Greenline Enterprises,Avadi,Corporate,ITM010,Barcode Scanner,POS,8,6506.43,5,49448.87,5933.86,55382.73,Bank
+INV1286,2026-04-27,C003,Metro Office Mart,Chennai,Corporate,ITM009,External SSD,Storage,7,5748.39,0,40238.73,7242.97,47481.7,Credit
+INV1287,2026-06-22,C005,Delta Distributors,Redhills,Wholesale,ITM001,Laptop,Electronics,7,50466.39,0,353264.73,63587.65,416852.38,UPI
+INV1288,2026-05-29,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM001,Laptop,Electronics,7,50999.61,0,356997.27,64259.51,421256.78,Bank
+INV1289,2026-01-18,C008,Bright Retail Hub,Anna Nagar,Retail,ITM001,Laptop,Electronics,5,51380.49,10,231212.2,11560.61,242772.81,Credit
+INV1290,2026-04-06,C007,Prime Tech Solutions,Guindy,Corporate,ITM008,UPS,Electronics,7,4143.24,8,26682.47,4802.84,31485.31,UPI
+INV1291,2026-06-17,C006,Vetri Agencies,Poonamallee,Wholesale,ITM002,Monitor,Electronics,3,13211.97,2,38843.19,6991.77,45834.96,UPI
+INV1292,2026-02-27,C001,Arun Traders,Chennai,Retail,ITM001,Laptop,Electronics,5,51700.98,8,237824.51,42808.41,280632.92,Credit
+INV1293,2026-05-17,C007,Prime Tech Solutions,Guindy,Corporate,ITM004,Printer,Electronics,4,10594.12,0,42376.48,5085.18,47461.66,UPI
+INV1294,2026-01-29,C001,Arun Traders,Chennai,Retail,ITM007,Router,Networking,1,2078.11,0,2078.11,103.91,2182.02,Bank
+INV1295,2026-04-25,C001,Arun Traders,Chennai,Retail,ITM004,Printer,Electronics,1,10414.95,0,10414.95,1874.69,12289.64,UPI
+INV1296,2026-01-15,C003,Metro Office Mart,Chennai,Corporate,ITM009,External SSD,Storage,5,5332.95,8,24531.57,4415.68,28947.25,Cash
+INV1297,2026-05-28,C006,Vetri Agencies,Poonamallee,Wholesale,ITM004,Printer,Electronics,5,11870.11,8,54602.51,9828.45,64430.96,UPI
+INV1298,2026-04-16,C005,Delta Distributors,Redhills,Wholesale,ITM005,Office Chair,Furniture,1,6443.05,5,6120.9,1101.76,7222.66,UPI
+INV1299,2026-06-10,C007,Prime Tech Solutions,Guindy,Corporate,ITM009,External SSD,Storage,8,4983.49,0,39867.92,7176.23,47044.15,Credit
+INV1300,2026-05-15,C006,Vetri Agencies,Poonamallee,Wholesale,ITM007,Router,Networking,7,1986.11,2,13624.71,681.24,14305.95,Credit
+INV1301,2026-03-03,C004,Greenline Enterprises,Avadi,Corporate,ITM005,Office Chair,Furniture,3,6952.62,0,20857.86,3754.41,24612.27,Credit
+INV1302,2026-04-17,C003,Metro Office Mart,Chennai,Corporate,ITM007,Router,Networking,4,2092.53,0,8370.12,1506.62,9876.74,Bank
+INV1303,2026-04-26,C006,Vetri Agencies,Poonamallee,Wholesale,ITM002,Monitor,Electronics,4,10839.87,2,42492.29,7648.61,50140.9,Bank
+INV1304,2026-01-19,C004,Greenline Enterprises,Avadi,Corporate,ITM010,Barcode Scanner,POS,4,7285.66,10,26228.38,3147.41,29375.79,Cash
+INV1305,2026-01-04,C004,Greenline Enterprises,Avadi,Corporate,ITM004,Printer,Electronics,2,11472.92,10,20651.26,2478.15,23129.41,UPI
+INV1306,2026-06-28,C004,Greenline Enterprises,Avadi,Corporate,ITM007,Router,Networking,4,2391.39,10,8609.0,1033.08,9642.08,Credit
+INV1307,2026-04-30,C006,Vetri Agencies,Poonamallee,Wholesale,ITM005,Office Chair,Furniture,5,6039.83,2,29595.17,3551.42,33146.59,Bank
+INV1308,2026-05-01,C006,Vetri Agencies,Poonamallee,Wholesale,ITM004,Printer,Electronics,6,10140.67,0,60844.02,10951.92,71795.94,UPI
+INV1309,2026-02-07,C001,Arun Traders,Chennai,Retail,ITM005,Office Chair,Furniture,7,5907.96,0,41355.72,4962.69,46318.41,UPI
+INV1310,2026-04-08,C004,Greenline Enterprises,Avadi,Corporate,ITM008,UPS,Electronics,6,3962.68,10,21398.47,2567.82,23966.29,Credit
+INV1311,2026-04-28,C003,Metro Office Mart,Chennai,Corporate,ITM006,Desk,Furniture,3,6963.94,5,19847.23,2381.67,22228.9,UPI
+INV1312,2026-05-19,C001,Arun Traders,Chennai,Retail,ITM009,External SSD,Storage,1,6461.7,0,6461.7,1163.11,7624.81,Bank
+INV1313,2026-01-02,C007,Prime Tech Solutions,Guindy,Corporate,ITM003,Keyboard,Accessories,4,738.74,0,2954.96,147.75,3102.71,UPI
+INV1314,2026-05-10,C008,Bright Retail Hub,Anna Nagar,Retail,ITM006,Desk,Furniture,1,8104.15,8,7455.82,1342.05,8797.87,Credit
+INV1315,2026-06-18,C008,Bright Retail Hub,Anna Nagar,Retail,ITM001,Laptop,Electronics,1,52110.7,2,51068.49,2553.42,53621.91,Bank
+INV1316,2026-05-16,C005,Delta Distributors,Redhills,Wholesale,ITM009,External SSD,Storage,5,4927.99,10,22175.95,3991.67,26167.62,Credit
+INV1317,2026-02-15,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM002,Monitor,Electronics,3,11317.24,5,32254.13,5805.74,38059.87,Cash
+INV1318,2026-04-01,C005,Delta Distributors,Redhills,Wholesale,ITM007,Router,Networking,2,2211.29,2,4334.13,520.1,4854.23,UPI
+INV1319,2026-06-28,C004,Greenline Enterprises,Avadi,Corporate,ITM005,Office Chair,Furniture,2,6641.54,10,11954.77,2151.86,14106.63,Bank
+INV1320,2026-01-24,C007,Prime Tech Solutions,Guindy,Corporate,ITM007,Router,Networking,7,2392.02,0,16744.14,3013.95,19758.09,Bank
+INV1321,2026-06-29,C003,Metro Office Mart,Chennai,Corporate,ITM002,Monitor,Electronics,8,12840.23,8,94504.09,11340.49,105844.58,Bank
+INV1322,2026-05-16,C001,Arun Traders,Chennai,Retail,ITM004,Printer,Electronics,4,11946.91,8,43964.63,7913.63,51878.26,Credit
+INV1323,2026-03-11,C001,Arun Traders,Chennai,Retail,ITM002,Monitor,Electronics,5,12976.27,5,61637.28,11094.71,72731.99,Bank
+INV1324,2026-02-15,C006,Vetri Agencies,Poonamallee,Wholesale,ITM001,Laptop,Electronics,4,52435.25,10,188766.9,33978.04,222744.94,Credit
+INV1325,2026-01-20,C005,Delta Distributors,Redhills,Wholesale,ITM003,Keyboard,Accessories,4,920.28,10,3313.01,397.56,3710.57,Cash
+INV1326,2026-04-09,C003,Metro Office Mart,Chennai,Corporate,ITM002,Monitor,Electronics,6,10845.32,2,63770.48,3188.52,66959.0,Bank
+INV1327,2026-03-29,C007,Prime Tech Solutions,Guindy,Corporate,ITM006,Desk,Furniture,1,8143.02,10,7328.72,879.45,8208.17,Credit
+INV1328,2026-02-28,C006,Vetri Agencies,Poonamallee,Wholesale,ITM009,External SSD,Storage,7,5701.83,8,36719.79,6609.56,43329.35,Credit
+INV1329,2026-01-22,C005,Delta Distributors,Redhills,Wholesale,ITM004,Printer,Electronics,2,9431.86,0,18863.72,2263.65,21127.37,UPI
+INV1330,2026-04-10,C006,Vetri Agencies,Poonamallee,Wholesale,ITM006,Desk,Furniture,2,6848.37,0,13696.74,1643.61,15340.35,Cash
+INV1331,2026-03-11,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM003,Keyboard,Accessories,2,782.21,2,1533.13,275.96,1809.09,Credit
+INV1332,2026-01-27,C001,Arun Traders,Chennai,Retail,ITM002,Monitor,Electronics,6,12106.63,5,69007.79,12421.4,81429.19,Cash
+INV1333,2026-04-09,C001,Arun Traders,Chennai,Retail,ITM005,Office Chair,Furniture,7,6097.44,0,42682.08,7682.77,50364.85,UPI
+INV1334,2026-05-27,C003,Metro Office Mart,Chennai,Corporate,ITM007,Router,Networking,3,1975.67,0,5927.01,711.24,6638.25,Credit
+INV1335,2026-02-07,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM003,Keyboard,Accessories,7,814.45,0,5701.15,684.14,6385.29,Bank
+INV1336,2026-04-03,C005,Delta Distributors,Redhills,Wholesale,ITM004,Printer,Electronics,8,11002.99,0,88023.92,10562.87,98586.79,Bank
+INV1337,2026-02-04,C005,Delta Distributors,Redhills,Wholesale,ITM001,Laptop,Electronics,7,50926.73,5,338662.75,40639.53,379302.28,Cash
+INV1338,2026-04-23,C006,Vetri Agencies,Poonamallee,Wholesale,ITM007,Router,Networking,3,2138.24,5,6093.98,1096.92,7190.9,UPI
+INV1339,2026-05-03,C006,Vetri Agencies,Poonamallee,Wholesale,ITM003,Keyboard,Accessories,7,1066.62,0,7466.34,1343.94,8810.28,Credit
+INV1340,2026-05-28,C004,Greenline Enterprises,Avadi,Corporate,ITM006,Desk,Furniture,7,7298.8,10,45982.44,5517.89,51500.33,Cash
+INV1341,2026-01-30,C004,Greenline Enterprises,Avadi,Corporate,ITM010,Barcode Scanner,POS,3,7691.52,5,21920.83,1096.04,23016.87,Credit
+INV1342,2026-02-23,C008,Bright Retail Hub,Anna Nagar,Retail,ITM005,Office Chair,Furniture,2,6979.6,10,12563.28,1507.59,14070.87,Credit
+INV1343,2026-02-05,C005,Delta Distributors,Redhills,Wholesale,ITM004,Printer,Electronics,5,11202.1,8,51529.66,6183.56,57713.22,Credit
+INV1344,2026-01-19,C008,Bright Retail Hub,Anna Nagar,Retail,ITM010,Barcode Scanner,POS,8,7491.98,5,56939.05,10249.03,67188.08,Credit
+INV1345,2026-05-20,C001,Arun Traders,Chennai,Retail,ITM006,Desk,Furniture,2,6890.96,0,13781.92,2480.75,16262.67,Cash
+INV1346,2026-02-12,C001,Arun Traders,Chennai,Retail,ITM010,Barcode Scanner,POS,7,8263.42,0,57843.94,6941.27,64785.21,Bank
+INV1347,2026-01-03,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM005,Office Chair,Furniture,4,6348.84,5,24125.59,4342.61,28468.2,UPI
+INV1348,2026-04-25,C006,Vetri Agencies,Poonamallee,Wholesale,ITM007,Router,Networking,8,2612.98,5,19858.65,3574.56,23433.21,UPI
+INV1349,2026-03-30,C001,Arun Traders,Chennai,Retail,ITM008,UPS,Electronics,2,4020.83,0,8041.66,402.08,8443.74,UPI
+INV1350,2026-03-31,C005,Delta Distributors,Redhills,Wholesale,ITM006,Desk,Furniture,8,8501.27,5,64609.65,7753.16,72362.81,Cash
+INV1351,2026-05-02,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM008,UPS,Electronics,8,4056.66,0,32453.28,1622.66,34075.94,Bank
+INV1352,2026-01-06,C006,Vetri Agencies,Poonamallee,Wholesale,ITM002,Monitor,Electronics,3,13053.4,8,36027.38,1801.37,37828.75,UPI
+INV1353,2026-05-22,C003,Metro Office Mart,Chennai,Corporate,ITM006,Desk,Furniture,7,8916.89,0,62418.23,7490.19,69908.42,UPI
+INV1354,2026-02-17,C007,Prime Tech Solutions,Guindy,Corporate,ITM007,Router,Networking,1,2577.81,0,2577.81,309.34,2887.15,Credit
+INV1355,2026-04-10,C001,Arun Traders,Chennai,Retail,ITM004,Printer,Electronics,4,10034.52,8,36927.03,1846.35,38773.38,Bank
+INV1356,2026-05-18,C003,Metro Office Mart,Chennai,Corporate,ITM006,Desk,Furniture,6,7100.22,0,42601.32,5112.16,47713.48,Credit
+INV1357,2026-05-16,C006,Vetri Agencies,Poonamallee,Wholesale,ITM010,Barcode Scanner,POS,7,7550.28,5,50209.36,2510.47,52719.83,Cash
+INV1358,2026-04-01,C008,Bright Retail Hub,Anna Nagar,Retail,ITM010,Barcode Scanner,POS,3,7956.36,8,21959.55,2635.15,24594.7,Bank
+INV1359,2026-06-22,C003,Metro Office Mart,Chennai,Corporate,ITM006,Desk,Furniture,2,7199.23,0,14398.46,719.92,15118.38,Cash
+INV1360,2026-06-27,C003,Metro Office Mart,Chennai,Corporate,ITM009,External SSD,Storage,7,5676.43,0,39735.01,7152.3,46887.31,Credit
+INV1361,2026-04-19,C003,Metro Office Mart,Chennai,Corporate,ITM008,UPS,Electronics,3,4416.8,2,12985.39,1558.25,14543.64,UPI
+INV1362,2026-02-17,C006,Vetri Agencies,Poonamallee,Wholesale,ITM008,UPS,Electronics,1,4890.79,0,4890.79,586.89,5477.68,UPI
+INV1363,2026-02-19,C007,Prime Tech Solutions,Guindy,Corporate,ITM009,External SSD,Storage,8,5659.44,2,44370.01,5324.4,49694.41,Credit
+INV1364,2026-05-06,C003,Metro Office Mart,Chennai,Corporate,ITM002,Monitor,Electronics,1,12715.62,0,12715.62,1525.87,14241.49,Bank
+INV1365,2026-03-12,C004,Greenline Enterprises,Avadi,Corporate,ITM009,External SSD,Storage,5,5209.88,2,25528.41,4595.11,30123.52,Credit
+INV1366,2026-05-21,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM010,Barcode Scanner,POS,2,6861.39,5,13036.64,1564.4,14601.04,Bank
+INV1367,2026-04-23,C004,Greenline Enterprises,Avadi,Corporate,ITM007,Router,Networking,2,2576.4,8,4740.58,237.03,4977.61,Cash
+INV1368,2026-01-09,C008,Bright Retail Hub,Anna Nagar,Retail,ITM005,Office Chair,Furniture,6,7068.06,0,42408.36,5089.0,47497.36,Bank
+INV1369,2026-03-02,C004,Greenline Enterprises,Avadi,Corporate,ITM010,Barcode Scanner,POS,6,8051.26,5,45892.18,8260.59,54152.77,Credit
+INV1370,2026-02-12,C003,Metro Office Mart,Chennai,Corporate,ITM004,Printer,Electronics,4,11652.7,5,44280.26,5313.63,49593.89,Cash
+INV1371,2026-06-02,C003,Metro Office Mart,Chennai,Corporate,ITM006,Desk,Furniture,5,7320.35,0,36601.75,6588.31,43190.06,Bank
+INV1372,2026-02-04,C007,Prime Tech Solutions,Guindy,Corporate,ITM001,Laptop,Electronics,5,54092.92,0,270464.6,48683.63,319148.23,UPI
+INV1373,2026-03-05,C003,Metro Office Mart,Chennai,Corporate,ITM006,Desk,Furniture,4,8446.88,8,31084.52,3730.14,34814.66,Credit
+INV1374,2026-02-06,C005,Delta Distributors,Redhills,Wholesale,ITM007,Router,Networking,7,2290.7,8,14752.11,737.61,15489.72,Credit
+INV1375,2026-05-12,C005,Delta Distributors,Redhills,Wholesale,ITM006,Desk,Furniture,8,8897.31,0,71178.48,12812.13,83990.61,Bank
+INV1376,2026-01-24,C008,Bright Retail Hub,Anna Nagar,Retail,ITM006,Desk,Furniture,2,8528.49,2,16715.84,835.79,17551.63,Credit
+INV1377,2026-02-24,C008,Bright Retail Hub,Anna Nagar,Retail,ITM005,Office Chair,Furniture,6,6998.79,0,41992.74,7558.69,49551.43,UPI
+INV1378,2026-05-25,C008,Bright Retail Hub,Anna Nagar,Retail,ITM006,Desk,Furniture,1,6739.62,8,6200.45,744.05,6944.5,Bank
+INV1379,2026-02-01,C003,Metro Office Mart,Chennai,Corporate,ITM008,UPS,Electronics,8,3571.03,2,27996.88,1399.84,29396.72,UPI
+INV1380,2026-06-16,C005,Delta Distributors,Redhills,Wholesale,ITM003,Keyboard,Accessories,5,747.98,0,3739.9,448.79,4188.69,Bank
+INV1381,2026-04-06,C003,Metro Office Mart,Chennai,Corporate,ITM001,Laptop,Electronics,7,52663.58,8,339153.46,61047.62,400201.08,UPI
+INV1382,2026-04-20,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM002,Monitor,Electronics,1,11247.82,0,11247.82,562.39,11810.21,UPI
+INV1383,2026-05-13,C008,Bright Retail Hub,Anna Nagar,Retail,ITM001,Laptop,Electronics,1,53077.93,10,47770.14,2388.51,50158.65,Credit
+INV1384,2026-06-27,C003,Metro Office Mart,Chennai,Corporate,ITM008,UPS,Electronics,2,3919.37,0,7838.74,1410.97,9249.71,Bank
+INV1385,2026-01-27,C006,Vetri Agencies,Poonamallee,Wholesale,ITM006,Desk,Furniture,5,6957.19,10,31307.35,1565.37,32872.72,UPI
+INV1386,2026-01-18,C001,Arun Traders,Chennai,Retail,ITM010,Barcode Scanner,POS,3,7206.84,8,19890.88,994.54,20885.42,UPI
+INV1387,2026-04-16,C008,Bright Retail Hub,Anna Nagar,Retail,ITM004,Printer,Electronics,2,11932.54,0,23865.08,1193.25,25058.33,Credit
+INV1388,2026-03-31,C007,Prime Tech Solutions,Guindy,Corporate,ITM006,Desk,Furniture,3,7221.22,8,19930.57,996.53,20927.1,UPI
+INV1389,2026-05-22,C005,Delta Distributors,Redhills,Wholesale,ITM001,Laptop,Electronics,5,50176.24,5,238337.14,42900.69,281237.83,UPI
+INV1390,2026-04-11,C005,Delta Distributors,Redhills,Wholesale,ITM001,Laptop,Electronics,4,51889.74,0,207558.96,10377.95,217936.91,Credit
+INV1391,2026-06-13,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM009,External SSD,Storage,1,6737.52,0,6737.52,336.88,7074.4,Credit
+INV1392,2026-05-26,C007,Prime Tech Solutions,Guindy,Corporate,ITM006,Desk,Furniture,3,8449.86,10,22814.62,1140.73,23955.35,Bank
+INV1393,2026-05-31,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM001,Laptop,Electronics,5,50237.2,0,251186.0,30142.32,281328.32,Cash
+INV1394,2026-06-10,C007,Prime Tech Solutions,Guindy,Corporate,ITM007,Router,Networking,7,1918.92,5,12760.82,2296.95,15057.77,UPI
+INV1395,2026-03-13,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM005,Office Chair,Furniture,2,6350.13,0,12700.26,635.01,13335.27,Cash
+INV1396,2026-04-11,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM005,Office Chair,Furniture,7,6797.49,10,42824.19,2141.21,44965.4,Bank
+INV1397,2026-03-04,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM007,Router,Networking,2,2292.09,5,4354.97,217.75,4572.72,Cash
+INV1398,2026-06-20,C003,Metro Office Mart,Chennai,Corporate,ITM002,Monitor,Electronics,1,12493.91,8,11494.4,574.72,12069.12,UPI
+INV1399,2026-05-08,C006,Vetri Agencies,Poonamallee,Wholesale,ITM009,External SSD,Storage,5,5207.55,0,26037.75,4686.8,30724.55,Cash
+INV1400,2026-01-31,C001,Arun Traders,Chennai,Retail,ITM006,Desk,Furniture,7,7278.95,0,50952.65,6114.32,57066.97,Bank
+INV1401,2026-05-08,C008,Bright Retail Hub,Anna Nagar,Retail,ITM009,External SSD,Storage,6,4999.45,10,26997.03,4859.47,31856.5,UPI
+INV1402,2026-04-05,C003,Metro Office Mart,Chennai,Corporate,ITM005,Office Chair,Furniture,2,7133.67,8,13125.95,2362.67,15488.62,Bank
+INV1403,2026-02-28,C001,Arun Traders,Chennai,Retail,ITM001,Laptop,Electronics,1,50407.74,2,49399.59,5927.95,55327.54,Credit
+INV1404,2026-02-08,C003,Metro Office Mart,Chennai,Corporate,ITM001,Laptop,Electronics,7,50289.13,0,352023.91,42242.87,394266.78,Cash
+INV1405,2026-03-11,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM010,Barcode Scanner,POS,6,6563.52,8,36230.63,1811.53,38042.16,UPI
+INV1406,2026-02-27,C001,Arun Traders,Chennai,Retail,ITM007,Router,Networking,2,2718.25,10,4892.85,587.14,5479.99,Cash
+INV1407,2026-03-25,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM009,External SSD,Storage,8,4910.87,0,39286.96,4714.44,44001.4,Cash
+INV1408,2026-06-09,C004,Greenline Enterprises,Avadi,Corporate,ITM008,UPS,Electronics,6,4472.92,2,26300.77,1315.04,27615.81,UPI
+INV1409,2026-02-08,C001,Arun Traders,Chennai,Retail,ITM007,Router,Networking,1,2070.4,0,2070.4,372.67,2443.07,Bank
+INV1410,2026-03-27,C001,Arun Traders,Chennai,Retail,ITM007,Router,Networking,5,1940.57,5,9217.71,460.89,9678.6,Credit
+INV1411,2026-05-06,C001,Arun Traders,Chennai,Retail,ITM003,Keyboard,Accessories,5,747.86,0,3739.3,673.07,4412.37,Credit
+INV1412,2026-06-29,C006,Vetri Agencies,Poonamallee,Wholesale,ITM008,UPS,Electronics,2,4456.26,5,8466.89,423.34,8890.23,Credit
+INV1413,2026-01-20,C001,Arun Traders,Chennai,Retail,ITM007,Router,Networking,3,2074.19,0,6222.57,746.71,6969.28,Credit
+INV1414,2026-06-29,C006,Vetri Agencies,Poonamallee,Wholesale,ITM006,Desk,Furniture,8,7278.89,0,58231.12,2911.56,61142.68,UPI
+INV1415,2026-05-30,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM003,Keyboard,Accessories,2,773.83,2,1516.71,182.01,1698.72,Credit
+INV1416,2026-01-31,C006,Vetri Agencies,Poonamallee,Wholesale,ITM004,Printer,Electronics,8,10126.5,0,81012.0,4050.6,85062.6,Bank
+INV1417,2026-02-10,C005,Delta Distributors,Redhills,Wholesale,ITM010,Barcode Scanner,POS,1,6755.33,10,6079.8,729.58,6809.38,UPI
+INV1418,2026-01-24,C004,Greenline Enterprises,Avadi,Corporate,ITM006,Desk,Furniture,7,7855.11,8,50586.91,6070.43,56657.34,Cash
+INV1419,2026-02-14,C001,Arun Traders,Chennai,Retail,ITM007,Router,Networking,8,2395.29,5,18204.2,910.21,19114.41,Bank
+INV1420,2026-04-29,C002,Sri Lakshmi Stores,Ambattur,Retail,ITM003,Keyboard,Accessories,2,718.35,10,1293.03,64.65,1357.68,UPI
+INV-DUP-001,2026-05-31,C004,Greenline Enterprises,Avadi,Corporate,ITM001,Laptop,Electronics,2,53150.42,0,106300.84,5315.04,111615.88,Bank
+INV-DUP-002,2026-05-31,C004,Greenline Enterprises,Avadi,Corporate,ITM001,Laptop,Electronics,2,53150.42,0,106300.84,5315.04,111615.88,Bank
+INV-FRAUD-001,2026-05-18,C004,Greenline Enterprises,Avadi,Corporate,ITM009,External SSD,Storage,25,125000,0,3125000,562500,3687500,Cash
+INV-FRAUD-002,2026-03-26,C008,Bright Retail Hub,Anna Nagar,Retail,ITM007,Router,Networking,1,2044.08,48,1062.92,191.33,1254.25,Bank
+INV-FRAUD-003,2026-05-26,C001,Arun Traders,Chennai,Retail,ITM010,Barcode Scanner,POS,2,1,0,2.0,0.36,2.36,UPI

@@ -1,0 +1,1936 @@
+voucher_no,date,ledger_account,entry_type,amount,narration
+INV1001,2026-06-13,Sales,Credit,252048.8,Sales - Laptop
+INV1001,2026-06-13,Bank,Debit,297417.58,Sri Lakshmi Stores
+INV1001,2026-06-13,Output GST,Credit,45368.78,GST on sales
+INV1002,2026-06-23,Sales,Credit,44714.32,Sales - Barcode Scanner
+INV1002,2026-06-23,UPI,Debit,46950.04,Sri Lakshmi Stores
+INV1002,2026-06-23,Output GST,Credit,2235.72,GST on sales
+INV1003,2026-05-10,Sales,Credit,22934.09,Sales - External SSD
+INV1003,2026-05-10,Customer Receivable,Debit,27062.23,Arun Traders
+INV1003,2026-05-10,Output GST,Credit,4128.14,GST on sales
+INV1004,2026-02-26,Sales,Credit,39738.6,Sales - Barcode Scanner
+INV1004,2026-02-26,Customer Receivable,Debit,41725.53,Bright Retail Hub
+INV1004,2026-02-26,Output GST,Credit,1986.93,GST on sales
+INV1005,2026-03-29,Sales,Credit,4249.72,Sales - Keyboard
+INV1005,2026-03-29,Bank,Debit,4462.21,Delta Distributors
+INV1005,2026-03-29,Output GST,Credit,212.49,GST on sales
+INV1006,2026-04-08,Sales,Credit,43580.65,Sales - Desk
+INV1006,2026-04-08,Customer Receivable,Debit,45759.68,Sri Lakshmi Stores
+INV1006,2026-04-08,Output GST,Credit,2179.03,GST on sales
+INV1007,2026-05-18,Sales,Credit,4304.43,Sales - Router
+INV1007,2026-05-18,Cash,Debit,5079.23,Sri Lakshmi Stores
+INV1007,2026-05-18,Output GST,Credit,774.8,GST on sales
+INV1008,2026-05-28,Sales,Credit,11138.74,Sales - Monitor
+INV1008,2026-05-28,Bank,Debit,12475.39,Greenline Enterprises
+INV1008,2026-05-28,Output GST,Credit,1336.65,GST on sales
+INV1009,2026-03-01,Sales,Credit,10314.59,Sales - Router
+INV1009,2026-03-01,UPI,Debit,11552.34,Sri Lakshmi Stores
+INV1009,2026-03-01,Output GST,Credit,1237.75,GST on sales
+INV1010,2026-04-05,Sales,Credit,52139.11,Sales - Printer
+INV1010,2026-04-05,Bank,Debit,61524.15,Vetri Agencies
+INV1010,2026-04-05,Output GST,Credit,9385.04,GST on sales
+INV1011,2026-06-05,Sales,Credit,20387.57,Sales - External SSD
+INV1011,2026-06-05,UPI,Debit,22834.08,Metro Office Mart
+INV1011,2026-06-05,Output GST,Credit,2446.51,GST on sales
+INV1012,2026-06-25,Sales,Credit,193770.25,Sales - Laptop
+INV1012,2026-06-25,Customer Receivable,Debit,217022.68,Vetri Agencies
+INV1012,2026-06-25,Output GST,Credit,23252.43,GST on sales
+INV1013,2026-03-10,Sales,Credit,57816.63,Sales - Printer
+INV1013,2026-03-10,Customer Receivable,Debit,64754.63,Sri Lakshmi Stores
+INV1013,2026-03-10,Output GST,Credit,6938.0,GST on sales
+INV1014,2026-02-06,Sales,Credit,3743.68,Sales - Keyboard
+INV1014,2026-02-06,Customer Receivable,Debit,4192.92,Delta Distributors
+INV1014,2026-02-06,Output GST,Credit,449.24,GST on sales
+INV1015,2026-05-30,Sales,Credit,36038.48,Sales - Desk
+INV1015,2026-05-30,Customer Receivable,Debit,42525.41,Prime Tech Solutions
+INV1015,2026-05-30,Output GST,Credit,6486.93,GST on sales
+INV1016,2026-01-24,Sales,Credit,33186.13,Sales - Monitor
+INV1016,2026-01-24,Customer Receivable,Debit,39159.63,Arun Traders
+INV1016,2026-01-24,Output GST,Credit,5973.5,GST on sales
+INV1017,2026-06-02,Sales,Credit,16707.26,Sales - Router
+INV1017,2026-06-02,Cash,Debit,19714.57,Sri Lakshmi Stores
+INV1017,2026-06-02,Output GST,Credit,3007.31,GST on sales
+INV1018,2026-05-22,Sales,Credit,63234.35,Sales - Monitor
+INV1018,2026-05-22,Cash,Debit,66396.07,Arun Traders
+INV1018,2026-05-22,Output GST,Credit,3161.72,GST on sales
+INV1019,2026-04-22,Sales,Credit,4623.48,Sales - UPS
+INV1019,2026-04-22,UPI,Debit,5178.3,Metro Office Mart
+INV1019,2026-04-22,Output GST,Credit,554.82,GST on sales
+INV1020,2026-05-10,Sales,Credit,20220.16,Sales - Office Chair
+INV1020,2026-05-10,Bank,Debit,21231.17,Sri Lakshmi Stores
+INV1020,2026-05-10,Output GST,Credit,1011.01,GST on sales
+INV1021,2026-06-03,Sales,Credit,3740.71,Sales - UPS
+INV1021,2026-06-03,UPI,Debit,4189.6,Vetri Agencies
+INV1021,2026-06-03,Output GST,Credit,448.89,GST on sales
+INV1022,2026-01-15,Sales,Credit,12731.81,Sales - Barcode Scanner
+INV1022,2026-01-15,UPI,Debit,13368.4,Greenline Enterprises
+INV1022,2026-01-15,Output GST,Credit,636.59,GST on sales
+INV1023,2026-02-02,Sales,Credit,14554.62,Sales - External SSD
+INV1023,2026-02-02,Customer Receivable,Debit,17174.45,Bright Retail Hub
+INV1023,2026-02-02,Output GST,Credit,2619.83,GST on sales
+INV1024,2026-02-24,Sales,Credit,47270.12,Sales - Office Chair
+INV1024,2026-02-24,Customer Receivable,Debit,52942.53,Greenline Enterprises
+INV1024,2026-02-24,Output GST,Credit,5672.41,GST on sales
+INV1025,2026-05-13,Sales,Credit,45104.96,Sales - Monitor
+INV1025,2026-05-13,UPI,Debit,47360.21,Bright Retail Hub
+INV1025,2026-05-13,Output GST,Credit,2255.25,GST on sales
+INV1026,2026-05-31,Sales,Credit,106300.84,Sales - Laptop
+INV1026,2026-05-31,Bank,Debit,111615.88,Greenline Enterprises
+INV1026,2026-05-31,Output GST,Credit,5315.04,GST on sales
+INV1027,2026-01-09,Sales,Credit,44734.1,Sales - Monitor
+INV1027,2026-01-09,UPI,Debit,46970.8,Vetri Agencies
+INV1027,2026-01-09,Output GST,Credit,2236.7,GST on sales
+INV1028,2026-05-27,Sales,Credit,93272.16,Sales - Printer
+INV1028,2026-05-27,Bank,Debit,97935.77,Bright Retail Hub
+INV1028,2026-05-27,Output GST,Credit,4663.61,GST on sales
+INV1029,2026-06-18,Sales,Credit,47948.61,Sales - Desk
+INV1029,2026-06-18,Bank,Debit,56579.36,Prime Tech Solutions
+INV1029,2026-06-18,Output GST,Credit,8630.75,GST on sales
+INV1030,2026-06-22,Sales,Credit,335607.43,Sales - Laptop
+INV1030,2026-06-22,UPI,Debit,352387.8,Sri Lakshmi Stores
+INV1030,2026-06-22,Output GST,Credit,16780.37,GST on sales
+INV1031,2026-02-19,Sales,Credit,41260.64,Sales - External SSD
+INV1031,2026-02-19,Customer Receivable,Debit,46211.92,Greenline Enterprises
+INV1031,2026-02-19,Output GST,Credit,4951.28,GST on sales
+INV1032,2026-03-05,Sales,Credit,6929.68,Sales - UPS
+INV1032,2026-03-05,Bank,Debit,7276.16,Sri Lakshmi Stores
+INV1032,2026-03-05,Output GST,Credit,346.48,GST on sales
+INV1033,2026-03-02,Sales,Credit,16705.8,Sales - Router
+INV1033,2026-03-02,Bank,Debit,18710.5,Metro Office Mart
+INV1033,2026-03-02,Output GST,Credit,2004.7,GST on sales
+INV1034,2026-02-12,Sales,Credit,318339.0,Sales - Laptop
+INV1034,2026-02-12,Cash,Debit,356539.68,Prime Tech Solutions
+INV1034,2026-02-12,Output GST,Credit,38200.68,GST on sales
+INV1035,2026-04-19,Sales,Credit,3288.0,Sales - Keyboard
+INV1035,2026-04-19,Bank,Debit,3879.84,Bright Retail Hub
+INV1035,2026-04-19,Output GST,Credit,591.84,GST on sales
+INV1036,2026-03-22,Sales,Credit,373945.46,Sales - Laptop
+INV1036,2026-03-22,UPI,Debit,441255.64,Arun Traders
+INV1036,2026-03-22,Output GST,Credit,67310.18,GST on sales
+INV1037,2026-01-15,Sales,Credit,1712.29,Sales - Keyboard
+INV1037,2026-01-15,Customer Receivable,Debit,1797.9,Sri Lakshmi Stores
+INV1037,2026-01-15,Output GST,Credit,85.61,GST on sales
+INV1038,2026-01-31,Sales,Credit,7415.15,Sales - Barcode Scanner
+INV1038,2026-01-31,Cash,Debit,8749.88,Greenline Enterprises
+INV1038,2026-01-31,Output GST,Credit,1334.73,GST on sales
+INV1039,2026-03-08,Sales,Credit,29055.04,Sales - Desk
+INV1039,2026-03-08,Cash,Debit,34284.95,Greenline Enterprises
+INV1039,2026-03-08,Output GST,Credit,5229.91,GST on sales
+INV1040,2026-04-28,Sales,Credit,11271.64,Sales - Monitor
+INV1040,2026-04-28,Bank,Debit,11835.22,Vetri Agencies
+INV1040,2026-04-28,Output GST,Credit,563.58,GST on sales
+INV1041,2026-05-18,Sales,Credit,25715.8,Sales - External SSD
+INV1041,2026-05-18,UPI,Debit,27001.59,Greenline Enterprises
+INV1041,2026-05-18,Output GST,Credit,1285.79,GST on sales
+INV1042,2026-04-05,Sales,Credit,7488.65,Sales - Keyboard
+INV1042,2026-04-05,Bank,Debit,8387.29,Delta Distributors
+INV1042,2026-04-05,Output GST,Credit,898.64,GST on sales
+INV1043,2026-06-20,Sales,Credit,34129.35,Sales - Monitor
+INV1043,2026-06-20,UPI,Debit,40272.63,Delta Distributors
+INV1043,2026-06-20,Output GST,Credit,6143.28,GST on sales
+INV1044,2026-03-11,Sales,Credit,31054.12,Sales - Barcode Scanner
+INV1044,2026-03-11,Cash,Debit,36643.86,Delta Distributors
+INV1044,2026-03-11,Output GST,Credit,5589.74,GST on sales
+INV1045,2026-05-10,Sales,Credit,5382.98,Sales - Office Chair
+INV1045,2026-05-10,Bank,Debit,6028.94,Bright Retail Hub
+INV1045,2026-05-10,Output GST,Credit,645.96,GST on sales
+INV1046,2026-01-01,Sales,Credit,3786.82,Sales - Keyboard
+INV1046,2026-01-01,Customer Receivable,Debit,4468.45,Vetri Agencies
+INV1046,2026-01-01,Output GST,Credit,681.63,GST on sales
+INV1047,2026-05-24,Sales,Credit,24088.42,Sales - Monitor
+INV1047,2026-05-24,Bank,Debit,25292.84,Arun Traders
+INV1047,2026-05-24,Output GST,Credit,1204.42,GST on sales
+INV1048,2026-04-05,Sales,Credit,5634.24,Sales - Router
+INV1048,2026-04-05,Cash,Debit,5915.95,Metro Office Mart
+INV1048,2026-04-05,Output GST,Credit,281.71,GST on sales
+INV1049,2026-02-23,Sales,Credit,68449.81,Sales - Monitor
+INV1049,2026-02-23,UPI,Debit,76663.79,Greenline Enterprises
+INV1049,2026-02-23,Output GST,Credit,8213.98,GST on sales
+INV1050,2026-03-02,Sales,Credit,4656.25,Sales - Keyboard
+INV1050,2026-03-02,Customer Receivable,Debit,5215.0,Metro Office Mart
+INV1050,2026-03-02,Output GST,Credit,558.75,GST on sales
+INV1051,2026-06-21,Sales,Credit,20744.91,Sales - Office Chair
+INV1051,2026-06-21,Bank,Debit,23234.3,Greenline Enterprises
+INV1051,2026-06-21,Output GST,Credit,2489.39,GST on sales
+INV1052,2026-05-01,Sales,Credit,73824.84,Sales - Printer
+INV1052,2026-05-01,UPI,Debit,77516.08,Greenline Enterprises
+INV1052,2026-05-01,Output GST,Credit,3691.24,GST on sales
+INV1053,2026-01-07,Sales,Credit,12697.62,Sales - Router
+INV1053,2026-01-07,Cash,Debit,14221.33,Greenline Enterprises
+INV1053,2026-01-07,Output GST,Credit,1523.71,GST on sales
+INV1054,2026-06-14,Sales,Credit,39891.72,Sales - External SSD
+INV1054,2026-06-14,UPI,Debit,44678.73,Prime Tech Solutions
+INV1054,2026-06-14,Output GST,Credit,4787.01,GST on sales
+INV1055,2026-05-29,Sales,Credit,104983.4,Sales - Laptop
+INV1055,2026-05-29,Cash,Debit,123880.41,Delta Distributors
+INV1055,2026-05-29,Output GST,Credit,18897.01,GST on sales
+INV1056,2026-04-22,Sales,Credit,7699.48,Sales - Router
+INV1056,2026-04-22,Bank,Debit,8623.42,Sri Lakshmi Stores
+INV1056,2026-04-22,Output GST,Credit,923.94,GST on sales
+INV1057,2026-05-14,Sales,Credit,43772.42,Sales - Desk
+INV1057,2026-05-14,Cash,Debit,49025.11,Greenline Enterprises
+INV1057,2026-05-14,Output GST,Credit,5252.69,GST on sales
+INV1058,2026-06-19,Sales,Credit,33342.3,Sales - Office Chair
+INV1058,2026-06-19,Cash,Debit,37343.38,Sri Lakshmi Stores
+INV1058,2026-06-19,Output GST,Credit,4001.08,GST on sales
+INV1059,2026-05-22,Sales,Credit,76978.32,Sales - Printer
+INV1059,2026-05-22,UPI,Debit,90834.42,Metro Office Mart
+INV1059,2026-05-22,Output GST,Credit,13856.1,GST on sales
+INV1060,2026-06-07,Sales,Credit,2141.7,Sales - Router
+INV1060,2026-06-07,Cash,Debit,2398.7,Delta Distributors
+INV1060,2026-06-07,Output GST,Credit,257.0,GST on sales
+INV1061,2026-04-30,Sales,Credit,15660.18,Sales - UPS
+INV1061,2026-04-30,UPI,Debit,18479.01,Bright Retail Hub
+INV1061,2026-04-30,Output GST,Credit,2818.83,GST on sales
+INV1062,2026-06-18,Sales,Credit,29673.38,Sales - Office Chair
+INV1062,2026-06-18,Cash,Debit,31157.05,Sri Lakshmi Stores
+INV1062,2026-06-18,Output GST,Credit,1483.67,GST on sales
+INV1063,2026-02-27,Sales,Credit,716.2,Sales - Keyboard
+INV1063,2026-02-27,Bank,Debit,845.12,Greenline Enterprises
+INV1063,2026-02-27,Output GST,Credit,128.92,GST on sales
+INV1064,2026-04-27,Sales,Credit,30438.8,Sales - Barcode Scanner
+INV1064,2026-04-27,Customer Receivable,Debit,34091.46,Prime Tech Solutions
+INV1064,2026-04-27,Output GST,Credit,3652.66,GST on sales
+INV1065,2026-03-04,Sales,Credit,107136.5,Sales - Laptop
+INV1065,2026-03-04,Customer Receivable,Debit,112493.33,Metro Office Mart
+INV1065,2026-03-04,Output GST,Credit,5356.83,GST on sales
+INV1066,2026-01-13,Sales,Credit,86600.72,Sales - Monitor
+INV1066,2026-01-13,Cash,Debit,102188.85,Greenline Enterprises
+INV1066,2026-01-13,Output GST,Credit,15588.13,GST on sales
+INV1067,2026-04-24,Sales,Credit,48356.6,Sales - External SSD
+INV1067,2026-04-24,Customer Receivable,Debit,54159.39,Prime Tech Solutions
+INV1067,2026-04-24,Output GST,Credit,5802.79,GST on sales
+INV1068,2026-03-08,Sales,Credit,52690.64,Sales - Office Chair
+INV1068,2026-03-08,Bank,Debit,59013.52,Greenline Enterprises
+INV1068,2026-03-08,Output GST,Credit,6322.88,GST on sales
+INV1069,2026-03-15,Sales,Credit,33961.34,Sales - Office Chair
+INV1069,2026-03-15,UPI,Debit,35659.41,Greenline Enterprises
+INV1069,2026-03-15,Output GST,Credit,1698.07,GST on sales
+INV1070,2026-02-08,Sales,Credit,7639.98,Sales - Router
+INV1070,2026-02-08,Customer Receivable,Debit,8556.78,Greenline Enterprises
+INV1070,2026-02-08,Output GST,Credit,916.8,GST on sales
+INV1071,2026-03-26,Sales,Credit,2003.2,Sales - Router
+INV1071,2026-03-26,Bank,Debit,2243.58,Bright Retail Hub
+INV1071,2026-03-26,Output GST,Credit,240.38,GST on sales
+INV1072,2026-05-28,Sales,Credit,5008.62,Sales - UPS
+INV1072,2026-05-28,Customer Receivable,Debit,5609.65,Prime Tech Solutions
+INV1072,2026-05-28,Output GST,Credit,601.03,GST on sales
+INV1073,2026-05-18,Sales,Credit,15627.08,Sales - UPS
+INV1073,2026-05-18,Customer Receivable,Debit,16408.43,Greenline Enterprises
+INV1073,2026-05-18,Output GST,Credit,781.35,GST on sales
+INV1074,2026-03-28,Sales,Credit,7970.2,Sales - Keyboard
+INV1074,2026-03-28,Bank,Debit,9404.84,Prime Tech Solutions
+INV1074,2026-03-28,Output GST,Credit,1434.64,GST on sales
+INV1075,2026-04-11,Sales,Credit,75816.45,Sales - Monitor
+INV1075,2026-04-11,Bank,Debit,79607.27,Arun Traders
+INV1075,2026-04-11,Output GST,Credit,3790.82,GST on sales
+INV1076,2026-03-08,Sales,Credit,30859.64,Sales - Desk
+INV1076,2026-03-08,Cash,Debit,34562.8,Prime Tech Solutions
+INV1076,2026-03-08,Output GST,Credit,3703.16,GST on sales
+INV1077,2026-04-18,Sales,Credit,81767.26,Sales - Monitor
+INV1077,2026-04-18,Cash,Debit,85855.62,Delta Distributors
+INV1077,2026-04-18,Output GST,Credit,4088.36,GST on sales
+INV1078,2026-02-27,Sales,Credit,54581.7,Sales - Laptop
+INV1078,2026-02-27,UPI,Debit,57310.79,Sri Lakshmi Stores
+INV1078,2026-02-27,Output GST,Credit,2729.09,GST on sales
+INV1079,2026-03-03,Sales,Credit,8861.24,Sales - UPS
+INV1079,2026-03-03,Cash,Debit,9924.59,Metro Office Mart
+INV1079,2026-03-03,Output GST,Credit,1063.35,GST on sales
+INV1080,2026-04-05,Sales,Credit,15768.5,Sales - Barcode Scanner
+INV1080,2026-04-05,Bank,Debit,17660.72,Metro Office Mart
+INV1080,2026-04-05,Output GST,Credit,1892.22,GST on sales
+INV1081,2026-05-29,Sales,Credit,39384.14,Sales - Office Chair
+INV1081,2026-05-29,Bank,Debit,41353.35,Arun Traders
+INV1081,2026-05-29,Output GST,Credit,1969.21,GST on sales
+INV1082,2026-06-01,Sales,Credit,61050.51,Sales - Monitor
+INV1082,2026-06-01,Bank,Debit,64103.04,Greenline Enterprises
+INV1082,2026-06-01,Output GST,Credit,3052.53,GST on sales
+INV1083,2026-03-30,Sales,Credit,15674.44,Sales - Desk
+INV1083,2026-03-30,Customer Receivable,Debit,16458.16,Prime Tech Solutions
+INV1083,2026-03-30,Output GST,Credit,783.72,GST on sales
+INV1084,2026-05-06,Sales,Credit,13367.16,Sales - Router
+INV1084,2026-05-06,UPI,Debit,14971.22,Sri Lakshmi Stores
+INV1084,2026-05-06,Output GST,Credit,1604.06,GST on sales
+INV1085,2026-04-22,Sales,Credit,28715.13,Sales - External SSD
+INV1085,2026-04-22,Customer Receivable,Debit,32160.95,Metro Office Mart
+INV1085,2026-04-22,Output GST,Credit,3445.82,GST on sales
+INV1086,2026-04-22,Sales,Credit,34448.48,Sales - Desk
+INV1086,2026-04-22,Customer Receivable,Debit,38582.3,Delta Distributors
+INV1086,2026-04-22,Output GST,Credit,4133.82,GST on sales
+INV1087,2026-03-04,Sales,Credit,48011.84,Sales - Barcode Scanner
+INV1087,2026-03-04,UPI,Debit,53773.26,Bright Retail Hub
+INV1087,2026-03-04,Output GST,Credit,5761.42,GST on sales
+INV1088,2026-05-05,Sales,Credit,35349.74,Sales - Desk
+INV1088,2026-05-05,Cash,Debit,41712.69,Greenline Enterprises
+INV1088,2026-05-05,Output GST,Credit,6362.95,GST on sales
+INV1089,2026-05-23,Sales,Credit,18605.16,Sales - External SSD
+INV1089,2026-05-23,Customer Receivable,Debit,20837.78,Arun Traders
+INV1089,2026-05-23,Output GST,Credit,2232.62,GST on sales
+INV1090,2026-05-23,Sales,Credit,34031.28,Sales - UPS
+INV1090,2026-05-23,Cash,Debit,35732.84,Greenline Enterprises
+INV1090,2026-05-23,Output GST,Credit,1701.56,GST on sales
+INV1091,2026-02-26,Sales,Credit,56091.8,Sales - Printer
+INV1091,2026-02-26,Cash,Debit,62822.82,Prime Tech Solutions
+INV1091,2026-02-26,Output GST,Credit,6731.02,GST on sales
+INV1092,2026-04-19,Sales,Credit,58211.28,Sales - Desk
+INV1092,2026-04-19,Bank,Debit,61121.84,Vetri Agencies
+INV1092,2026-04-19,Output GST,Credit,2910.56,GST on sales
+INV1093,2026-02-19,Sales,Credit,30891.8,Sales - Monitor
+INV1093,2026-02-19,Cash,Debit,34598.82,Vetri Agencies
+INV1093,2026-02-19,Output GST,Credit,3707.02,GST on sales
+INV1094,2026-05-31,Sales,Credit,45826.16,Sales - Monitor
+INV1094,2026-05-31,Cash,Debit,48117.47,Delta Distributors
+INV1094,2026-05-31,Output GST,Credit,2291.31,GST on sales
+INV1095,2026-01-04,Sales,Credit,6932.54,Sales - Office Chair
+INV1095,2026-01-04,UPI,Debit,7764.44,Metro Office Mart
+INV1095,2026-01-04,Output GST,Credit,831.9,GST on sales
+INV1096,2026-06-13,Sales,Credit,11913.51,Sales - Monitor
+INV1096,2026-06-13,Customer Receivable,Debit,13343.13,Bright Retail Hub
+INV1096,2026-06-13,Output GST,Credit,1429.62,GST on sales
+INV1097,2026-03-29,Sales,Credit,267202.39,Sales - Laptop
+INV1097,2026-03-29,Bank,Debit,280562.51,Metro Office Mart
+INV1097,2026-03-29,Output GST,Credit,13360.12,GST on sales
+INV1098,2026-04-13,Sales,Credit,9983.11,Sales - Monitor
+INV1098,2026-04-13,Cash,Debit,11780.07,Bright Retail Hub
+INV1098,2026-04-13,Output GST,Credit,1796.96,GST on sales
+INV1099,2026-01-22,Sales,Credit,77098.9,Sales - Monitor
+INV1099,2026-01-22,UPI,Debit,90976.7,Greenline Enterprises
+INV1099,2026-01-22,Output GST,Credit,13877.8,GST on sales
+INV1100,2026-05-14,Sales,Credit,30580.58,Sales - UPS
+INV1100,2026-05-14,Cash,Debit,34250.25,Prime Tech Solutions
+INV1100,2026-05-14,Output GST,Credit,3669.67,GST on sales
+INV1101,2026-05-26,Sales,Credit,16449.74,Sales - Barcode Scanner
+INV1101,2026-05-26,UPI,Debit,19410.69,Arun Traders
+INV1101,2026-05-26,Output GST,Credit,2960.95,GST on sales
+INV1102,2026-03-09,Sales,Credit,3109.08,Sales - Keyboard
+INV1102,2026-03-09,Bank,Debit,3264.53,Sri Lakshmi Stores
+INV1102,2026-03-09,Output GST,Credit,155.45,GST on sales
+INV1103,2026-04-15,Sales,Credit,55266.16,Sales - Barcode Scanner
+INV1103,2026-04-15,Cash,Debit,61898.1,Bright Retail Hub
+INV1103,2026-04-15,Output GST,Credit,6631.94,GST on sales
+INV1104,2026-06-29,Sales,Credit,46937.74,Sales - Monitor
+INV1104,2026-06-29,UPI,Debit,55386.53,Bright Retail Hub
+INV1104,2026-06-29,Output GST,Credit,8448.79,GST on sales
+INV1105,2026-04-19,Sales,Credit,24417.96,Sales - External SSD
+INV1105,2026-04-19,Bank,Debit,25638.86,Sri Lakshmi Stores
+INV1105,2026-04-19,Output GST,Credit,1220.9,GST on sales
+INV1106,2026-01-16,Sales,Credit,30392.3,Sales - Office Chair
+INV1106,2026-01-16,Cash,Debit,35862.91,Metro Office Mart
+INV1106,2026-01-16,Output GST,Credit,5470.61,GST on sales
+INV1107,2026-06-29,Sales,Credit,47117.34,Sales - Office Chair
+INV1107,2026-06-29,Customer Receivable,Debit,49473.21,Prime Tech Solutions
+INV1107,2026-06-29,Output GST,Credit,2355.87,GST on sales
+INV1108,2026-03-24,Sales,Credit,92580.02,Sales - Laptop
+INV1108,2026-03-24,Bank,Debit,109244.42,Delta Distributors
+INV1108,2026-03-24,Output GST,Credit,16664.4,GST on sales
+INV1109,2026-06-22,Sales,Credit,7854.8,Sales - Barcode Scanner
+INV1109,2026-06-22,Customer Receivable,Debit,8797.38,Delta Distributors
+INV1109,2026-06-22,Output GST,Credit,942.58,GST on sales
+INV1110,2026-03-13,Sales,Credit,52118.03,Sales - Barcode Scanner
+INV1110,2026-03-13,Customer Receivable,Debit,54723.93,Metro Office Mart
+INV1110,2026-03-13,Output GST,Credit,2605.9,GST on sales
+INV1111,2026-03-31,Sales,Credit,44436.28,Sales - Desk
+INV1111,2026-03-31,Cash,Debit,46658.09,Prime Tech Solutions
+INV1111,2026-03-31,Output GST,Credit,2221.81,GST on sales
+INV1112,2026-04-16,Sales,Credit,46340.92,Sales - Office Chair
+INV1112,2026-04-16,Customer Receivable,Debit,48657.97,Bright Retail Hub
+INV1112,2026-04-16,Output GST,Credit,2317.05,GST on sales
+INV1113,2026-01-23,Sales,Credit,29922.37,Sales - Office Chair
+INV1113,2026-01-23,Bank,Debit,33513.05,Vetri Agencies
+INV1113,2026-01-23,Output GST,Credit,3590.68,GST on sales
+INV1114,2026-06-18,Sales,Credit,2024.71,Sales - Router
+INV1114,2026-06-18,Customer Receivable,Debit,2389.16,Bright Retail Hub
+INV1114,2026-06-18,Output GST,Credit,364.45,GST on sales
+INV1115,2026-06-10,Sales,Credit,202163.88,Sales - Laptop
+INV1115,2026-06-10,Customer Receivable,Debit,226423.55,Bright Retail Hub
+INV1115,2026-06-10,Output GST,Credit,24259.67,GST on sales
+INV1116,2026-06-28,Sales,Credit,12504.21,Sales - Monitor
+INV1116,2026-06-28,UPI,Debit,13129.42,Bright Retail Hub
+INV1116,2026-06-28,Output GST,Credit,625.21,GST on sales
+INV1117,2026-03-21,Sales,Credit,31940.56,Sales - External SSD
+INV1117,2026-03-21,Customer Receivable,Debit,33537.59,Arun Traders
+INV1117,2026-03-21,Output GST,Credit,1597.03,GST on sales
+INV1118,2026-01-31,Sales,Credit,21732.7,Sales - UPS
+INV1118,2026-01-31,Customer Receivable,Debit,24340.62,Metro Office Mart
+INV1118,2026-01-31,Output GST,Credit,2607.92,GST on sales
+INV1119,2026-05-01,Sales,Credit,11842.75,Sales - UPS
+INV1119,2026-05-01,UPI,Debit,13974.44,Greenline Enterprises
+INV1119,2026-05-01,Output GST,Credit,2131.69,GST on sales
+INV1120,2026-01-18,Sales,Credit,15822.34,Sales - Router
+INV1120,2026-01-18,Bank,Debit,17721.02,Delta Distributors
+INV1120,2026-01-18,Output GST,Credit,1898.68,GST on sales
+INV1121,2026-03-14,Sales,Credit,63188.13,Sales - Barcode Scanner
+INV1121,2026-03-14,Customer Receivable,Debit,74561.99,Delta Distributors
+INV1121,2026-03-14,Output GST,Credit,11373.86,GST on sales
+INV1122,2026-03-30,Sales,Credit,40219.69,Sales - External SSD
+INV1122,2026-03-30,UPI,Debit,42230.67,Vetri Agencies
+INV1122,2026-03-30,Output GST,Credit,2010.98,GST on sales
+INV1123,2026-05-27,Sales,Credit,59982.16,Sales - Printer
+INV1123,2026-05-27,Customer Receivable,Debit,67180.02,Prime Tech Solutions
+INV1123,2026-05-27,Output GST,Credit,7197.86,GST on sales
+INV1124,2026-04-09,Sales,Credit,3574.52,Sales - UPS
+INV1124,2026-04-09,Bank,Debit,4003.46,Metro Office Mart
+INV1124,2026-04-09,Output GST,Credit,428.94,GST on sales
+INV1125,2026-04-23,Sales,Credit,39397.12,Sales - External SSD
+INV1125,2026-04-23,UPI,Debit,44124.77,Sri Lakshmi Stores
+INV1125,2026-04-23,Output GST,Credit,4727.65,GST on sales
+INV1126,2026-01-20,Sales,Credit,38685.64,Sales - Office Chair
+INV1126,2026-01-20,Bank,Debit,45649.06,Bright Retail Hub
+INV1126,2026-01-20,Output GST,Credit,6963.42,GST on sales
+INV1127,2026-03-26,Sales,Credit,69692.08,Sales - Desk
+INV1127,2026-03-26,Bank,Debit,82236.65,Prime Tech Solutions
+INV1127,2026-03-26,Output GST,Credit,12544.57,GST on sales
+INV1128,2026-03-02,Sales,Credit,21024.58,Sales - Printer
+INV1128,2026-03-02,Bank,Debit,24809.0,Delta Distributors
+INV1128,2026-03-02,Output GST,Credit,3784.42,GST on sales
+INV1129,2026-04-24,Sales,Credit,4858.29,Sales - Office Chair
+INV1129,2026-04-24,Cash,Debit,5101.2,Metro Office Mart
+INV1129,2026-04-24,Output GST,Credit,242.91,GST on sales
+INV1130,2026-04-02,Sales,Credit,6120.08,Sales - Router
+INV1130,2026-04-02,UPI,Debit,7221.69,Vetri Agencies
+INV1130,2026-04-02,Output GST,Credit,1101.61,GST on sales
+INV1131,2026-02-13,Sales,Credit,85901.69,Sales - Monitor
+INV1131,2026-02-13,UPI,Debit,96209.89,Metro Office Mart
+INV1131,2026-02-13,Output GST,Credit,10308.2,GST on sales
+INV1132,2026-03-01,Sales,Credit,46611.2,Sales - Office Chair
+INV1132,2026-03-01,Cash,Debit,52204.54,Bright Retail Hub
+INV1132,2026-03-01,Output GST,Credit,5593.34,GST on sales
+INV1133,2026-06-23,Sales,Credit,99499.12,Sales - Monitor
+INV1133,2026-06-23,Customer Receivable,Debit,111439.01,Metro Office Mart
+INV1133,2026-06-23,Output GST,Credit,11939.89,GST on sales
+INV1134,2026-06-26,Sales,Credit,18982.65,Sales - UPS
+INV1134,2026-06-26,Bank,Debit,21260.57,Delta Distributors
+INV1134,2026-06-26,Output GST,Credit,2277.92,GST on sales
+INV1135,2026-03-02,Sales,Credit,41273.43,Sales - Barcode Scanner
+INV1135,2026-03-02,Bank,Debit,46226.24,Prime Tech Solutions
+INV1135,2026-03-02,Output GST,Credit,4952.81,GST on sales
+INV1136,2026-06-18,Sales,Credit,5944.94,Sales - Office Chair
+INV1136,2026-06-18,Bank,Debit,7015.03,Prime Tech Solutions
+INV1136,2026-06-18,Output GST,Credit,1070.09,GST on sales
+INV1137,2026-06-05,Sales,Credit,26184.2,Sales - Office Chair
+INV1137,2026-06-05,UPI,Debit,27493.41,Bright Retail Hub
+INV1137,2026-06-05,Output GST,Credit,1309.21,GST on sales
+INV1138,2026-06-08,Sales,Credit,1918.83,Sales - Keyboard
+INV1138,2026-06-08,Cash,Debit,2014.77,Delta Distributors
+INV1138,2026-06-08,Output GST,Credit,95.94,GST on sales
+INV1139,2026-04-23,Sales,Credit,46758.66,Sales - Barcode Scanner
+INV1139,2026-04-23,Cash,Debit,52369.7,Arun Traders
+INV1139,2026-04-23,Output GST,Credit,5611.04,GST on sales
+INV1140,2026-04-17,Sales,Credit,34783.77,Sales - Printer
+INV1140,2026-04-17,Cash,Debit,41044.85,Metro Office Mart
+INV1140,2026-04-17,Output GST,Credit,6261.08,GST on sales
+INV1141,2026-02-12,Sales,Credit,23546.25,Sales - UPS
+INV1141,2026-02-12,Customer Receivable,Debit,24723.56,Delta Distributors
+INV1141,2026-02-12,Output GST,Credit,1177.31,GST on sales
+INV1142,2026-01-20,Sales,Credit,76541.98,Sales - Printer
+INV1142,2026-01-20,Cash,Debit,90319.54,Metro Office Mart
+INV1142,2026-01-20,Output GST,Credit,13777.56,GST on sales
+INV1143,2026-01-24,Sales,Credit,255468.9,Sales - Laptop
+INV1143,2026-01-24,Cash,Debit,286125.17,Prime Tech Solutions
+INV1143,2026-01-24,Output GST,Credit,30656.27,GST on sales
+INV1144,2026-05-30,Sales,Credit,16150.71,Sales - Desk
+INV1144,2026-05-30,Cash,Debit,16958.25,Prime Tech Solutions
+INV1144,2026-05-30,Output GST,Credit,807.54,GST on sales
+INV1145,2026-06-06,Sales,Credit,104013.28,Sales - Monitor
+INV1145,2026-06-06,Customer Receivable,Debit,122735.67,Greenline Enterprises
+INV1145,2026-06-06,Output GST,Credit,18722.39,GST on sales
+INV1146,2026-01-30,Sales,Credit,49746.6,Sales - Laptop
+INV1146,2026-01-30,Bank,Debit,52233.93,Metro Office Mart
+INV1146,2026-01-30,Output GST,Credit,2487.33,GST on sales
+INV1147,2026-03-02,Sales,Credit,16260.01,Sales - Router
+INV1147,2026-03-02,Customer Receivable,Debit,19186.81,Metro Office Mart
+INV1147,2026-03-02,Output GST,Credit,2926.8,GST on sales
+INV1148,2026-05-31,Sales,Credit,5081.93,Sales - Router
+INV1148,2026-05-31,Cash,Debit,5691.76,Metro Office Mart
+INV1148,2026-05-31,Output GST,Credit,609.83,GST on sales
+INV1149,2026-01-09,Sales,Credit,84361.76,Sales - Printer
+INV1149,2026-01-09,Bank,Debit,94485.17,Vetri Agencies
+INV1149,2026-01-09,Output GST,Credit,10123.41,GST on sales
+INV1150,2026-06-25,Sales,Credit,30053.94,Sales - External SSD
+INV1150,2026-06-25,Bank,Debit,31556.64,Vetri Agencies
+INV1150,2026-06-25,Output GST,Credit,1502.7,GST on sales
+INV1151,2026-04-27,Sales,Credit,9335.28,Sales - Printer
+INV1151,2026-04-27,UPI,Debit,9802.04,Sri Lakshmi Stores
+INV1151,2026-04-27,Output GST,Credit,466.76,GST on sales
+INV1152,2026-05-25,Sales,Credit,43875.68,Sales - Monitor
+INV1152,2026-05-25,Cash,Debit,46069.46,Greenline Enterprises
+INV1152,2026-05-25,Output GST,Credit,2193.78,GST on sales
+INV1153,2026-02-07,Sales,Credit,20874.77,Sales - Office Chair
+INV1153,2026-02-07,UPI,Debit,23379.74,Arun Traders
+INV1153,2026-02-07,Output GST,Credit,2504.97,GST on sales
+INV1154,2026-01-29,Sales,Credit,759.96,Sales - Keyboard
+INV1154,2026-01-29,Cash,Debit,797.96,Arun Traders
+INV1154,2026-01-29,Output GST,Credit,38.0,GST on sales
+INV1155,2026-01-05,Sales,Credit,5452.08,Sales - Office Chair
+INV1155,2026-01-05,Bank,Debit,6433.45,Metro Office Mart
+INV1155,2026-01-05,Output GST,Credit,981.37,GST on sales
+INV1156,2026-01-17,Sales,Credit,26119.2,Sales - UPS
+INV1156,2026-01-17,UPI,Debit,29253.5,Bright Retail Hub
+INV1156,2026-01-17,Output GST,Credit,3134.3,GST on sales
+INV1157,2026-06-07,Sales,Credit,28753.55,Sales - External SSD
+INV1157,2026-06-07,Customer Receivable,Debit,30191.23,Arun Traders
+INV1157,2026-06-07,Output GST,Credit,1437.68,GST on sales
+INV1158,2026-04-13,Sales,Credit,98041.16,Sales - Monitor
+INV1158,2026-04-13,Bank,Debit,102943.22,Prime Tech Solutions
+INV1158,2026-04-13,Output GST,Credit,4902.06,GST on sales
+INV1159,2026-03-24,Sales,Credit,31472.39,Sales - Monitor
+INV1159,2026-03-24,Cash,Debit,37137.42,Metro Office Mart
+INV1159,2026-03-24,Output GST,Credit,5665.03,GST on sales
+INV1160,2026-04-08,Sales,Credit,23965.49,Sales - UPS
+INV1160,2026-04-08,UPI,Debit,25163.76,Delta Distributors
+INV1160,2026-04-08,Output GST,Credit,1198.27,GST on sales
+INV1161,2026-04-21,Sales,Credit,70112.77,Sales - Printer
+INV1161,2026-04-21,Customer Receivable,Debit,78526.3,Bright Retail Hub
+INV1161,2026-04-21,Output GST,Credit,8413.53,GST on sales
+INV1162,2026-01-25,Sales,Credit,15030.6,Sales - Router
+INV1162,2026-01-25,Customer Receivable,Debit,15782.13,Vetri Agencies
+INV1162,2026-01-25,Output GST,Credit,751.53,GST on sales
+INV1163,2026-01-18,Sales,Credit,21708.93,Sales - Monitor
+INV1163,2026-01-18,Cash,Debit,25616.54,Sri Lakshmi Stores
+INV1163,2026-01-18,Output GST,Credit,3907.61,GST on sales
+INV1164,2026-02-03,Sales,Credit,45088.13,Sales - Barcode Scanner
+INV1164,2026-02-03,Customer Receivable,Debit,50498.71,Arun Traders
+INV1164,2026-02-03,Output GST,Credit,5410.58,GST on sales
+INV1165,2026-01-14,Sales,Credit,33389.65,Sales - Barcode Scanner
+INV1165,2026-01-14,UPI,Debit,39399.79,Delta Distributors
+INV1165,2026-01-14,Output GST,Credit,6010.14,GST on sales
+INV1166,2026-02-09,Sales,Credit,19484.22,Sales - Printer
+INV1166,2026-02-09,Bank,Debit,21822.33,Bright Retail Hub
+INV1166,2026-02-09,Output GST,Credit,2338.11,GST on sales
+INV1167,2026-03-13,Sales,Credit,2252.76,Sales - Router
+INV1167,2026-03-13,Cash,Debit,2658.26,Greenline Enterprises
+INV1167,2026-03-13,Output GST,Credit,405.5,GST on sales
+INV1168,2026-01-08,Sales,Credit,35947.35,Sales - Office Chair
+INV1168,2026-01-08,UPI,Debit,37744.72,Metro Office Mart
+INV1168,2026-01-08,Output GST,Credit,1797.37,GST on sales
+INV1169,2026-02-06,Sales,Credit,37731.72,Sales - Monitor
+INV1169,2026-02-06,UPI,Debit,39618.31,Prime Tech Solutions
+INV1169,2026-02-06,Output GST,Credit,1886.59,GST on sales
+INV1170,2026-04-07,Sales,Credit,22861.26,Sales - UPS
+INV1170,2026-04-07,Cash,Debit,26976.29,Prime Tech Solutions
+INV1170,2026-04-07,Output GST,Credit,4115.03,GST on sales
+INV1171,2026-05-26,Sales,Credit,142191.83,Sales - Laptop
+INV1171,2026-05-26,Bank,Debit,149301.42,Sri Lakshmi Stores
+INV1171,2026-05-26,Output GST,Credit,7109.59,GST on sales
+INV1172,2026-03-11,Sales,Credit,19182.28,Sales - Router
+INV1172,2026-03-11,UPI,Debit,21484.15,Bright Retail Hub
+INV1172,2026-03-11,Output GST,Credit,2301.87,GST on sales
+INV1173,2026-05-12,Sales,Credit,44401.1,Sales - Desk
+INV1173,2026-05-12,Customer Receivable,Debit,52393.3,Sri Lakshmi Stores
+INV1173,2026-05-12,Output GST,Credit,7992.2,GST on sales
+INV1174,2026-05-15,Sales,Credit,194939.85,Sales - Laptop
+INV1174,2026-05-15,Bank,Debit,204686.84,Delta Distributors
+INV1174,2026-05-15,Output GST,Credit,9746.99,GST on sales
+INV1175,2026-02-22,Sales,Credit,34577.91,Sales - Printer
+INV1175,2026-02-22,Bank,Debit,38727.26,Delta Distributors
+INV1175,2026-02-22,Output GST,Credit,4149.35,GST on sales
+INV1176,2026-01-02,Sales,Credit,5602.99,Sales - Router
+INV1176,2026-01-02,UPI,Debit,6611.53,Bright Retail Hub
+INV1176,2026-01-02,Output GST,Credit,1008.54,GST on sales
+INV1177,2026-05-09,Sales,Credit,90171.55,Sales - Monitor
+INV1177,2026-05-09,Bank,Debit,100992.14,Vetri Agencies
+INV1177,2026-05-09,Output GST,Credit,10820.59,GST on sales
+INV1178,2026-04-28,Sales,Credit,51507.96,Sales - Desk
+INV1178,2026-04-28,Customer Receivable,Debit,60779.39,Sri Lakshmi Stores
+INV1178,2026-04-28,Output GST,Credit,9271.43,GST on sales
+INV1179,2026-03-16,Sales,Credit,2808.0,Sales - Router
+INV1179,2026-03-16,Customer Receivable,Debit,3313.44,Sri Lakshmi Stores
+INV1179,2026-03-16,Output GST,Credit,505.44,GST on sales
+INV1180,2026-06-26,Sales,Credit,89866.7,Sales - Monitor
+INV1180,2026-06-26,Customer Receivable,Debit,100650.7,Vetri Agencies
+INV1180,2026-06-26,Output GST,Credit,10784.0,GST on sales
+INV1181,2026-05-15,Sales,Credit,12931.4,Sales - Router
+INV1181,2026-05-15,UPI,Debit,14483.17,Sri Lakshmi Stores
+INV1181,2026-05-15,Output GST,Credit,1551.77,GST on sales
+INV1182,2026-01-20,Sales,Credit,26345.8,Sales - External SSD
+INV1182,2026-01-20,UPI,Debit,29507.3,Sri Lakshmi Stores
+INV1182,2026-01-20,Output GST,Credit,3161.5,GST on sales
+INV1183,2026-03-02,Sales,Credit,3732.6,Sales - Keyboard
+INV1183,2026-03-02,Bank,Debit,3919.23,Sri Lakshmi Stores
+INV1183,2026-03-02,Output GST,Credit,186.63,GST on sales
+INV1184,2026-02-15,Sales,Credit,35031.52,Sales - UPS
+INV1184,2026-02-15,Cash,Debit,41337.19,Bright Retail Hub
+INV1184,2026-02-15,Output GST,Credit,6305.67,GST on sales
+INV1185,2026-06-10,Sales,Credit,5792.66,Sales - Keyboard
+INV1185,2026-06-10,Cash,Debit,6835.34,Vetri Agencies
+INV1185,2026-06-10,Output GST,Credit,1042.68,GST on sales
+INV1186,2026-03-12,Sales,Credit,14446.43,Sales - Desk
+INV1186,2026-03-12,Bank,Debit,15168.75,Arun Traders
+INV1186,2026-03-12,Output GST,Credit,722.32,GST on sales
+INV1187,2026-04-05,Sales,Credit,23293.66,Sales - Monitor
+INV1187,2026-04-05,Customer Receivable,Debit,26088.9,Delta Distributors
+INV1187,2026-04-05,Output GST,Credit,2795.24,GST on sales
+INV1188,2026-05-29,Sales,Credit,15917.75,Sales - UPS
+INV1188,2026-05-29,UPI,Debit,18782.94,Arun Traders
+INV1188,2026-05-29,Output GST,Credit,2865.19,GST on sales
+INV1189,2026-01-16,Sales,Credit,79113.66,Sales - Monitor
+INV1189,2026-01-16,UPI,Debit,93354.12,Bright Retail Hub
+INV1189,2026-01-16,Output GST,Credit,14240.46,GST on sales
+INV1190,2026-01-11,Sales,Credit,33209.95,Sales - UPS
+INV1190,2026-01-11,Cash,Debit,34870.45,Greenline Enterprises
+INV1190,2026-01-11,Output GST,Credit,1660.5,GST on sales
+INV1191,2026-04-06,Sales,Credit,16841.31,Sales - Router
+INV1191,2026-04-06,Bank,Debit,19872.75,Delta Distributors
+INV1191,2026-04-06,Output GST,Credit,3031.44,GST on sales
+INV1192,2026-06-11,Sales,Credit,60433.79,Sales - Monitor
+INV1192,2026-06-11,Cash,Debit,67685.84,Vetri Agencies
+INV1192,2026-06-11,Output GST,Credit,7252.05,GST on sales
+INV1193,2026-03-06,Sales,Credit,16040.84,Sales - Desk
+INV1193,2026-03-06,Cash,Debit,17965.74,Metro Office Mart
+INV1193,2026-03-06,Output GST,Credit,1924.9,GST on sales
+INV1194,2026-06-17,Sales,Credit,1620.31,Sales - Keyboard
+INV1194,2026-06-17,Cash,Debit,1911.97,Prime Tech Solutions
+INV1194,2026-06-17,Output GST,Credit,291.66,GST on sales
+INV1195,2026-02-02,Sales,Credit,11126.04,Sales - Router
+INV1195,2026-02-02,UPI,Debit,11682.34,Sri Lakshmi Stores
+INV1195,2026-02-02,Output GST,Credit,556.3,GST on sales
+INV1196,2026-03-29,Sales,Credit,48999.72,Sales - Printer
+INV1196,2026-03-29,Cash,Debit,51449.71,Bright Retail Hub
+INV1196,2026-03-29,Output GST,Credit,2449.99,GST on sales
+INV1197,2026-01-26,Sales,Credit,24165.09,Sales - Desk
+INV1197,2026-01-26,UPI,Debit,25373.34,Arun Traders
+INV1197,2026-01-26,Output GST,Credit,1208.25,GST on sales
+INV1198,2026-06-27,Sales,Credit,3861.21,Sales - UPS
+INV1198,2026-06-27,UPI,Debit,4556.23,Metro Office Mart
+INV1198,2026-06-27,Output GST,Credit,695.02,GST on sales
+INV1199,2026-04-24,Sales,Credit,17539.6,Sales - UPS
+INV1199,2026-04-24,UPI,Debit,19644.35,Delta Distributors
+INV1199,2026-04-24,Output GST,Credit,2104.75,GST on sales
+INV1200,2026-04-05,Sales,Credit,22597.74,Sales - UPS
+INV1200,2026-04-05,Customer Receivable,Debit,26665.33,Bright Retail Hub
+INV1200,2026-04-05,Output GST,Credit,4067.59,GST on sales
+INV1201,2026-02-11,Sales,Credit,24225.72,Sales - Barcode Scanner
+INV1201,2026-02-11,Customer Receivable,Debit,28586.35,Greenline Enterprises
+INV1201,2026-02-11,Output GST,Credit,4360.63,GST on sales
+INV1202,2026-04-06,Sales,Credit,9770.27,Sales - External SSD
+INV1202,2026-04-06,Cash,Debit,10258.78,Sri Lakshmi Stores
+INV1202,2026-04-06,Output GST,Credit,488.51,GST on sales
+INV1203,2026-04-26,Sales,Credit,5576.18,Sales - Router
+INV1203,2026-04-26,Cash,Debit,6245.32,Metro Office Mart
+INV1203,2026-04-26,Output GST,Credit,669.14,GST on sales
+INV1204,2026-01-07,Sales,Credit,363523.16,Sales - Laptop
+INV1204,2026-01-07,Bank,Debit,407145.94,Prime Tech Solutions
+INV1204,2026-01-07,Output GST,Credit,43622.78,GST on sales
+INV1205,2026-04-06,Sales,Credit,294140.65,Sales - Laptop
+INV1205,2026-04-06,Cash,Debit,347085.97,Greenline Enterprises
+INV1205,2026-04-06,Output GST,Credit,52945.32,GST on sales
+INV1206,2026-02-07,Sales,Credit,266515.85,Sales - Laptop
+INV1206,2026-02-07,UPI,Debit,314488.7,Metro Office Mart
+INV1206,2026-02-07,Output GST,Credit,47972.85,GST on sales
+INV1207,2026-06-30,Sales,Credit,4952.34,Sales - UPS
+INV1207,2026-06-30,UPI,Debit,5546.62,Bright Retail Hub
+INV1207,2026-06-30,Output GST,Credit,594.28,GST on sales
+INV1208,2026-02-08,Sales,Credit,56544.25,Sales - Monitor
+INV1208,2026-02-08,UPI,Debit,59371.46,Prime Tech Solutions
+INV1208,2026-02-08,Output GST,Credit,2827.21,GST on sales
+INV1209,2026-04-18,Sales,Credit,25124.16,Sales - Monitor
+INV1209,2026-04-18,Bank,Debit,29646.51,Bright Retail Hub
+INV1209,2026-04-18,Output GST,Credit,4522.35,GST on sales
+INV1210,2026-06-11,Sales,Credit,4133.64,Sales - Keyboard
+INV1210,2026-06-11,UPI,Debit,4629.68,Greenline Enterprises
+INV1210,2026-06-11,Output GST,Credit,496.04,GST on sales
+INV1211,2026-05-27,Sales,Credit,1809.1,Sales - Keyboard
+INV1211,2026-05-27,Bank,Debit,1899.55,Prime Tech Solutions
+INV1211,2026-05-27,Output GST,Credit,90.45,GST on sales
+INV1212,2026-04-10,Sales,Credit,383374.25,Sales - Laptop
+INV1212,2026-04-10,Bank,Debit,452381.61,Bright Retail Hub
+INV1212,2026-04-10,Output GST,Credit,69007.36,GST on sales
+INV1213,2026-04-02,Sales,Credit,30833.98,Sales - Desk
+INV1213,2026-04-02,Cash,Debit,32375.68,Sri Lakshmi Stores
+INV1213,2026-04-02,Output GST,Credit,1541.7,GST on sales
+INV1214,2026-02-04,Sales,Credit,51426.18,Sales - Desk
+INV1214,2026-02-04,Customer Receivable,Debit,60682.89,Arun Traders
+INV1214,2026-02-04,Output GST,Credit,9256.71,GST on sales
+INV1215,2026-06-28,Sales,Credit,1989.82,Sales - Keyboard
+INV1215,2026-06-28,Bank,Debit,2228.6,Bright Retail Hub
+INV1215,2026-06-28,Output GST,Credit,238.78,GST on sales
+INV1216,2026-03-17,Sales,Credit,216815.52,Sales - Laptop
+INV1216,2026-03-17,Customer Receivable,Debit,242833.38,Greenline Enterprises
+INV1216,2026-03-17,Output GST,Credit,26017.86,GST on sales
+INV1217,2026-05-20,Sales,Credit,6845.23,Sales - Office Chair
+INV1217,2026-05-20,Cash,Debit,7666.66,Bright Retail Hub
+INV1217,2026-05-20,Output GST,Credit,821.43,GST on sales
+INV1218,2026-01-13,Sales,Credit,13601.32,Sales - Office Chair
+INV1218,2026-01-13,Customer Receivable,Debit,15233.48,Vetri Agencies
+INV1218,2026-01-13,Output GST,Credit,1632.16,GST on sales
+INV1219,2026-04-09,Sales,Credit,7727.28,Sales - Keyboard
+INV1219,2026-04-09,Cash,Debit,9118.19,Vetri Agencies
+INV1219,2026-04-09,Output GST,Credit,1390.91,GST on sales
+INV1220,2026-01-22,Sales,Credit,77037.53,Sales - Monitor
+INV1220,2026-01-22,Cash,Debit,80889.41,Prime Tech Solutions
+INV1220,2026-01-22,Output GST,Credit,3851.88,GST on sales
+INV1221,2026-03-24,Sales,Credit,74253.12,Sales - Monitor
+INV1221,2026-03-24,Customer Receivable,Debit,83163.49,Sri Lakshmi Stores
+INV1221,2026-03-24,Output GST,Credit,8910.37,GST on sales
+INV1222,2026-02-12,Sales,Credit,48463.63,Sales - Desk
+INV1222,2026-02-12,Customer Receivable,Debit,54279.27,Bright Retail Hub
+INV1222,2026-02-12,Output GST,Credit,5815.64,GST on sales
+INV1223,2026-03-12,Sales,Credit,73240.9,Sales - Monitor
+INV1223,2026-03-12,UPI,Debit,86424.26,Arun Traders
+INV1223,2026-03-12,Output GST,Credit,13183.36,GST on sales
+INV1224,2026-01-08,Sales,Credit,51150.48,Sales - Barcode Scanner
+INV1224,2026-01-08,Cash,Debit,53708.0,Metro Office Mart
+INV1224,2026-01-08,Output GST,Credit,2557.52,GST on sales
+INV1225,2026-04-03,Sales,Credit,6934.79,Sales - Barcode Scanner
+INV1225,2026-04-03,Cash,Debit,7766.96,Prime Tech Solutions
+INV1225,2026-04-03,Output GST,Credit,832.17,GST on sales
+INV1226,2026-04-06,Sales,Credit,35410.07,Sales - Monitor
+INV1226,2026-04-06,Cash,Debit,39659.28,Bright Retail Hub
+INV1226,2026-04-06,Output GST,Credit,4249.21,GST on sales
+INV1227,2026-03-05,Sales,Credit,152628.16,Sales - Laptop
+INV1227,2026-03-05,Bank,Debit,180101.23,Sri Lakshmi Stores
+INV1227,2026-03-05,Output GST,Credit,27473.07,GST on sales
+INV1228,2026-03-09,Sales,Credit,20361.8,Sales - UPS
+INV1228,2026-03-09,Customer Receivable,Debit,24026.92,Delta Distributors
+INV1228,2026-03-09,Output GST,Credit,3665.12,GST on sales
+INV1229,2026-02-21,Sales,Credit,1616.51,Sales - Keyboard
+INV1229,2026-02-21,Bank,Debit,1810.49,Sri Lakshmi Stores
+INV1229,2026-02-21,Output GST,Credit,193.98,GST on sales
+INV1230,2026-06-24,Sales,Credit,15884.58,Sales - Desk
+INV1230,2026-06-24,UPI,Debit,17790.73,Vetri Agencies
+INV1230,2026-06-24,Output GST,Credit,1906.15,GST on sales
+INV1231,2026-06-29,Sales,Credit,27678.28,Sales - Desk
+INV1231,2026-06-29,UPI,Debit,29062.19,Metro Office Mart
+INV1231,2026-06-29,Output GST,Credit,1383.91,GST on sales
+INV1232,2026-05-07,Sales,Credit,44147.81,Sales - Desk
+INV1232,2026-05-07,Bank,Debit,46355.2,Arun Traders
+INV1232,2026-05-07,Output GST,Credit,2207.39,GST on sales
+INV1233,2026-01-17,Sales,Credit,17026.92,Sales - Router
+INV1233,2026-01-17,Bank,Debit,19070.15,Delta Distributors
+INV1233,2026-01-17,Output GST,Credit,2043.23,GST on sales
+INV1234,2026-02-02,Sales,Credit,90317.64,Sales - Monitor
+INV1234,2026-02-02,UPI,Debit,101155.76,Vetri Agencies
+INV1234,2026-02-02,Output GST,Credit,10838.12,GST on sales
+INV1235,2026-05-22,Sales,Credit,5651.35,Sales - Keyboard
+INV1235,2026-05-22,Bank,Debit,5933.92,Metro Office Mart
+INV1235,2026-05-22,Output GST,Credit,282.57,GST on sales
+INV1236,2026-05-13,Sales,Credit,15553.65,Sales - Office Chair
+INV1236,2026-05-13,Cash,Debit,16331.33,Metro Office Mart
+INV1236,2026-05-13,Output GST,Credit,777.68,GST on sales
+INV1237,2026-05-13,Sales,Credit,53222.23,Sales - Monitor
+INV1237,2026-05-13,UPI,Debit,59608.9,Delta Distributors
+INV1237,2026-05-13,Output GST,Credit,6386.67,GST on sales
+INV1238,2026-06-10,Sales,Credit,14664.32,Sales - Barcode Scanner
+INV1238,2026-06-10,UPI,Debit,17303.9,Delta Distributors
+INV1238,2026-06-10,Output GST,Credit,2639.58,GST on sales
+INV1239,2026-02-13,Sales,Credit,7979.42,Sales - Barcode Scanner
+INV1239,2026-02-13,Bank,Debit,8378.39,Vetri Agencies
+INV1239,2026-02-13,Output GST,Credit,398.97,GST on sales
+INV1240,2026-06-14,Sales,Credit,77543.13,Sales - Printer
+INV1240,2026-06-14,Cash,Debit,86848.31,Delta Distributors
+INV1240,2026-06-14,Output GST,Credit,9305.18,GST on sales
+INV1241,2026-06-14,Sales,Credit,17656.46,Sales - UPS
+INV1241,2026-06-14,Cash,Debit,19775.24,Delta Distributors
+INV1241,2026-06-14,Output GST,Credit,2118.78,GST on sales
+INV1242,2026-04-27,Sales,Credit,151593.63,Sales - Laptop
+INV1242,2026-04-27,UPI,Debit,169784.87,Sri Lakshmi Stores
+INV1242,2026-04-27,Output GST,Credit,18191.24,GST on sales
+INV1243,2026-03-29,Sales,Credit,45261.72,Sales - Desk
+INV1243,2026-03-29,Customer Receivable,Debit,50693.13,Metro Office Mart
+INV1243,2026-03-29,Output GST,Credit,5431.41,GST on sales
+INV1244,2026-02-03,Sales,Credit,10763.28,Sales - External SSD
+INV1244,2026-02-03,Cash,Debit,11301.44,Vetri Agencies
+INV1244,2026-02-03,Output GST,Credit,538.16,GST on sales
+INV1245,2026-04-26,Sales,Credit,1435.54,Sales - Keyboard
+INV1245,2026-04-26,Customer Receivable,Debit,1693.94,Greenline Enterprises
+INV1245,2026-04-26,Output GST,Credit,258.4,GST on sales
+INV1246,2026-03-05,Sales,Credit,42497.64,Sales - Desk
+INV1246,2026-03-05,Customer Receivable,Debit,47597.36,Metro Office Mart
+INV1246,2026-03-05,Output GST,Credit,5099.72,GST on sales
+INV1247,2026-05-08,Sales,Credit,3633.26,Sales - UPS
+INV1247,2026-05-08,Customer Receivable,Debit,4287.25,Delta Distributors
+INV1247,2026-05-08,Output GST,Credit,653.99,GST on sales
+INV1248,2026-03-03,Sales,Credit,38529.66,Sales - Barcode Scanner
+INV1248,2026-03-03,Customer Receivable,Debit,43153.22,Greenline Enterprises
+INV1248,2026-03-03,Output GST,Credit,4623.56,GST on sales
+INV1249,2026-03-15,Sales,Credit,77332.64,Sales - Monitor
+INV1249,2026-03-15,Cash,Debit,91252.52,Arun Traders
+INV1249,2026-03-15,Output GST,Credit,13919.88,GST on sales
+INV1250,2026-04-14,Sales,Credit,327597.95,Sales - Laptop
+INV1250,2026-04-14,Cash,Debit,343977.85,Vetri Agencies
+INV1250,2026-04-14,Output GST,Credit,16379.9,GST on sales
+INV1251,2026-05-22,Sales,Credit,75478.54,Sales - Monitor
+INV1251,2026-05-22,Cash,Debit,89064.68,Delta Distributors
+INV1251,2026-05-22,Output GST,Credit,13586.14,GST on sales
+INV1252,2026-06-09,Sales,Credit,1543.28,Sales - Keyboard
+INV1252,2026-06-09,Cash,Debit,1728.47,Sri Lakshmi Stores
+INV1252,2026-06-09,Output GST,Credit,185.19,GST on sales
+INV1253,2026-02-06,Sales,Credit,51290.12,Sales - Barcode Scanner
+INV1253,2026-02-06,UPI,Debit,53854.63,Greenline Enterprises
+INV1253,2026-02-06,Output GST,Credit,2564.51,GST on sales
+INV1254,2026-03-27,Sales,Credit,39321.79,Sales - External SSD
+INV1254,2026-03-27,Cash,Debit,41287.88,Bright Retail Hub
+INV1254,2026-03-27,Output GST,Credit,1966.09,GST on sales
+INV1255,2026-06-06,Sales,Credit,6920.3,Sales - Keyboard
+INV1255,2026-06-06,Cash,Debit,7750.74,Vetri Agencies
+INV1255,2026-06-06,Output GST,Credit,830.44,GST on sales
+INV1256,2026-05-10,Sales,Credit,36383.15,Sales - Barcode Scanner
+INV1256,2026-05-10,Cash,Debit,40749.13,Bright Retail Hub
+INV1256,2026-05-10,Output GST,Credit,4365.98,GST on sales
+INV1257,2026-06-22,Sales,Credit,12132.68,Sales - Router
+INV1257,2026-06-22,Bank,Debit,14316.56,Sri Lakshmi Stores
+INV1257,2026-06-22,Output GST,Credit,2183.88,GST on sales
+INV1258,2026-06-02,Sales,Credit,25763.92,Sales - Office Chair
+INV1258,2026-06-02,UPI,Debit,28855.59,Bright Retail Hub
+INV1258,2026-06-02,Output GST,Credit,3091.67,GST on sales
+INV1259,2026-05-15,Sales,Credit,2669.8,Sales - Keyboard
+INV1259,2026-05-15,UPI,Debit,2803.29,Prime Tech Solutions
+INV1259,2026-05-15,Output GST,Credit,133.49,GST on sales
+INV1260,2026-01-05,Sales,Credit,45024.04,Sales - Desk
+INV1260,2026-01-05,Customer Receivable,Debit,47275.24,Bright Retail Hub
+INV1260,2026-01-05,Output GST,Credit,2251.2,GST on sales
+INV1261,2026-05-09,Sales,Credit,148287.21,Sales - Laptop
+INV1261,2026-05-09,Customer Receivable,Debit,166081.68,Bright Retail Hub
+INV1261,2026-05-09,Output GST,Credit,17794.47,GST on sales
+INV1262,2026-05-15,Sales,Credit,22021.27,Sales - Desk
+INV1262,2026-05-15,Cash,Debit,24663.82,Prime Tech Solutions
+INV1262,2026-05-15,Output GST,Credit,2642.55,GST on sales
+INV1263,2026-06-23,Sales,Credit,53677.44,Sales - Barcode Scanner
+INV1263,2026-06-23,Cash,Debit,60118.73,Delta Distributors
+INV1263,2026-06-23,Output GST,Credit,6441.29,GST on sales
+INV1264,2026-02-27,Sales,Credit,26327.62,Sales - Office Chair
+INV1264,2026-02-27,Customer Receivable,Debit,29486.93,Delta Distributors
+INV1264,2026-02-27,Output GST,Credit,3159.31,GST on sales
+INV1265,2026-03-31,Sales,Credit,12306.93,Sales - Office Chair
+INV1265,2026-03-31,Customer Receivable,Debit,13783.76,Delta Distributors
+INV1265,2026-03-31,Output GST,Credit,1476.83,GST on sales
+INV1266,2026-03-30,Sales,Credit,5421.09,Sales - Office Chair
+INV1266,2026-03-30,Cash,Debit,5692.14,Metro Office Mart
+INV1266,2026-03-30,Output GST,Credit,271.05,GST on sales
+INV1267,2026-04-24,Sales,Credit,14737.77,Sales - UPS
+INV1267,2026-04-24,Cash,Debit,16506.3,Delta Distributors
+INV1267,2026-04-24,Output GST,Credit,1768.53,GST on sales
+INV1268,2026-02-05,Sales,Credit,25062.16,Sales - Barcode Scanner
+INV1268,2026-02-05,UPI,Debit,29573.35,Sri Lakshmi Stores
+INV1268,2026-02-05,Output GST,Credit,4511.19,GST on sales
+INV1269,2026-06-13,Sales,Credit,94588.4,Sales - Laptop
+INV1269,2026-06-13,Bank,Debit,105939.01,Greenline Enterprises
+INV1269,2026-06-13,Output GST,Credit,11350.61,GST on sales
+INV1270,2026-06-24,Sales,Credit,151024.54,Sales - Laptop
+INV1270,2026-06-24,UPI,Debit,169147.48,Metro Office Mart
+INV1270,2026-06-24,Output GST,Credit,18122.94,GST on sales
+INV1271,2026-03-15,Sales,Credit,7161.64,Sales - Office Chair
+INV1271,2026-03-15,UPI,Debit,8450.74,Vetri Agencies
+INV1271,2026-03-15,Output GST,Credit,1289.1,GST on sales
+INV1272,2026-05-17,Sales,Credit,7245.98,Sales - Keyboard
+INV1272,2026-05-17,Customer Receivable,Debit,7608.28,Arun Traders
+INV1272,2026-05-17,Output GST,Credit,362.3,GST on sales
+INV1273,2026-05-07,Sales,Credit,5056.81,Sales - Office Chair
+INV1273,2026-05-07,Bank,Debit,5967.04,Metro Office Mart
+INV1273,2026-05-07,Output GST,Credit,910.23,GST on sales
+INV1274,2026-03-27,Sales,Credit,39416.08,Sales - UPS
+INV1274,2026-03-27,Customer Receivable,Debit,46510.97,Delta Distributors
+INV1274,2026-03-27,Output GST,Credit,7094.89,GST on sales
+INV1275,2026-03-11,Sales,Credit,65382.6,Sales - Monitor
+INV1275,2026-03-11,Cash,Debit,77151.47,Greenline Enterprises
+INV1275,2026-03-11,Output GST,Credit,11768.87,GST on sales
+INV1276,2026-02-17,Sales,Credit,35931.28,Sales - Desk
+INV1276,2026-02-17,UPI,Debit,37727.84,Arun Traders
+INV1276,2026-02-17,Output GST,Credit,1796.56,GST on sales
+INV1277,2026-06-06,Sales,Credit,10616.4,Sales - Router
+INV1277,2026-06-06,UPI,Debit,11147.22,Prime Tech Solutions
+INV1277,2026-06-06,Output GST,Credit,530.82,GST on sales
+INV1278,2026-02-05,Sales,Credit,26053.5,Sales - Desk
+INV1278,2026-02-05,Customer Receivable,Debit,27356.18,Bright Retail Hub
+INV1278,2026-02-05,Output GST,Credit,1302.68,GST on sales
+INV1279,2026-03-10,Sales,Credit,5839.14,Sales - Office Chair
+INV1279,2026-03-10,UPI,Debit,6890.19,Vetri Agencies
+INV1279,2026-03-10,Output GST,Credit,1051.05,GST on sales
+INV1280,2026-01-16,Sales,Credit,17543.16,Sales - UPS
+INV1280,2026-01-16,Cash,Debit,20700.93,Sri Lakshmi Stores
+INV1280,2026-01-16,Output GST,Credit,3157.77,GST on sales
+INV1281,2026-06-26,Sales,Credit,39369.12,Sales - Office Chair
+INV1281,2026-06-26,Customer Receivable,Debit,41337.58,Sri Lakshmi Stores
+INV1281,2026-06-26,Output GST,Credit,1968.46,GST on sales
+INV1282,2026-02-09,Sales,Credit,40801.68,Sales - Barcode Scanner
+INV1282,2026-02-09,UPI,Debit,45697.88,Bright Retail Hub
+INV1282,2026-02-09,Output GST,Credit,4896.2,GST on sales
+INV1283,2026-03-05,Sales,Credit,47052.56,Sales - External SSD
+INV1283,2026-03-05,Bank,Debit,49405.19,Sri Lakshmi Stores
+INV1283,2026-03-05,Output GST,Credit,2352.63,GST on sales
+INV1284,2026-01-16,Sales,Credit,17965.96,Sales - Barcode Scanner
+INV1284,2026-01-16,Customer Receivable,Debit,21199.83,Greenline Enterprises
+INV1284,2026-01-16,Output GST,Credit,3233.87,GST on sales
+INV1285,2026-01-30,Sales,Credit,49448.87,Sales - Barcode Scanner
+INV1285,2026-01-30,Bank,Debit,55382.73,Greenline Enterprises
+INV1285,2026-01-30,Output GST,Credit,5933.86,GST on sales
+INV1286,2026-04-27,Sales,Credit,40238.73,Sales - External SSD
+INV1286,2026-04-27,Customer Receivable,Debit,47481.7,Metro Office Mart
+INV1286,2026-04-27,Output GST,Credit,7242.97,GST on sales
+INV1287,2026-06-22,Sales,Credit,353264.73,Sales - Laptop
+INV1287,2026-06-22,UPI,Debit,416852.38,Delta Distributors
+INV1287,2026-06-22,Output GST,Credit,63587.65,GST on sales
+INV1288,2026-05-29,Sales,Credit,356997.27,Sales - Laptop
+INV1288,2026-05-29,Bank,Debit,421256.78,Sri Lakshmi Stores
+INV1288,2026-05-29,Output GST,Credit,64259.51,GST on sales
+INV1289,2026-01-18,Sales,Credit,231212.2,Sales - Laptop
+INV1289,2026-01-18,Customer Receivable,Debit,242772.81,Bright Retail Hub
+INV1289,2026-01-18,Output GST,Credit,11560.61,GST on sales
+INV1290,2026-04-06,Sales,Credit,26682.47,Sales - UPS
+INV1290,2026-04-06,UPI,Debit,31485.31,Prime Tech Solutions
+INV1290,2026-04-06,Output GST,Credit,4802.84,GST on sales
+INV1291,2026-06-17,Sales,Credit,38843.19,Sales - Monitor
+INV1291,2026-06-17,UPI,Debit,45834.96,Vetri Agencies
+INV1291,2026-06-17,Output GST,Credit,6991.77,GST on sales
+INV1292,2026-02-27,Sales,Credit,237824.51,Sales - Laptop
+INV1292,2026-02-27,Customer Receivable,Debit,280632.92,Arun Traders
+INV1292,2026-02-27,Output GST,Credit,42808.41,GST on sales
+INV1293,2026-05-17,Sales,Credit,42376.48,Sales - Printer
+INV1293,2026-05-17,UPI,Debit,47461.66,Prime Tech Solutions
+INV1293,2026-05-17,Output GST,Credit,5085.18,GST on sales
+INV1294,2026-01-29,Sales,Credit,2078.11,Sales - Router
+INV1294,2026-01-29,Bank,Debit,2182.02,Arun Traders
+INV1294,2026-01-29,Output GST,Credit,103.91,GST on sales
+INV1295,2026-04-25,Sales,Credit,10414.95,Sales - Printer
+INV1295,2026-04-25,UPI,Debit,12289.64,Arun Traders
+INV1295,2026-04-25,Output GST,Credit,1874.69,GST on sales
+INV1296,2026-01-15,Sales,Credit,24531.57,Sales - External SSD
+INV1296,2026-01-15,Cash,Debit,28947.25,Metro Office Mart
+INV1296,2026-01-15,Output GST,Credit,4415.68,GST on sales
+INV1297,2026-05-28,Sales,Credit,54602.51,Sales - Printer
+INV1297,2026-05-28,UPI,Debit,64430.96,Vetri Agencies
+INV1297,2026-05-28,Output GST,Credit,9828.45,GST on sales
+INV1298,2026-04-16,Sales,Credit,6120.9,Sales - Office Chair
+INV1298,2026-04-16,UPI,Debit,7222.66,Delta Distributors
+INV1298,2026-04-16,Output GST,Credit,1101.76,GST on sales
+INV1299,2026-06-10,Sales,Credit,39867.92,Sales - External SSD
+INV1299,2026-06-10,Customer Receivable,Debit,47044.15,Prime Tech Solutions
+INV1299,2026-06-10,Output GST,Credit,7176.23,GST on sales
+INV1300,2026-05-15,Sales,Credit,13624.71,Sales - Router
+INV1300,2026-05-15,Customer Receivable,Debit,14305.95,Vetri Agencies
+INV1300,2026-05-15,Output GST,Credit,681.24,GST on sales
+INV1301,2026-03-03,Sales,Credit,20857.86,Sales - Office Chair
+INV1301,2026-03-03,Customer Receivable,Debit,24612.27,Greenline Enterprises
+INV1301,2026-03-03,Output GST,Credit,3754.41,GST on sales
+INV1302,2026-04-17,Sales,Credit,8370.12,Sales - Router
+INV1302,2026-04-17,Bank,Debit,9876.74,Metro Office Mart
+INV1302,2026-04-17,Output GST,Credit,1506.62,GST on sales
+INV1303,2026-04-26,Sales,Credit,42492.29,Sales - Monitor
+INV1303,2026-04-26,Bank,Debit,50140.9,Vetri Agencies
+INV1303,2026-04-26,Output GST,Credit,7648.61,GST on sales
+INV1304,2026-01-19,Sales,Credit,26228.38,Sales - Barcode Scanner
+INV1304,2026-01-19,Cash,Debit,29375.79,Greenline Enterprises
+INV1304,2026-01-19,Output GST,Credit,3147.41,GST on sales
+INV1305,2026-01-04,Sales,Credit,20651.26,Sales - Printer
+INV1305,2026-01-04,UPI,Debit,23129.41,Greenline Enterprises
+INV1305,2026-01-04,Output GST,Credit,2478.15,GST on sales
+INV1306,2026-06-28,Sales,Credit,8609.0,Sales - Router
+INV1306,2026-06-28,Customer Receivable,Debit,9642.08,Greenline Enterprises
+INV1306,2026-06-28,Output GST,Credit,1033.08,GST on sales
+INV1307,2026-04-30,Sales,Credit,29595.17,Sales - Office Chair
+INV1307,2026-04-30,Bank,Debit,33146.59,Vetri Agencies
+INV1307,2026-04-30,Output GST,Credit,3551.42,GST on sales
+INV1308,2026-05-01,Sales,Credit,60844.02,Sales - Printer
+INV1308,2026-05-01,UPI,Debit,71795.94,Vetri Agencies
+INV1308,2026-05-01,Output GST,Credit,10951.92,GST on sales
+INV1309,2026-02-07,Sales,Credit,41355.72,Sales - Office Chair
+INV1309,2026-02-07,UPI,Debit,46318.41,Arun Traders
+INV1309,2026-02-07,Output GST,Credit,4962.69,GST on sales
+INV1310,2026-04-08,Sales,Credit,21398.47,Sales - UPS
+INV1310,2026-04-08,Customer Receivable,Debit,23966.29,Greenline Enterprises
+INV1310,2026-04-08,Output GST,Credit,2567.82,GST on sales
+INV1311,2026-04-28,Sales,Credit,19847.23,Sales - Desk
+INV1311,2026-04-28,UPI,Debit,22228.9,Metro Office Mart
+INV1311,2026-04-28,Output GST,Credit,2381.67,GST on sales
+INV1312,2026-05-19,Sales,Credit,6461.7,Sales - External SSD
+INV1312,2026-05-19,Bank,Debit,7624.81,Arun Traders
+INV1312,2026-05-19,Output GST,Credit,1163.11,GST on sales
+INV1313,2026-01-02,Sales,Credit,2954.96,Sales - Keyboard
+INV1313,2026-01-02,UPI,Debit,3102.71,Prime Tech Solutions
+INV1313,2026-01-02,Output GST,Credit,147.75,GST on sales
+INV1314,2026-05-10,Sales,Credit,7455.82,Sales - Desk
+INV1314,2026-05-10,Customer Receivable,Debit,8797.87,Bright Retail Hub
+INV1314,2026-05-10,Output GST,Credit,1342.05,GST on sales
+INV1315,2026-06-18,Sales,Credit,51068.49,Sales - Laptop
+INV1315,2026-06-18,Bank,Debit,53621.91,Bright Retail Hub
+INV1315,2026-06-18,Output GST,Credit,2553.42,GST on sales
+INV1316,2026-05-16,Sales,Credit,22175.95,Sales - External SSD
+INV1316,2026-05-16,Customer Receivable,Debit,26167.62,Delta Distributors
+INV1316,2026-05-16,Output GST,Credit,3991.67,GST on sales
+INV1317,2026-02-15,Sales,Credit,32254.13,Sales - Monitor
+INV1317,2026-02-15,Cash,Debit,38059.87,Sri Lakshmi Stores
+INV1317,2026-02-15,Output GST,Credit,5805.74,GST on sales
+INV1318,2026-04-01,Sales,Credit,4334.13,Sales - Router
+INV1318,2026-04-01,UPI,Debit,4854.23,Delta Distributors
+INV1318,2026-04-01,Output GST,Credit,520.1,GST on sales
+INV1319,2026-06-28,Sales,Credit,11954.77,Sales - Office Chair
+INV1319,2026-06-28,Bank,Debit,14106.63,Greenline Enterprises
+INV1319,2026-06-28,Output GST,Credit,2151.86,GST on sales
+INV1320,2026-01-24,Sales,Credit,16744.14,Sales - Router
+INV1320,2026-01-24,Bank,Debit,19758.09,Prime Tech Solutions
+INV1320,2026-01-24,Output GST,Credit,3013.95,GST on sales
+INV1321,2026-06-29,Sales,Credit,94504.09,Sales - Monitor
+INV1321,2026-06-29,Bank,Debit,105844.58,Metro Office Mart
+INV1321,2026-06-29,Output GST,Credit,11340.49,GST on sales
+INV1322,2026-05-16,Sales,Credit,43964.63,Sales - Printer
+INV1322,2026-05-16,Customer Receivable,Debit,51878.26,Arun Traders
+INV1322,2026-05-16,Output GST,Credit,7913.63,GST on sales
+INV1323,2026-03-11,Sales,Credit,61637.28,Sales - Monitor
+INV1323,2026-03-11,Bank,Debit,72731.99,Arun Traders
+INV1323,2026-03-11,Output GST,Credit,11094.71,GST on sales
+INV1324,2026-02-15,Sales,Credit,188766.9,Sales - Laptop
+INV1324,2026-02-15,Customer Receivable,Debit,222744.94,Vetri Agencies
+INV1324,2026-02-15,Output GST,Credit,33978.04,GST on sales
+INV1325,2026-01-20,Sales,Credit,3313.01,Sales - Keyboard
+INV1325,2026-01-20,Cash,Debit,3710.57,Delta Distributors
+INV1325,2026-01-20,Output GST,Credit,397.56,GST on sales
+INV1326,2026-04-09,Sales,Credit,63770.48,Sales - Monitor
+INV1326,2026-04-09,Bank,Debit,66959.0,Metro Office Mart
+INV1326,2026-04-09,Output GST,Credit,3188.52,GST on sales
+INV1327,2026-03-29,Sales,Credit,7328.72,Sales - Desk
+INV1327,2026-03-29,Customer Receivable,Debit,8208.17,Prime Tech Solutions
+INV1327,2026-03-29,Output GST,Credit,879.45,GST on sales
+INV1328,2026-02-28,Sales,Credit,36719.79,Sales - External SSD
+INV1328,2026-02-28,Customer Receivable,Debit,43329.35,Vetri Agencies
+INV1328,2026-02-28,Output GST,Credit,6609.56,GST on sales
+INV1329,2026-01-22,Sales,Credit,18863.72,Sales - Printer
+INV1329,2026-01-22,UPI,Debit,21127.37,Delta Distributors
+INV1329,2026-01-22,Output GST,Credit,2263.65,GST on sales
+INV1330,2026-04-10,Sales,Credit,13696.74,Sales - Desk
+INV1330,2026-04-10,Cash,Debit,15340.35,Vetri Agencies
+INV1330,2026-04-10,Output GST,Credit,1643.61,GST on sales
+INV1331,2026-03-11,Sales,Credit,1533.13,Sales - Keyboard
+INV1331,2026-03-11,Customer Receivable,Debit,1809.09,Sri Lakshmi Stores
+INV1331,2026-03-11,Output GST,Credit,275.96,GST on sales
+INV1332,2026-01-27,Sales,Credit,69007.79,Sales - Monitor
+INV1332,2026-01-27,Cash,Debit,81429.19,Arun Traders
+INV1332,2026-01-27,Output GST,Credit,12421.4,GST on sales
+INV1333,2026-04-09,Sales,Credit,42682.08,Sales - Office Chair
+INV1333,2026-04-09,UPI,Debit,50364.85,Arun Traders
+INV1333,2026-04-09,Output GST,Credit,7682.77,GST on sales
+INV1334,2026-05-27,Sales,Credit,5927.01,Sales - Router
+INV1334,2026-05-27,Customer Receivable,Debit,6638.25,Metro Office Mart
+INV1334,2026-05-27,Output GST,Credit,711.24,GST on sales
+INV1335,2026-02-07,Sales,Credit,5701.15,Sales - Keyboard
+INV1335,2026-02-07,Bank,Debit,6385.29,Sri Lakshmi Stores
+INV1335,2026-02-07,Output GST,Credit,684.14,GST on sales
+INV1336,2026-04-03,Sales,Credit,88023.92,Sales - Printer
+INV1336,2026-04-03,Bank,Debit,98586.79,Delta Distributors
+INV1336,2026-04-03,Output GST,Credit,10562.87,GST on sales
+INV1337,2026-02-04,Sales,Credit,338662.75,Sales - Laptop
+INV1337,2026-02-04,Cash,Debit,379302.28,Delta Distributors
+INV1337,2026-02-04,Output GST,Credit,40639.53,GST on sales
+INV1338,2026-04-23,Sales,Credit,6093.98,Sales - Router
+INV1338,2026-04-23,UPI,Debit,7190.9,Vetri Agencies
+INV1338,2026-04-23,Output GST,Credit,1096.92,GST on sales
+INV1339,2026-05-03,Sales,Credit,7466.34,Sales - Keyboard
+INV1339,2026-05-03,Customer Receivable,Debit,8810.28,Vetri Agencies
+INV1339,2026-05-03,Output GST,Credit,1343.94,GST on sales
+INV1340,2026-05-28,Sales,Credit,45982.44,Sales - Desk
+INV1340,2026-05-28,Cash,Debit,51500.33,Greenline Enterprises
+INV1340,2026-05-28,Output GST,Credit,5517.89,GST on sales
+INV1341,2026-01-30,Sales,Credit,21920.83,Sales - Barcode Scanner
+INV1341,2026-01-30,Customer Receivable,Debit,23016.87,Greenline Enterprises
+INV1341,2026-01-30,Output GST,Credit,1096.04,GST on sales
+INV1342,2026-02-23,Sales,Credit,12563.28,Sales - Office Chair
+INV1342,2026-02-23,Customer Receivable,Debit,14070.87,Bright Retail Hub
+INV1342,2026-02-23,Output GST,Credit,1507.59,GST on sales
+INV1343,2026-02-05,Sales,Credit,51529.66,Sales - Printer
+INV1343,2026-02-05,Customer Receivable,Debit,57713.22,Delta Distributors
+INV1343,2026-02-05,Output GST,Credit,6183.56,GST on sales
+INV1344,2026-01-19,Sales,Credit,56939.05,Sales - Barcode Scanner
+INV1344,2026-01-19,Customer Receivable,Debit,67188.08,Bright Retail Hub
+INV1344,2026-01-19,Output GST,Credit,10249.03,GST on sales
+INV1345,2026-05-20,Sales,Credit,13781.92,Sales - Desk
+INV1345,2026-05-20,Cash,Debit,16262.67,Arun Traders
+INV1345,2026-05-20,Output GST,Credit,2480.75,GST on sales
+INV1346,2026-02-12,Sales,Credit,57843.94,Sales - Barcode Scanner
+INV1346,2026-02-12,Bank,Debit,64785.21,Arun Traders
+INV1346,2026-02-12,Output GST,Credit,6941.27,GST on sales
+INV1347,2026-01-03,Sales,Credit,24125.59,Sales - Office Chair
+INV1347,2026-01-03,UPI,Debit,28468.2,Sri Lakshmi Stores
+INV1347,2026-01-03,Output GST,Credit,4342.61,GST on sales
+INV1348,2026-04-25,Sales,Credit,19858.65,Sales - Router
+INV1348,2026-04-25,UPI,Debit,23433.21,Vetri Agencies
+INV1348,2026-04-25,Output GST,Credit,3574.56,GST on sales
+INV1349,2026-03-30,Sales,Credit,8041.66,Sales - UPS
+INV1349,2026-03-30,UPI,Debit,8443.74,Arun Traders
+INV1349,2026-03-30,Output GST,Credit,402.08,GST on sales
+INV1350,2026-03-31,Sales,Credit,64609.65,Sales - Desk
+INV1350,2026-03-31,Cash,Debit,72362.81,Delta Distributors
+INV1350,2026-03-31,Output GST,Credit,7753.16,GST on sales
+INV1351,2026-05-02,Sales,Credit,32453.28,Sales - UPS
+INV1351,2026-05-02,Bank,Debit,34075.94,Sri Lakshmi Stores
+INV1351,2026-05-02,Output GST,Credit,1622.66,GST on sales
+INV1352,2026-01-06,Sales,Credit,36027.38,Sales - Monitor
+INV1352,2026-01-06,UPI,Debit,37828.75,Vetri Agencies
+INV1352,2026-01-06,Output GST,Credit,1801.37,GST on sales
+INV1353,2026-05-22,Sales,Credit,62418.23,Sales - Desk
+INV1353,2026-05-22,UPI,Debit,69908.42,Metro Office Mart
+INV1353,2026-05-22,Output GST,Credit,7490.19,GST on sales
+INV1354,2026-02-17,Sales,Credit,2577.81,Sales - Router
+INV1354,2026-02-17,Customer Receivable,Debit,2887.15,Prime Tech Solutions
+INV1354,2026-02-17,Output GST,Credit,309.34,GST on sales
+INV1355,2026-04-10,Sales,Credit,36927.03,Sales - Printer
+INV1355,2026-04-10,Bank,Debit,38773.38,Arun Traders
+INV1355,2026-04-10,Output GST,Credit,1846.35,GST on sales
+INV1356,2026-05-18,Sales,Credit,42601.32,Sales - Desk
+INV1356,2026-05-18,Customer Receivable,Debit,47713.48,Metro Office Mart
+INV1356,2026-05-18,Output GST,Credit,5112.16,GST on sales
+INV1357,2026-05-16,Sales,Credit,50209.36,Sales - Barcode Scanner
+INV1357,2026-05-16,Cash,Debit,52719.83,Vetri Agencies
+INV1357,2026-05-16,Output GST,Credit,2510.47,GST on sales
+INV1358,2026-04-01,Sales,Credit,21959.55,Sales - Barcode Scanner
+INV1358,2026-04-01,Bank,Debit,24594.7,Bright Retail Hub
+INV1358,2026-04-01,Output GST,Credit,2635.15,GST on sales
+INV1359,2026-06-22,Sales,Credit,14398.46,Sales - Desk
+INV1359,2026-06-22,Cash,Debit,15118.38,Metro Office Mart
+INV1359,2026-06-22,Output GST,Credit,719.92,GST on sales
+INV1360,2026-06-27,Sales,Credit,39735.01,Sales - External SSD
+INV1360,2026-06-27,Customer Receivable,Debit,46887.31,Metro Office Mart
+INV1360,2026-06-27,Output GST,Credit,7152.3,GST on sales
+INV1361,2026-04-19,Sales,Credit,12985.39,Sales - UPS
+INV1361,2026-04-19,UPI,Debit,14543.64,Metro Office Mart
+INV1361,2026-04-19,Output GST,Credit,1558.25,GST on sales
+INV1362,2026-02-17,Sales,Credit,4890.79,Sales - UPS
+INV1362,2026-02-17,UPI,Debit,5477.68,Vetri Agencies
+INV1362,2026-02-17,Output GST,Credit,586.89,GST on sales
+INV1363,2026-02-19,Sales,Credit,44370.01,Sales - External SSD
+INV1363,2026-02-19,Customer Receivable,Debit,49694.41,Prime Tech Solutions
+INV1363,2026-02-19,Output GST,Credit,5324.4,GST on sales
+INV1364,2026-05-06,Sales,Credit,12715.62,Sales - Monitor
+INV1364,2026-05-06,Bank,Debit,14241.49,Metro Office Mart
+INV1364,2026-05-06,Output GST,Credit,1525.87,GST on sales
+INV1365,2026-03-12,Sales,Credit,25528.41,Sales - External SSD
+INV1365,2026-03-12,Customer Receivable,Debit,30123.52,Greenline Enterprises
+INV1365,2026-03-12,Output GST,Credit,4595.11,GST on sales
+INV1366,2026-05-21,Sales,Credit,13036.64,Sales - Barcode Scanner
+INV1366,2026-05-21,Bank,Debit,14601.04,Sri Lakshmi Stores
+INV1366,2026-05-21,Output GST,Credit,1564.4,GST on sales
+INV1367,2026-04-23,Sales,Credit,4740.58,Sales - Router
+INV1367,2026-04-23,Cash,Debit,4977.61,Greenline Enterprises
+INV1367,2026-04-23,Output GST,Credit,237.03,GST on sales
+INV1368,2026-01-09,Sales,Credit,42408.36,Sales - Office Chair
+INV1368,2026-01-09,Bank,Debit,47497.36,Bright Retail Hub
+INV1368,2026-01-09,Output GST,Credit,5089.0,GST on sales
+INV1369,2026-03-02,Sales,Credit,45892.18,Sales - Barcode Scanner
+INV1369,2026-03-02,Customer Receivable,Debit,54152.77,Greenline Enterprises
+INV1369,2026-03-02,Output GST,Credit,8260.59,GST on sales
+INV1370,2026-02-12,Sales,Credit,44280.26,Sales - Printer
+INV1370,2026-02-12,Cash,Debit,49593.89,Metro Office Mart
+INV1370,2026-02-12,Output GST,Credit,5313.63,GST on sales
+INV1371,2026-06-02,Sales,Credit,36601.75,Sales - Desk
+INV1371,2026-06-02,Bank,Debit,43190.06,Metro Office Mart
+INV1371,2026-06-02,Output GST,Credit,6588.31,GST on sales
+INV1372,2026-02-04,Sales,Credit,270464.6,Sales - Laptop
+INV1372,2026-02-04,UPI,Debit,319148.23,Prime Tech Solutions
+INV1372,2026-02-04,Output GST,Credit,48683.63,GST on sales
+INV1373,2026-03-05,Sales,Credit,31084.52,Sales - Desk
+INV1373,2026-03-05,Customer Receivable,Debit,34814.66,Metro Office Mart
+INV1373,2026-03-05,Output GST,Credit,3730.14,GST on sales
+INV1374,2026-02-06,Sales,Credit,14752.11,Sales - Router
+INV1374,2026-02-06,Customer Receivable,Debit,15489.72,Delta Distributors
+INV1374,2026-02-06,Output GST,Credit,737.61,GST on sales
+INV1375,2026-05-12,Sales,Credit,71178.48,Sales - Desk
+INV1375,2026-05-12,Bank,Debit,83990.61,Delta Distributors
+INV1375,2026-05-12,Output GST,Credit,12812.13,GST on sales
+INV1376,2026-01-24,Sales,Credit,16715.84,Sales - Desk
+INV1376,2026-01-24,Customer Receivable,Debit,17551.63,Bright Retail Hub
+INV1376,2026-01-24,Output GST,Credit,835.79,GST on sales
+INV1377,2026-02-24,Sales,Credit,41992.74,Sales - Office Chair
+INV1377,2026-02-24,UPI,Debit,49551.43,Bright Retail Hub
+INV1377,2026-02-24,Output GST,Credit,7558.69,GST on sales
+INV1378,2026-05-25,Sales,Credit,6200.45,Sales - Desk
+INV1378,2026-05-25,Bank,Debit,6944.5,Bright Retail Hub
+INV1378,2026-05-25,Output GST,Credit,744.05,GST on sales
+INV1379,2026-02-01,Sales,Credit,27996.88,Sales - UPS
+INV1379,2026-02-01,UPI,Debit,29396.72,Metro Office Mart
+INV1379,2026-02-01,Output GST,Credit,1399.84,GST on sales
+INV1380,2026-06-16,Sales,Credit,3739.9,Sales - Keyboard
+INV1380,2026-06-16,Bank,Debit,4188.69,Delta Distributors
+INV1380,2026-06-16,Output GST,Credit,448.79,GST on sales
+INV1381,2026-04-06,Sales,Credit,339153.46,Sales - Laptop
+INV1381,2026-04-06,UPI,Debit,400201.08,Metro Office Mart
+INV1381,2026-04-06,Output GST,Credit,61047.62,GST on sales
+INV1382,2026-04-20,Sales,Credit,11247.82,Sales - Monitor
+INV1382,2026-04-20,UPI,Debit,11810.21,Sri Lakshmi Stores
+INV1382,2026-04-20,Output GST,Credit,562.39,GST on sales
+INV1383,2026-05-13,Sales,Credit,47770.14,Sales - Laptop
+INV1383,2026-05-13,Customer Receivable,Debit,50158.65,Bright Retail Hub
+INV1383,2026-05-13,Output GST,Credit,2388.51,GST on sales
+INV1384,2026-06-27,Sales,Credit,7838.74,Sales - UPS
+INV1384,2026-06-27,Bank,Debit,9249.71,Metro Office Mart
+INV1384,2026-06-27,Output GST,Credit,1410.97,GST on sales
+INV1385,2026-01-27,Sales,Credit,31307.35,Sales - Desk
+INV1385,2026-01-27,UPI,Debit,32872.72,Vetri Agencies
+INV1385,2026-01-27,Output GST,Credit,1565.37,GST on sales
+INV1386,2026-01-18,Sales,Credit,19890.88,Sales - Barcode Scanner
+INV1386,2026-01-18,UPI,Debit,20885.42,Arun Traders
+INV1386,2026-01-18,Output GST,Credit,994.54,GST on sales
+INV1387,2026-04-16,Sales,Credit,23865.08,Sales - Printer
+INV1387,2026-04-16,Customer Receivable,Debit,25058.33,Bright Retail Hub
+INV1387,2026-04-16,Output GST,Credit,1193.25,GST on sales
+INV1388,2026-03-31,Sales,Credit,19930.57,Sales - Desk
+INV1388,2026-03-31,UPI,Debit,20927.1,Prime Tech Solutions
+INV1388,2026-03-31,Output GST,Credit,996.53,GST on sales
+INV1389,2026-05-22,Sales,Credit,238337.14,Sales - Laptop
+INV1389,2026-05-22,UPI,Debit,281237.83,Delta Distributors
+INV1389,2026-05-22,Output GST,Credit,42900.69,GST on sales
+INV1390,2026-04-11,Sales,Credit,207558.96,Sales - Laptop
+INV1390,2026-04-11,Customer Receivable,Debit,217936.91,Delta Distributors
+INV1390,2026-04-11,Output GST,Credit,10377.95,GST on sales
+INV1391,2026-06-13,Sales,Credit,6737.52,Sales - External SSD
+INV1391,2026-06-13,Customer Receivable,Debit,7074.4,Sri Lakshmi Stores
+INV1391,2026-06-13,Output GST,Credit,336.88,GST on sales
+INV1392,2026-05-26,Sales,Credit,22814.62,Sales - Desk
+INV1392,2026-05-26,Bank,Debit,23955.35,Prime Tech Solutions
+INV1392,2026-05-26,Output GST,Credit,1140.73,GST on sales
+INV1393,2026-05-31,Sales,Credit,251186.0,Sales - Laptop
+INV1393,2026-05-31,Cash,Debit,281328.32,Sri Lakshmi Stores
+INV1393,2026-05-31,Output GST,Credit,30142.32,GST on sales
+INV1394,2026-06-10,Sales,Credit,12760.82,Sales - Router
+INV1394,2026-06-10,UPI,Debit,15057.77,Prime Tech Solutions
+INV1394,2026-06-10,Output GST,Credit,2296.95,GST on sales
+INV1395,2026-03-13,Sales,Credit,12700.26,Sales - Office Chair
+INV1395,2026-03-13,Cash,Debit,13335.27,Sri Lakshmi Stores
+INV1395,2026-03-13,Output GST,Credit,635.01,GST on sales
+INV1396,2026-04-11,Sales,Credit,42824.19,Sales - Office Chair
+INV1396,2026-04-11,Bank,Debit,44965.4,Sri Lakshmi Stores
+INV1396,2026-04-11,Output GST,Credit,2141.21,GST on sales
+INV1397,2026-03-04,Sales,Credit,4354.97,Sales - Router
+INV1397,2026-03-04,Cash,Debit,4572.72,Sri Lakshmi Stores
+INV1397,2026-03-04,Output GST,Credit,217.75,GST on sales
+INV1398,2026-06-20,Sales,Credit,11494.4,Sales - Monitor
+INV1398,2026-06-20,UPI,Debit,12069.12,Metro Office Mart
+INV1398,2026-06-20,Output GST,Credit,574.72,GST on sales
+INV1399,2026-05-08,Sales,Credit,26037.75,Sales - External SSD
+INV1399,2026-05-08,Cash,Debit,30724.55,Vetri Agencies
+INV1399,2026-05-08,Output GST,Credit,4686.8,GST on sales
+INV1400,2026-01-31,Sales,Credit,50952.65,Sales - Desk
+INV1400,2026-01-31,Bank,Debit,57066.97,Arun Traders
+INV1400,2026-01-31,Output GST,Credit,6114.32,GST on sales
+INV1401,2026-05-08,Sales,Credit,26997.03,Sales - External SSD
+INV1401,2026-05-08,UPI,Debit,31856.5,Bright Retail Hub
+INV1401,2026-05-08,Output GST,Credit,4859.47,GST on sales
+INV1402,2026-04-05,Sales,Credit,13125.95,Sales - Office Chair
+INV1402,2026-04-05,Bank,Debit,15488.62,Metro Office Mart
+INV1402,2026-04-05,Output GST,Credit,2362.67,GST on sales
+INV1403,2026-02-28,Sales,Credit,49399.59,Sales - Laptop
+INV1403,2026-02-28,Customer Receivable,Debit,55327.54,Arun Traders
+INV1403,2026-02-28,Output GST,Credit,5927.95,GST on sales
+INV1404,2026-02-08,Sales,Credit,352023.91,Sales - Laptop
+INV1404,2026-02-08,Cash,Debit,394266.78,Metro Office Mart
+INV1404,2026-02-08,Output GST,Credit,42242.87,GST on sales
+INV1405,2026-03-11,Sales,Credit,36230.63,Sales - Barcode Scanner
+INV1405,2026-03-11,UPI,Debit,38042.16,Sri Lakshmi Stores
+INV1405,2026-03-11,Output GST,Credit,1811.53,GST on sales
+INV1406,2026-02-27,Sales,Credit,4892.85,Sales - Router
+INV1406,2026-02-27,Cash,Debit,5479.99,Arun Traders
+INV1406,2026-02-27,Output GST,Credit,587.14,GST on sales
+INV1407,2026-03-25,Sales,Credit,39286.96,Sales - External SSD
+INV1407,2026-03-25,Cash,Debit,44001.4,Sri Lakshmi Stores
+INV1407,2026-03-25,Output GST,Credit,4714.44,GST on sales
+INV1408,2026-06-09,Sales,Credit,26300.77,Sales - UPS
+INV1408,2026-06-09,UPI,Debit,27615.81,Greenline Enterprises
+INV1408,2026-06-09,Output GST,Credit,1315.04,GST on sales
+INV1409,2026-02-08,Sales,Credit,2070.4,Sales - Router
+INV1409,2026-02-08,Bank,Debit,2443.07,Arun Traders
+INV1409,2026-02-08,Output GST,Credit,372.67,GST on sales
+INV1410,2026-03-27,Sales,Credit,9217.71,Sales - Router
+INV1410,2026-03-27,Customer Receivable,Debit,9678.6,Arun Traders
+INV1410,2026-03-27,Output GST,Credit,460.89,GST on sales
+INV1411,2026-05-06,Sales,Credit,3739.3,Sales - Keyboard
+INV1411,2026-05-06,Customer Receivable,Debit,4412.37,Arun Traders
+INV1411,2026-05-06,Output GST,Credit,673.07,GST on sales
+INV1412,2026-06-29,Sales,Credit,8466.89,Sales - UPS
+INV1412,2026-06-29,Customer Receivable,Debit,8890.23,Vetri Agencies
+INV1412,2026-06-29,Output GST,Credit,423.34,GST on sales
+INV1413,2026-01-20,Sales,Credit,6222.57,Sales - Router
+INV1413,2026-01-20,Customer Receivable,Debit,6969.28,Arun Traders
+INV1413,2026-01-20,Output GST,Credit,746.71,GST on sales
+INV1414,2026-06-29,Sales,Credit,58231.12,Sales - Desk
+INV1414,2026-06-29,UPI,Debit,61142.68,Vetri Agencies
+INV1414,2026-06-29,Output GST,Credit,2911.56,GST on sales
+INV1415,2026-05-30,Sales,Credit,1516.71,Sales - Keyboard
+INV1415,2026-05-30,Customer Receivable,Debit,1698.72,Sri Lakshmi Stores
+INV1415,2026-05-30,Output GST,Credit,182.01,GST on sales
+INV1416,2026-01-31,Sales,Credit,81012.0,Sales - Printer
+INV1416,2026-01-31,Bank,Debit,85062.6,Vetri Agencies
+INV1416,2026-01-31,Output GST,Credit,4050.6,GST on sales
+INV1417,2026-02-10,Sales,Credit,6079.8,Sales - Barcode Scanner
+INV1417,2026-02-10,UPI,Debit,6809.38,Delta Distributors
+INV1417,2026-02-10,Output GST,Credit,729.58,GST on sales
+INV1418,2026-01-24,Sales,Credit,50586.91,Sales - Desk
+INV1418,2026-01-24,Cash,Debit,56657.34,Greenline Enterprises
+INV1418,2026-01-24,Output GST,Credit,6070.43,GST on sales
+INV1419,2026-02-14,Sales,Credit,18204.2,Sales - Router
+INV1419,2026-02-14,Bank,Debit,19114.41,Arun Traders
+INV1419,2026-02-14,Output GST,Credit,910.21,GST on sales
+INV1420,2026-04-29,Sales,Credit,1293.03,Sales - Keyboard
+INV1420,2026-04-29,UPI,Debit,1357.68,Sri Lakshmi Stores
+INV1420,2026-04-29,Output GST,Credit,64.65,GST on sales
+INV-DUP-001,2026-05-31,Sales,Credit,106300.84,Sales - Laptop
+INV-DUP-001,2026-05-31,Bank,Debit,111615.88,Greenline Enterprises
+INV-DUP-001,2026-05-31,Output GST,Credit,5315.04,GST on sales
+INV-DUP-002,2026-05-31,Sales,Credit,106300.84,Sales - Laptop
+INV-DUP-002,2026-05-31,Bank,Debit,111615.88,Greenline Enterprises
+INV-DUP-002,2026-05-31,Output GST,Credit,5315.04,GST on sales
+INV-FRAUD-001,2026-05-18,Sales,Credit,3125000,Sales - External SSD
+INV-FRAUD-001,2026-05-18,Cash,Debit,3687500,Greenline Enterprises
+INV-FRAUD-001,2026-05-18,Output GST,Credit,562500,GST on sales
+INV-FRAUD-002,2026-03-26,Sales,Credit,1062.92,Sales - Router
+INV-FRAUD-002,2026-03-26,Bank,Debit,1254.25,Bright Retail Hub
+INV-FRAUD-002,2026-03-26,Output GST,Credit,191.33,GST on sales
+INV-FRAUD-003,2026-05-26,Sales,Credit,2.0,Sales - Barcode Scanner
+INV-FRAUD-003,2026-05-26,UPI,Debit,2.36,Arun Traders
+INV-FRAUD-003,2026-05-26,Output GST,Credit,0.36,GST on sales
+PUR5001,2026-02-20,Purchase,Debit,73248.96,Purchase - Desk
+PUR5001,2026-02-20,Bank,Credit,86433.77,Delta Electronics
+PUR5001,2026-02-20,Input GST,Debit,13184.81,GST on purchases
+PUR5002,2026-05-30,Purchase,Debit,22032.12,Purchase - Monitor
+PUR5002,2026-05-30,Cash,Credit,23133.73,Chennai Packaging Co
+PUR5002,2026-05-30,Input GST,Debit,1101.61,GST on purchases
+PUR5003,2026-04-24,Purchase,Debit,157312.05,Purchase - Monitor
+PUR5003,2026-04-24,Bank,Credit,176189.5,Bright Office Supplies
+PUR5003,2026-04-24,Input GST,Debit,18877.45,GST on purchases
+PUR5004,2026-01-11,Purchase,Debit,197230.0,Purchase - Laptop
+PUR5004,2026-01-11,Cash,Credit,220897.6,Delta Electronics
+PUR5004,2026-01-11,Input GST,Debit,23667.6,GST on purchases
+PUR5005,2026-04-12,Purchase,Debit,366706.16,Purchase - Laptop
+PUR5005,2026-04-12,Credit,Credit,385041.47,Delta Electronics
+PUR5005,2026-04-12,Input GST,Debit,18335.31,GST on purchases
+PUR5006,2026-02-24,Purchase,Debit,27574.68,Purchase - Office Chair
+PUR5006,2026-02-24,Bank,Credit,28953.41,Bright Office Supplies
+PUR5006,2026-02-24,Input GST,Debit,1378.73,GST on purchases
+PUR5007,2026-06-07,Purchase,Debit,40884.39,Purchase - Office Chair
+PUR5007,2026-06-07,Credit,Credit,48243.58,Bright Office Supplies
+PUR5007,2026-06-07,Input GST,Debit,7359.19,GST on purchases
+PUR5008,2026-01-16,Purchase,Debit,32912.72,Purchase - Office Chair
+PUR5008,2026-01-16,Cash,Credit,34558.36,Alpha Components
+PUR5008,2026-01-16,Input GST,Debit,1645.64,GST on purchases
+PUR5009,2026-05-15,Purchase,Debit,50793.68,Purchase - External SSD
+PUR5009,2026-05-15,Cash,Credit,56888.92,Bright Office Supplies
+PUR5009,2026-05-15,Input GST,Debit,6095.24,GST on purchases
+PUR5010,2026-04-02,Purchase,Debit,60171.16,Purchase - External SSD
+PUR5010,2026-04-02,Cash,Credit,71001.97,Delta Electronics
+PUR5010,2026-04-02,Input GST,Debit,10830.81,GST on purchases
+PUR5011,2026-03-24,Purchase,Debit,15762.64,Purchase - Office Chair
+PUR5011,2026-03-24,Bank,Credit,18599.92,Delta Electronics
+PUR5011,2026-03-24,Input GST,Debit,2837.28,GST on purchases
+PUR5012,2026-01-08,Purchase,Debit,703892.7,Purchase - Laptop
+PUR5012,2026-01-08,Credit,Credit,830593.39,Chennai Packaging Co
+PUR5012,2026-01-08,Input GST,Debit,126700.69,GST on purchases
+PUR5013,2026-05-30,Purchase,Debit,1731.15,Purchase - Keyboard
+PUR5013,2026-05-30,Credit,Credit,1817.71,Bright Office Supplies
+PUR5013,2026-05-30,Input GST,Debit,86.56,GST on purchases
+PUR5014,2026-05-17,Purchase,Debit,99391.16,Purchase - Printer
+PUR5014,2026-05-17,Credit,Credit,111318.1,Alpha Components
+PUR5014,2026-05-17,Input GST,Debit,11926.94,GST on purchases
+PUR5015,2026-02-14,Purchase,Debit,83694.71,Purchase - Printer
+PUR5015,2026-02-14,Cash,Credit,98759.76,Bright Office Supplies
+PUR5015,2026-02-14,Input GST,Debit,15065.05,GST on purchases
+PUR5016,2026-04-02,Purchase,Debit,65714.33,Purchase - Desk
+PUR5016,2026-04-02,Bank,Credit,77542.91,Alpha Components
+PUR5016,2026-04-02,Input GST,Debit,11828.58,GST on purchases
+PUR5017,2026-05-07,Purchase,Debit,4796.73,Purchase - Keyboard
+PUR5017,2026-05-07,Bank,Credit,5036.57,Chennai Packaging Co
+PUR5017,2026-05-07,Input GST,Debit,239.84,GST on purchases
+PUR5018,2026-06-04,Purchase,Debit,428830.4,Purchase - Laptop
+PUR5018,2026-06-04,Cash,Credit,480290.05,Bright Office Supplies
+PUR5018,2026-06-04,Input GST,Debit,51459.65,GST on purchases
+PUR5019,2026-02-21,Purchase,Debit,67873.65,Purchase - Desk
+PUR5019,2026-02-21,Bank,Credit,76018.49,Bright Office Supplies
+PUR5019,2026-02-21,Input GST,Debit,8144.84,GST on purchases
+PUR5020,2026-01-06,Purchase,Debit,82628.52,Purchase - Barcode Scanner
+PUR5020,2026-01-06,Cash,Credit,86759.95,Bright Office Supplies
+PUR5020,2026-01-06,Input GST,Debit,4131.43,GST on purchases
+PUR5021,2026-04-04,Purchase,Debit,87252.75,Purchase - Desk
+PUR5021,2026-04-04,Cash,Credit,97723.08,Alpha Components
+PUR5021,2026-04-04,Input GST,Debit,10470.33,GST on purchases
+PUR5022,2026-01-26,Purchase,Debit,28790.02,Purchase - Office Chair
+PUR5022,2026-01-26,Cash,Credit,30229.52,Chennai Packaging Co
+PUR5022,2026-01-26,Input GST,Debit,1439.5,GST on purchases
+PUR5023,2026-04-22,Purchase,Debit,25016.04,Purchase - Desk
+PUR5023,2026-04-22,Cash,Credit,29518.93,Delta Electronics
+PUR5023,2026-04-22,Input GST,Debit,4502.89,GST on purchases
+PUR5024,2026-06-07,Purchase,Debit,100082.04,Purchase - Printer
+PUR5024,2026-06-07,Credit,Credit,105086.14,Chennai Packaging Co
+PUR5024,2026-06-07,Input GST,Debit,5004.1,GST on purchases
+PUR5025,2026-03-20,Purchase,Debit,2712.2,Purchase - Keyboard
+PUR5025,2026-03-20,Cash,Credit,3200.4,Chennai Packaging Co
+PUR5025,2026-03-20,Input GST,Debit,488.2,GST on purchases
+PUR5026,2026-04-11,Purchase,Debit,6510.13,Purchase - Keyboard
+PUR5026,2026-04-11,Bank,Credit,7681.95,Alpha Components
+PUR5026,2026-04-11,Input GST,Debit,1171.82,GST on purchases
+PUR5027,2026-06-13,Purchase,Debit,11890.92,Purchase - UPS
+PUR5027,2026-06-13,Bank,Credit,12485.47,Alpha Components
+PUR5027,2026-06-13,Input GST,Debit,594.55,GST on purchases
+PUR5028,2026-03-30,Purchase,Debit,8531.04,Purchase - Keyboard
+PUR5028,2026-03-30,Cash,Credit,8957.59,Chennai Packaging Co
+PUR5028,2026-03-30,Input GST,Debit,426.55,GST on purchases
+PUR5029,2026-06-21,Purchase,Debit,5806.94,Purchase - UPS
+PUR5029,2026-06-21,Cash,Credit,6097.29,Chennai Packaging Co
+PUR5029,2026-06-21,Input GST,Debit,290.35,GST on purchases
+PUR5030,2026-01-18,Purchase,Debit,56959.42,Purchase - Office Chair
+PUR5030,2026-01-18,Bank,Credit,59807.39,Chennai Packaging Co
+PUR5030,2026-01-18,Input GST,Debit,2847.97,GST on purchases
+PUR5031,2026-04-09,Purchase,Debit,7310.64,Purchase - Router
+PUR5031,2026-04-09,Credit,Credit,8187.92,Delta Electronics
+PUR5031,2026-04-09,Input GST,Debit,877.28,GST on purchases
+PUR5032,2026-03-31,Purchase,Debit,140780.85,Purchase - Monitor
+PUR5032,2026-03-31,Cash,Credit,166121.4,Delta Electronics
+PUR5032,2026-03-31,Input GST,Debit,25340.55,GST on purchases
+PUR5033,2026-06-25,Purchase,Debit,4864.32,Purchase - Keyboard
+PUR5033,2026-06-25,Credit,Credit,5107.54,Bright Office Supplies
+PUR5033,2026-06-25,Input GST,Debit,243.22,GST on purchases
+PUR5034,2026-01-06,Purchase,Debit,12047.25,Purchase - Office Chair
+PUR5034,2026-01-06,Credit,Credit,12649.61,Chennai Packaging Co
+PUR5034,2026-01-06,Input GST,Debit,602.36,GST on purchases
+PUR5035,2026-02-11,Purchase,Debit,12259.95,Purchase - External SSD
+PUR5035,2026-02-11,Credit,Credit,14466.74,Alpha Components
+PUR5035,2026-02-11,Input GST,Debit,2206.79,GST on purchases
+PUR5036,2026-06-30,Purchase,Debit,17269.2,Purchase - Router
+PUR5036,2026-06-30,Bank,Credit,19341.5,Alpha Components
+PUR5036,2026-06-30,Input GST,Debit,2072.3,GST on purchases
+PUR5037,2026-01-14,Purchase,Debit,33875.4,Purchase - Desk
+PUR5037,2026-01-14,Cash,Credit,37940.45,Alpha Components
+PUR5037,2026-01-14,Input GST,Debit,4065.05,GST on purchases
+PUR5038,2026-05-22,Purchase,Debit,25623.48,Purchase - Office Chair
+PUR5038,2026-05-22,Credit,Credit,26904.65,Chennai Packaging Co
+PUR5038,2026-05-22,Input GST,Debit,1281.17,GST on purchases
+PUR5039,2026-05-27,Purchase,Debit,1201.54,Purchase - Keyboard
+PUR5039,2026-05-27,Bank,Credit,1345.72,Delta Electronics
+PUR5039,2026-05-27,Input GST,Debit,144.18,GST on purchases
+PUR5040,2026-03-17,Purchase,Debit,20458.47,Purchase - Printer
+PUR5040,2026-03-17,Cash,Credit,21481.39,Delta Electronics
+PUR5040,2026-03-17,Input GST,Debit,1022.92,GST on purchases
+PUR5041,2026-03-16,Purchase,Debit,41194.2,Purchase - UPS
+PUR5041,2026-03-16,Credit,Credit,46137.5,Alpha Components
+PUR5041,2026-03-16,Input GST,Debit,4943.3,GST on purchases
+PUR5042,2026-05-06,Purchase,Debit,115068.0,Purchase - Monitor
+PUR5042,2026-05-06,Credit,Credit,120821.4,Chennai Packaging Co
+PUR5042,2026-05-06,Input GST,Debit,5753.4,GST on purchases
+PUR5043,2026-04-08,Purchase,Debit,4809.33,Purchase - Keyboard
+PUR5043,2026-04-08,Credit,Credit,5386.45,Chennai Packaging Co
+PUR5043,2026-04-08,Input GST,Debit,577.12,GST on purchases
+PUR5044,2026-03-09,Purchase,Debit,43957.76,Purchase - Office Chair
+PUR5044,2026-03-09,Cash,Credit,51870.16,Bright Office Supplies
+PUR5044,2026-03-09,Input GST,Debit,7912.4,GST on purchases
+PUR5045,2026-01-25,Purchase,Debit,83031.62,Purchase - Desk
+PUR5045,2026-01-25,Bank,Credit,97977.31,Alpha Components
+PUR5045,2026-01-25,Input GST,Debit,14945.69,GST on purchases
+PUR5046,2026-05-22,Purchase,Debit,24482.85,Purchase - Router
+PUR5046,2026-05-22,Cash,Credit,28889.76,Alpha Components
+PUR5046,2026-05-22,Input GST,Debit,4406.91,GST on purchases
+PUR5047,2026-05-02,Purchase,Debit,16247.4,Purchase - UPS
+PUR5047,2026-05-02,Bank,Credit,19171.93,Bright Office Supplies
+PUR5047,2026-05-02,Input GST,Debit,2924.53,GST on purchases
+PUR5048,2026-05-09,Purchase,Debit,130052.72,Purchase - Monitor
+PUR5048,2026-05-09,Bank,Credit,136555.36,Bright Office Supplies
+PUR5048,2026-05-09,Input GST,Debit,6502.64,GST on purchases
+PUR5049,2026-02-19,Purchase,Debit,297028.08,Purchase - Laptop
+PUR5049,2026-02-19,Credit,Credit,350493.13,Bright Office Supplies
+PUR5049,2026-02-19,Input GST,Debit,53465.05,GST on purchases
+PUR5050,2026-02-21,Purchase,Debit,31468.38,Purchase - Barcode Scanner
+PUR5050,2026-02-21,Bank,Credit,37132.69,Bright Office Supplies
+PUR5050,2026-02-21,Input GST,Debit,5664.31,GST on purchases
+PUR5051,2026-01-23,Purchase,Debit,35159.68,Purchase - External SSD
+PUR5051,2026-01-23,Cash,Credit,39378.84,Delta Electronics
+PUR5051,2026-01-23,Input GST,Debit,4219.16,GST on purchases
+PUR5052,2026-04-28,Purchase,Debit,61841.67,Purchase - Barcode Scanner
+PUR5052,2026-04-28,Bank,Credit,69262.67,Alpha Components
+PUR5052,2026-04-28,Input GST,Debit,7421.0,GST on purchases
+PUR5053,2026-04-17,Purchase,Debit,7133.17,Purchase - Keyboard
+PUR5053,2026-04-17,Bank,Credit,7489.83,Bright Office Supplies
+PUR5053,2026-04-17,Input GST,Debit,356.66,GST on purchases
+PUR5054,2026-05-25,Purchase,Debit,71033.85,Purchase - Office Chair
+PUR5054,2026-05-25,Credit,Credit,79557.91,Alpha Components
+PUR5054,2026-05-25,Input GST,Debit,8524.06,GST on purchases
+PUR5055,2026-03-09,Purchase,Debit,35908.51,Purchase - UPS
+PUR5055,2026-03-09,Bank,Credit,37703.94,Delta Electronics
+PUR5055,2026-03-09,Input GST,Debit,1795.43,GST on purchases
+PUR5056,2026-03-12,Purchase,Debit,7181.02,Purchase - Keyboard
+PUR5056,2026-03-12,Credit,Credit,8473.6,Delta Electronics
+PUR5056,2026-03-12,Input GST,Debit,1292.58,GST on purchases
+PUR5057,2026-01-10,Purchase,Debit,69397.64,Purchase - Desk
+PUR5057,2026-01-10,Credit,Credit,81889.22,Delta Electronics
+PUR5057,2026-01-10,Input GST,Debit,12491.58,GST on purchases
+PUR5058,2026-03-10,Purchase,Debit,334392.52,Purchase - Laptop
+PUR5058,2026-03-10,Credit,Credit,374519.62,Chennai Packaging Co
+PUR5058,2026-03-10,Input GST,Debit,40127.1,GST on purchases
+PUR5059,2026-03-13,Purchase,Debit,128896.05,Purchase - Monitor
+PUR5059,2026-03-13,Cash,Credit,144363.58,Delta Electronics
+PUR5059,2026-03-13,Input GST,Debit,15467.53,GST on purchases
+PUR5060,2026-04-24,Purchase,Debit,59152.21,Purchase - Office Chair
+PUR5060,2026-04-24,Bank,Credit,69799.61,Chennai Packaging Co
+PUR5060,2026-04-24,Input GST,Debit,10647.4,GST on purchases
+PUR5061,2026-02-18,Purchase,Debit,117740.4,Purchase - Printer
+PUR5061,2026-02-18,Cash,Credit,131869.25,Delta Electronics
+PUR5061,2026-02-18,Input GST,Debit,14128.85,GST on purchases
+PUR5062,2026-04-06,Purchase,Debit,53604.88,Purchase - External SSD
+PUR5062,2026-04-06,Cash,Credit,60037.47,Alpha Components
+PUR5062,2026-04-06,Input GST,Debit,6432.59,GST on purchases
+PUR5063,2026-05-10,Purchase,Debit,9852.78,Purchase - Keyboard
+PUR5063,2026-05-10,Bank,Credit,11626.28,Delta Electronics
+PUR5063,2026-05-10,Input GST,Debit,1773.5,GST on purchases
+PUR5064,2026-02-14,Purchase,Debit,103583.85,Purchase - Printer
+PUR5064,2026-02-14,Credit,Credit,108763.04,Bright Office Supplies
+PUR5064,2026-02-14,Input GST,Debit,5179.19,GST on purchases
+PUR5065,2026-01-13,Purchase,Debit,46467.3,Purchase - Printer
+PUR5065,2026-01-13,Cash,Credit,52043.38,Chennai Packaging Co
+PUR5065,2026-01-13,Input GST,Debit,5576.08,GST on purchases
+PUR5066,2026-04-12,Purchase,Debit,206817.6,Purchase - Laptop
+PUR5066,2026-04-12,Credit,Credit,244044.77,Alpha Components
+PUR5066,2026-04-12,Input GST,Debit,37227.17,GST on purchases
+PUR5067,2026-02-15,Purchase,Debit,53005.5,Purchase - Barcode Scanner
+PUR5067,2026-02-15,Credit,Credit,55655.78,Delta Electronics
+PUR5067,2026-02-15,Input GST,Debit,2650.28,GST on purchases
+PUR5068,2026-06-26,Purchase,Debit,9006.08,Purchase - Office Chair
+PUR5068,2026-06-26,Cash,Credit,9456.38,Alpha Components
+PUR5068,2026-06-26,Input GST,Debit,450.3,GST on purchases
+PUR5069,2026-02-24,Purchase,Debit,87698.04,Purchase - Printer
+PUR5069,2026-02-24,Credit,Credit,103483.69,Bright Office Supplies
+PUR5069,2026-02-24,Input GST,Debit,15785.65,GST on purchases
+PUR5070,2026-05-12,Purchase,Debit,442132.38,Purchase - Laptop
+PUR5070,2026-05-12,Bank,Credit,521716.21,Alpha Components
+PUR5070,2026-05-12,Input GST,Debit,79583.83,GST on purchases
+PUR5071,2026-06-03,Purchase,Debit,50355.18,Purchase - Printer
+PUR5071,2026-06-03,Cash,Credit,56397.8,Alpha Components
+PUR5071,2026-06-03,Input GST,Debit,6042.62,GST on purchases
+PUR5072,2026-06-14,Purchase,Debit,14478.88,Purchase - Router
+PUR5072,2026-06-14,Credit,Credit,16216.35,Chennai Packaging Co
+PUR5072,2026-06-14,Input GST,Debit,1737.47,GST on purchases
+PUR5073,2026-02-25,Purchase,Debit,56546.4,Purchase - Office Chair
+PUR5073,2026-02-25,Credit,Credit,66724.75,Delta Electronics
+PUR5073,2026-02-25,Input GST,Debit,10178.35,GST on purchases
+PUR5074,2026-05-30,Purchase,Debit,503917.8,Purchase - Laptop
+PUR5074,2026-05-30,Cash,Credit,564387.94,Alpha Components
+PUR5074,2026-05-30,Input GST,Debit,60470.14,GST on purchases
+PUR5075,2026-06-15,Purchase,Debit,48823.68,Purchase - Office Chair
+PUR5075,2026-06-15,Credit,Credit,51264.86,Chennai Packaging Co
+PUR5075,2026-06-15,Input GST,Debit,2441.18,GST on purchases
+PUR5076,2026-03-12,Purchase,Debit,29541.3,Purchase - Office Chair
+PUR5076,2026-03-12,Credit,Credit,34858.73,Chennai Packaging Co
+PUR5076,2026-03-12,Input GST,Debit,5317.43,GST on purchases
+PUR5077,2026-02-18,Purchase,Debit,55244.42,Purchase - External SSD
+PUR5077,2026-02-18,Cash,Credit,58006.64,Bright Office Supplies
+PUR5077,2026-02-18,Input GST,Debit,2762.22,GST on purchases
+PUR5078,2026-04-14,Purchase,Debit,6894.55,Purchase - Keyboard
+PUR5078,2026-04-14,Credit,Credit,7721.9,Chennai Packaging Co
+PUR5078,2026-04-14,Input GST,Debit,827.35,GST on purchases
+PUR5079,2026-03-08,Purchase,Debit,13982.72,Purchase - Router
+PUR5079,2026-03-08,Cash,Credit,16499.61,Delta Electronics
+PUR5079,2026-03-08,Input GST,Debit,2516.89,GST on purchases
+PUR5080,2026-05-27,Purchase,Debit,81458.91,Purchase - Desk
+PUR5080,2026-05-27,Cash,Credit,96121.51,Bright Office Supplies
+PUR5080,2026-05-27,Input GST,Debit,14662.6,GST on purchases
+PUR5081,2026-06-13,Purchase,Debit,54603.8,Purchase - Desk
+PUR5081,2026-06-13,Cash,Credit,57333.99,Delta Electronics
+PUR5081,2026-06-13,Input GST,Debit,2730.19,GST on purchases
+PUR5082,2026-05-23,Purchase,Debit,13903.26,Purchase - Office Chair
+PUR5082,2026-05-23,Credit,Credit,16405.85,Bright Office Supplies
+PUR5082,2026-05-23,Input GST,Debit,2502.59,GST on purchases
+PUR5083,2026-05-24,Purchase,Debit,60589.56,Purchase - Desk
+PUR5083,2026-05-24,Bank,Credit,67860.31,Bright Office Supplies
+PUR5083,2026-05-24,Input GST,Debit,7270.75,GST on purchases
+PUR5084,2026-03-20,Purchase,Debit,37681.63,Purchase - Desk
+PUR5084,2026-03-20,Credit,Credit,42203.43,Delta Electronics
+PUR5084,2026-03-20,Input GST,Debit,4521.8,GST on purchases
+PUR5085,2026-01-31,Purchase,Debit,677029.65,Purchase - Laptop
+PUR5085,2026-01-31,Cash,Credit,798894.99,Delta Electronics
+PUR5085,2026-01-31,Input GST,Debit,121865.34,GST on purchases
+PUR5086,2026-01-19,Purchase,Debit,70735.0,Purchase - Printer
+PUR5086,2026-01-19,Credit,Credit,83467.3,Delta Electronics
+PUR5086,2026-01-19,Input GST,Debit,12732.3,GST on purchases
+PUR5087,2026-05-16,Purchase,Debit,3640.52,Purchase - Router
+PUR5087,2026-05-16,Bank,Credit,3822.55,Chennai Packaging Co
+PUR5087,2026-05-16,Input GST,Debit,182.03,GST on purchases
+PUR5088,2026-02-21,Purchase,Debit,20153.54,Purchase - Router
+PUR5088,2026-02-21,Bank,Credit,22571.96,Chennai Packaging Co
+PUR5088,2026-02-21,Input GST,Debit,2418.42,GST on purchases
+PUR5089,2026-03-22,Purchase,Debit,80305.02,Purchase - Monitor
+PUR5089,2026-03-22,Credit,Credit,84320.27,Bright Office Supplies
+PUR5089,2026-03-22,Input GST,Debit,4015.25,GST on purchases
+PUR5090,2026-06-12,Purchase,Debit,359449.2,Purchase - Laptop
+PUR5090,2026-06-12,Cash,Credit,377421.66,Alpha Components
+PUR5090,2026-06-12,Input GST,Debit,17972.46,GST on purchases
+PUR5091,2026-02-10,Purchase,Debit,39242.44,Purchase - Monitor
+PUR5091,2026-02-10,Credit,Credit,46306.08,Delta Electronics
+PUR5091,2026-02-10,Input GST,Debit,7063.64,GST on purchases
+PUR5092,2026-04-14,Purchase,Debit,21039.2,Purchase - UPS
+PUR5092,2026-04-14,Bank,Credit,24826.26,Delta Electronics
+PUR5092,2026-04-14,Input GST,Debit,3787.06,GST on purchases
+PUR5093,2026-04-06,Purchase,Debit,90997.2,Purchase - Desk
+PUR5093,2026-04-06,Bank,Credit,95547.06,Alpha Components
+PUR5093,2026-04-06,Input GST,Debit,4549.86,GST on purchases
+PUR5094,2026-06-23,Purchase,Debit,43112.6,Purchase - Printer
+PUR5094,2026-06-23,Credit,Credit,48286.11,Alpha Components
+PUR5094,2026-06-23,Input GST,Debit,5173.51,GST on purchases
+PUR5095,2026-02-03,Purchase,Debit,16678.8,Purchase - Router
+PUR5095,2026-02-03,Bank,Credit,17512.74,Alpha Components
+PUR5095,2026-02-03,Input GST,Debit,833.94,GST on purchases
+PUR5096,2026-01-12,Purchase,Debit,45318.78,Purchase - Office Chair
+PUR5096,2026-01-12,Cash,Credit,53476.16,Chennai Packaging Co
+PUR5096,2026-01-12,Input GST,Debit,8157.38,GST on purchases
+PUR5097,2026-03-28,Purchase,Debit,5139.33,Purchase - Keyboard
+PUR5097,2026-03-28,Credit,Credit,5756.05,Delta Electronics
+PUR5097,2026-03-28,Input GST,Debit,616.72,GST on purchases
+PUR5098,2026-02-18,Purchase,Debit,2946.7,Purchase - Router
+PUR5098,2026-02-18,Bank,Credit,3477.11,Bright Office Supplies
+PUR5098,2026-02-18,Input GST,Debit,530.41,GST on purchases
+PUR5099,2026-02-24,Purchase,Debit,49643.1,Purchase - Barcode Scanner
+PUR5099,2026-02-24,Cash,Credit,55600.27,Alpha Components
+PUR5099,2026-02-24,Input GST,Debit,5957.17,GST on purchases
+PUR5100,2026-06-16,Purchase,Debit,17857.56,Purchase - Router
+PUR5100,2026-06-16,Cash,Credit,21071.92,Alpha Components
+PUR5100,2026-06-16,Input GST,Debit,3214.36,GST on purchases
+PUR5101,2026-01-13,Purchase,Debit,126105.36,Purchase - Monitor
+PUR5101,2026-01-13,Cash,Credit,132410.63,Alpha Components
+PUR5101,2026-01-13,Input GST,Debit,6305.27,GST on purchases
+PUR5102,2026-01-30,Purchase,Debit,22038.16,Purchase - UPS
+PUR5102,2026-01-30,Credit,Credit,24682.74,Delta Electronics
+PUR5102,2026-01-30,Input GST,Debit,2644.58,GST on purchases
+PUR5103,2026-06-29,Purchase,Debit,111819.5,Purchase - Printer
+PUR5103,2026-06-29,Credit,Credit,117410.48,Bright Office Supplies
+PUR5103,2026-06-29,Input GST,Debit,5590.98,GST on purchases
+PUR5104,2026-04-18,Purchase,Debit,26980.98,Purchase - External SSD
+PUR5104,2026-04-18,Bank,Credit,31837.56,Alpha Components
+PUR5104,2026-04-18,Input GST,Debit,4856.58,GST on purchases
+PUR5105,2026-04-18,Purchase,Debit,58363.37,Purchase - External SSD
+PUR5105,2026-04-18,Bank,Credit,65366.97,Alpha Components
+PUR5105,2026-04-18,Input GST,Debit,7003.6,GST on purchases
+PUR5106,2026-01-28,Purchase,Debit,80182.52,Purchase - Printer
+PUR5106,2026-01-28,Cash,Credit,89804.42,Delta Electronics
+PUR5106,2026-01-28,Input GST,Debit,9621.9,GST on purchases
+PUR5107,2026-02-21,Purchase,Debit,8619.6,Purchase - Router
+PUR5107,2026-02-21,Credit,Credit,10171.13,Chennai Packaging Co
+PUR5107,2026-02-21,Input GST,Debit,1551.53,GST on purchases
+PUR5108,2026-02-23,Purchase,Debit,24401.7,Purchase - Desk
+PUR5108,2026-02-23,Bank,Credit,28794.01,Delta Electronics
+PUR5108,2026-02-23,Input GST,Debit,4392.31,GST on purchases
+PUR5109,2026-01-29,Purchase,Debit,2066.1,Purchase - Keyboard
+PUR5109,2026-01-29,Cash,Credit,2169.41,Delta Electronics
+PUR5109,2026-01-29,Input GST,Debit,103.31,GST on purchases
+PUR5110,2026-01-26,Purchase,Debit,84774.6,Purchase - Printer
+PUR5110,2026-01-26,Credit,Credit,94947.55,Chennai Packaging Co
+PUR5110,2026-01-26,Input GST,Debit,10172.95,GST on purchases
+PUR5111,2026-04-29,Purchase,Debit,126379.65,Purchase - Monitor
+PUR5111,2026-04-29,Credit,Credit,132698.63,Alpha Components
+PUR5111,2026-04-29,Input GST,Debit,6318.98,GST on purchases
+PUR5112,2026-04-03,Purchase,Debit,18363.67,Purchase - Router
+PUR5112,2026-04-03,Bank,Credit,19281.85,Chennai Packaging Co
+PUR5112,2026-04-03,Input GST,Debit,918.18,GST on purchases
+PUR5113,2026-02-05,Purchase,Debit,46335.31,Purchase - Desk
+PUR5113,2026-02-05,Credit,Credit,54675.67,Bright Office Supplies
+PUR5113,2026-02-05,Input GST,Debit,8340.36,GST on purchases
+PUR5114,2026-01-24,Purchase,Debit,20387.88,Purchase - Desk
+PUR5114,2026-01-24,Credit,Credit,22834.43,Chennai Packaging Co
+PUR5114,2026-01-24,Input GST,Debit,2446.55,GST on purchases
+PUR5115,2026-03-11,Purchase,Debit,42949.62,Purchase - UPS
+PUR5115,2026-03-11,Bank,Credit,45097.1,Delta Electronics
+PUR5115,2026-03-11,Input GST,Debit,2147.48,GST on purchases
+PUR5116,2026-02-03,Purchase,Debit,1837.11,Purchase - Keyboard
+PUR5116,2026-02-03,Credit,Credit,2167.79,Alpha Components
+PUR5116,2026-02-03,Input GST,Debit,330.68,GST on purchases
+PUR5117,2026-05-26,Purchase,Debit,6652.25,Purchase - Keyboard
+PUR5117,2026-05-26,Cash,Credit,7450.52,Delta Electronics
+PUR5117,2026-05-26,Input GST,Debit,798.27,GST on purchases
+PUR5118,2026-01-08,Purchase,Debit,24692.22,Purchase - UPS
+PUR5118,2026-01-08,Credit,Credit,27655.29,Bright Office Supplies
+PUR5118,2026-01-08,Input GST,Debit,2963.07,GST on purchases
+PUR5119,2026-01-12,Purchase,Debit,52682.52,Purchase - Office Chair
+PUR5119,2026-01-12,Cash,Credit,62165.37,Alpha Components
+PUR5119,2026-01-12,Input GST,Debit,9482.85,GST on purchases
+PUR5120,2026-05-15,Purchase,Debit,58950.5,Purchase - Desk
+PUR5120,2026-05-15,Cash,Credit,69561.59,Bright Office Supplies
+PUR5120,2026-05-15,Input GST,Debit,10611.09,GST on purchases
+PUR5121,2026-01-25,Purchase,Debit,69151.68,Purchase - Printer
+PUR5121,2026-01-25,Cash,Credit,81598.98,Delta Electronics
+PUR5121,2026-01-25,Input GST,Debit,12447.3,GST on purchases
+PUR5122,2026-04-09,Purchase,Debit,40464.38,Purchase - External SSD
+PUR5122,2026-04-09,Bank,Credit,47747.97,Bright Office Supplies
+PUR5122,2026-04-09,Input GST,Debit,7283.59,GST on purchases
+PUR5123,2026-05-10,Purchase,Debit,41980.05,Purchase - UPS
+PUR5123,2026-05-10,Credit,Credit,47017.66,Delta Electronics
+PUR5123,2026-05-10,Input GST,Debit,5037.61,GST on purchases
+PUR5124,2026-03-03,Purchase,Debit,9381.62,Purchase - Office Chair
+PUR5124,2026-03-03,Cash,Credit,11070.31,Chennai Packaging Co
+PUR5124,2026-03-03,Input GST,Debit,1688.69,GST on purchases
+PUR5125,2026-04-07,Purchase,Debit,23968.68,Purchase - Printer
+PUR5125,2026-04-07,Credit,Credit,28283.04,Delta Electronics
+PUR5125,2026-04-07,Input GST,Debit,4314.36,GST on purchases
+PUR5126,2026-01-23,Purchase,Debit,19247.48,Purchase - UPS
+PUR5126,2026-01-23,Cash,Credit,21557.18,Delta Electronics
+PUR5126,2026-01-23,Input GST,Debit,2309.7,GST on purchases
+PUR5127,2026-06-17,Purchase,Debit,73390.96,Purchase - Monitor
+PUR5127,2026-06-17,Cash,Credit,86601.33,Alpha Components
+PUR5127,2026-06-17,Input GST,Debit,13210.37,GST on purchases
+PUR5128,2026-01-01,Purchase,Debit,64194.02,Purchase - Barcode Scanner
+PUR5128,2026-01-01,Cash,Credit,75748.94,Alpha Components
+PUR5128,2026-01-01,Input GST,Debit,11554.92,GST on purchases
+PUR5129,2026-02-22,Purchase,Debit,45390.52,Purchase - Desk
+PUR5129,2026-02-22,Credit,Credit,47660.05,Delta Electronics
+PUR5129,2026-02-22,Input GST,Debit,2269.53,GST on purchases
+PUR5130,2026-03-26,Purchase,Debit,74846.72,Purchase - Desk
+PUR5130,2026-03-26,Cash,Credit,78589.06,Delta Electronics
+PUR5130,2026-03-26,Input GST,Debit,3742.34,GST on purchases
+PUR5131,2026-02-26,Purchase,Debit,45452.89,Purchase - Desk
+PUR5131,2026-02-26,Cash,Credit,50907.24,Alpha Components
+PUR5131,2026-02-26,Input GST,Debit,5454.35,GST on purchases
+PUR5132,2026-05-14,Purchase,Debit,21400.32,Purchase - Monitor
+PUR5132,2026-05-14,Bank,Credit,23968.36,Chennai Packaging Co
+PUR5132,2026-05-14,Input GST,Debit,2568.04,GST on purchases
+PUR5133,2026-04-15,Purchase,Debit,46262.04,Purchase - Office Chair
+PUR5133,2026-04-15,Credit,Credit,48575.14,Alpha Components
+PUR5133,2026-04-15,Input GST,Debit,2313.1,GST on purchases
+PUR5134,2026-02-25,Purchase,Debit,99611.46,Purchase - Printer
+PUR5134,2026-02-25,Bank,Credit,111564.84,Delta Electronics
+PUR5134,2026-02-25,Input GST,Debit,11953.38,GST on purchases
+PUR5135,2026-06-12,Purchase,Debit,29847.42,Purchase - UPS
+PUR5135,2026-06-12,Bank,Credit,35219.96,Alpha Components
+PUR5135,2026-06-12,Input GST,Debit,5372.54,GST on purchases
+PUR5136,2026-05-08,Purchase,Debit,47709.22,Purchase - External SSD
+PUR5136,2026-05-08,Cash,Credit,53434.33,Alpha Components
+PUR5136,2026-05-08,Input GST,Debit,5725.11,GST on purchases
+PUR5137,2026-05-04,Purchase,Debit,24034.88,Purchase - Barcode Scanner
+PUR5137,2026-05-04,Bank,Credit,25236.62,Bright Office Supplies
+PUR5137,2026-05-04,Input GST,Debit,1201.74,GST on purchases
+PUR5138,2026-04-10,Purchase,Debit,33623.04,Purchase - External SSD
+PUR5138,2026-04-10,Cash,Credit,39675.19,Chennai Packaging Co
+PUR5138,2026-04-10,Input GST,Debit,6052.15,GST on purchases
+PUR5139,2026-03-05,Purchase,Debit,13118.49,Purchase - Router
+PUR5139,2026-03-05,Bank,Credit,14692.71,Chennai Packaging Co
+PUR5139,2026-03-05,Input GST,Debit,1574.22,GST on purchases
+PUR5140,2026-02-05,Purchase,Debit,81884.01,Purchase - Barcode Scanner
+PUR5140,2026-02-05,Credit,Credit,96623.13,Delta Electronics
+PUR5140,2026-02-05,Input GST,Debit,14739.12,GST on purchases
+PUR5141,2026-06-29,Purchase,Debit,46955.64,Purchase - External SSD
+PUR5141,2026-06-29,Cash,Credit,49303.42,Chennai Packaging Co
+PUR5141,2026-06-29,Input GST,Debit,2347.78,GST on purchases
+PUR5142,2026-03-16,Purchase,Debit,8599.76,Purchase - Keyboard
+PUR5142,2026-03-16,Cash,Credit,9029.75,Chennai Packaging Co
+PUR5142,2026-03-16,Input GST,Debit,429.99,GST on purchases
+PUR5143,2026-05-19,Purchase,Debit,125783.7,Purchase - Monitor
+PUR5143,2026-05-19,Cash,Credit,140877.74,Chennai Packaging Co
+PUR5143,2026-05-19,Input GST,Debit,15094.04,GST on purchases
+PUR5144,2026-05-27,Purchase,Debit,29181.42,Purchase - External SSD
+PUR5144,2026-05-27,Bank,Credit,32683.19,Delta Electronics
+PUR5144,2026-05-27,Input GST,Debit,3501.77,GST on purchases
+PUR5145,2026-05-14,Purchase,Debit,304741.6,Purchase - Laptop
+PUR5145,2026-05-14,Bank,Credit,359595.09,Alpha Components
+PUR5145,2026-05-14,Input GST,Debit,54853.49,GST on purchases
+PUR5146,2026-02-21,Purchase,Debit,4011.06,Purchase - Keyboard
+PUR5146,2026-02-21,Bank,Credit,4211.61,Chennai Packaging Co
+PUR5146,2026-02-21,Input GST,Debit,200.55,GST on purchases
+PUR5147,2026-06-26,Purchase,Debit,114956.24,Purchase - Printer
+PUR5147,2026-06-26,Credit,Credit,128750.99,Chennai Packaging Co
+PUR5147,2026-06-26,Input GST,Debit,13794.75,GST on purchases
+PUR5148,2026-01-27,Purchase,Debit,31537.12,Purchase - External SSD
+PUR5148,2026-01-27,Credit,Credit,37213.8,Bright Office Supplies
+PUR5148,2026-01-27,Input GST,Debit,5676.68,GST on purchases
+PUR5149,2026-06-27,Purchase,Debit,12599.6,Purchase - Router
+PUR5149,2026-06-27,Credit,Credit,14867.53,Alpha Components
+PUR5149,2026-06-27,Input GST,Debit,2267.93,GST on purchases
+PUR5150,2026-05-22,Purchase,Debit,515051.03,Purchase - Laptop
+PUR5150,2026-05-22,Credit,Credit,607760.22,Alpha Components
+PUR5150,2026-05-22,Input GST,Debit,92709.19,GST on purchases
+PUR5151,2026-02-27,Purchase,Debit,60235.2,Purchase - Barcode Scanner
+PUR5151,2026-02-27,Cash,Credit,63246.96,Chennai Packaging Co
+PUR5151,2026-02-27,Input GST,Debit,3011.76,GST on purchases
+PUR5152,2026-02-19,Purchase,Debit,14630.52,Purchase - UPS
+PUR5152,2026-02-19,Bank,Credit,15362.05,Chennai Packaging Co
+PUR5152,2026-02-19,Input GST,Debit,731.53,GST on purchases
+PUR5153,2026-02-14,Purchase,Debit,3162.78,Purchase - Router
+PUR5153,2026-02-14,Credit,Credit,3732.08,Alpha Components
+PUR5153,2026-02-14,Input GST,Debit,569.3,GST on purchases
+PUR5154,2026-02-03,Purchase,Debit,76864.95,Purchase - Barcode Scanner
+PUR5154,2026-02-03,Credit,Credit,86088.74,Bright Office Supplies
+PUR5154,2026-02-03,Input GST,Debit,9223.79,GST on purchases
+PUR5155,2026-02-09,Purchase,Debit,4552.38,Purchase - Keyboard
+PUR5155,2026-02-09,Cash,Credit,5371.81,Alpha Components
+PUR5155,2026-02-09,Input GST,Debit,819.43,GST on purchases
+PUR5156,2026-06-19,Purchase,Debit,45168.34,Purchase - UPS
+PUR5156,2026-06-19,Bank,Credit,50588.54,Chennai Packaging Co
+PUR5156,2026-06-19,Input GST,Debit,5420.2,GST on purchases
+PUR5157,2026-03-23,Purchase,Debit,5393.2,Purchase - Keyboard
+PUR5157,2026-03-23,Bank,Credit,6363.98,Bright Office Supplies
+PUR5157,2026-03-23,Input GST,Debit,970.78,GST on purchases
+PUR5158,2026-04-17,Purchase,Debit,60002.39,Purchase - Monitor
+PUR5158,2026-04-17,Cash,Credit,63002.51,Delta Electronics
+PUR5158,2026-04-17,Input GST,Debit,3000.12,GST on purchases
+PUR5159,2026-03-26,Purchase,Debit,31805.82,Purchase - Desk
+PUR5159,2026-03-26,Cash,Credit,37530.87,Chennai Packaging Co
+PUR5159,2026-03-26,Input GST,Debit,5725.05,GST on purchases
+PUR5160,2026-05-02,Purchase,Debit,107579.04,Purchase - Monitor
+PUR5160,2026-05-02,Cash,Credit,112957.99,Alpha Components
+PUR5160,2026-05-02,Input GST,Debit,5378.95,GST on purchases
+PUR5161,2026-06-07,Purchase,Debit,585042.12,Purchase - Laptop
+PUR5161,2026-06-07,Bank,Credit,655247.17,Bright Office Supplies
+PUR5161,2026-06-07,Input GST,Debit,70205.05,GST on purchases
+PUR5162,2026-04-09,Purchase,Debit,52094.51,Purchase - External SSD
+PUR5162,2026-04-09,Credit,Credit,61471.52,Chennai Packaging Co
+PUR5162,2026-04-09,Input GST,Debit,9377.01,GST on purchases
+PUR5163,2026-05-12,Purchase,Debit,5872.52,Purchase - UPS
+PUR5163,2026-05-12,Bank,Credit,6929.57,Delta Electronics
+PUR5163,2026-05-12,Input GST,Debit,1057.05,GST on purchases
+PUR5164,2026-03-24,Purchase,Debit,43742.52,Purchase - Monitor
+PUR5164,2026-03-24,Cash,Credit,51616.17,Alpha Components
+PUR5164,2026-03-24,Input GST,Debit,7873.65,GST on purchases
+PUR5165,2026-01-02,Purchase,Debit,101396.28,Purchase - Printer
+PUR5165,2026-01-02,Cash,Credit,106466.09,Alpha Components
+PUR5165,2026-01-02,Input GST,Debit,5069.81,GST on purchases
+PUR5166,2026-04-19,Purchase,Debit,89876.2,Purchase - Printer
+PUR5166,2026-04-19,Credit,Credit,106053.92,Alpha Components
+PUR5166,2026-04-19,Input GST,Debit,16177.72,GST on purchases
+PUR5167,2026-06-15,Purchase,Debit,1242.88,Purchase - Keyboard
+PUR5167,2026-06-15,Bank,Credit,1392.03,Alpha Components
+PUR5167,2026-06-15,Input GST,Debit,149.15,GST on purchases
+PUR5168,2026-01-23,Purchase,Debit,189746.76,Purchase - Laptop
+PUR5168,2026-01-23,Bank,Credit,223901.18,Alpha Components
+PUR5168,2026-01-23,Input GST,Debit,34154.42,GST on purchases
+PUR5169,2026-05-28,Purchase,Debit,36042.64,Purchase - Office Chair
+PUR5169,2026-05-28,Credit,Credit,42530.32,Bright Office Supplies
+PUR5169,2026-05-28,Input GST,Debit,6487.68,GST on purchases
+PUR5170,2026-04-21,Purchase,Debit,365564.0,Purchase - Laptop
+PUR5170,2026-04-21,Bank,Credit,431365.52,Chennai Packaging Co
+PUR5170,2026-04-21,Input GST,Debit,65801.52,GST on purchases
+PUR5171,2026-06-14,Purchase,Debit,11907.28,Purchase - Barcode Scanner
+PUR5171,2026-06-14,Credit,Credit,12502.64,Alpha Components
+PUR5171,2026-06-14,Input GST,Debit,595.36,GST on purchases
+PUR5172,2026-05-09,Purchase,Debit,69579.58,Purchase - Office Chair
+PUR5172,2026-05-09,Bank,Credit,82103.9,Alpha Components
+PUR5172,2026-05-09,Input GST,Debit,12524.32,GST on purchases
+PUR5173,2026-03-14,Purchase,Debit,14351.6,Purchase - Router
+PUR5173,2026-03-14,Credit,Credit,15069.18,Delta Electronics
+PUR5173,2026-03-14,Input GST,Debit,717.58,GST on purchases
+PUR5174,2026-02-10,Purchase,Debit,7892.43,Purchase - Keyboard
+PUR5174,2026-02-10,Credit,Credit,9313.07,Bright Office Supplies
+PUR5174,2026-02-10,Input GST,Debit,1420.64,GST on purchases
+PUR5175,2026-06-12,Purchase,Debit,63404.28,Purchase - Office Chair
+PUR5175,2026-06-12,Cash,Credit,74817.05,Bright Office Supplies
+PUR5175,2026-06-12,Input GST,Debit,11412.77,GST on purchases
+PUR5176,2026-04-06,Purchase,Debit,65989.5,Purchase - External SSD
+PUR5176,2026-04-06,Bank,Credit,69288.98,Alpha Components
+PUR5176,2026-04-06,Input GST,Debit,3299.48,GST on purchases
+PUR5177,2026-01-02,Purchase,Debit,49636.5,Purchase - External SSD
+PUR5177,2026-01-02,Bank,Credit,55592.88,Delta Electronics
+PUR5177,2026-01-02,Input GST,Debit,5956.38,GST on purchases
+PUR5178,2026-03-30,Purchase,Debit,21717.48,Purchase - Router
+PUR5178,2026-03-30,Bank,Credit,22803.35,Bright Office Supplies
+PUR5178,2026-03-30,Input GST,Debit,1085.87,GST on purchases
+PUR5179,2026-02-17,Purchase,Debit,76801.5,Purchase - Barcode Scanner
+PUR5179,2026-02-17,Bank,Credit,80641.58,Bright Office Supplies
+PUR5179,2026-02-17,Input GST,Debit,3840.08,GST on purchases
+PUR5180,2026-06-21,Purchase,Debit,40754.97,Purchase - External SSD
+PUR5180,2026-06-21,Credit,Credit,42792.72,Alpha Components
+PUR5180,2026-06-21,Input GST,Debit,2037.75,GST on purchases
+PUR5181,2026-06-21,Purchase,Debit,12623.91,Purchase - Office Chair
+PUR5181,2026-06-21,Credit,Credit,14896.21,Alpha Components
+PUR5181,2026-06-21,Input GST,Debit,2272.3,GST on purchases
+PUR5182,2026-03-26,Purchase,Debit,7951.8,Purchase - Keyboard
+PUR5182,2026-03-26,Credit,Credit,8349.39,Chennai Packaging Co
+PUR5182,2026-03-26,Input GST,Debit,397.59,GST on purchases
+PUR5183,2026-06-08,Purchase,Debit,56432.81,Purchase - Printer
+PUR5183,2026-06-08,Cash,Credit,63204.75,Alpha Components
+PUR5183,2026-06-08,Input GST,Debit,6771.94,GST on purchases
+PUR5184,2026-06-18,Purchase,Debit,22807.72,Purchase - Barcode Scanner
+PUR5184,2026-06-18,Credit,Credit,25544.65,Chennai Packaging Co
+PUR5184,2026-06-18,Input GST,Debit,2736.93,GST on purchases
+PUR5185,2026-04-20,Purchase,Debit,276814.44,Purchase - Laptop
+PUR5185,2026-04-20,Cash,Credit,290655.16,Bright Office Supplies
+PUR5185,2026-04-20,Input GST,Debit,13840.72,GST on purchases
+PUR5186,2026-06-14,Purchase,Debit,66912.0,Purchase - Office Chair
+PUR5186,2026-06-14,Cash,Credit,78956.16,Delta Electronics
+PUR5186,2026-06-14,Input GST,Debit,12044.16,GST on purchases
+PUR5187,2026-03-26,Purchase,Debit,27015.12,Purchase - UPS
+PUR5187,2026-03-26,Credit,Credit,30256.93,Delta Electronics
+PUR5187,2026-03-26,Input GST,Debit,3241.81,GST on purchases
+PUR5188,2026-05-22,Purchase,Debit,7828.68,Purchase - Keyboard
+PUR5188,2026-05-22,Bank,Credit,8768.12,Alpha Components
+PUR5188,2026-05-22,Input GST,Debit,939.44,GST on purchases
+PUR5189,2026-05-18,Purchase,Debit,68674.84,Purchase - Office Chair
+PUR5189,2026-05-18,Cash,Credit,72108.58,Bright Office Supplies
+PUR5189,2026-05-18,Input GST,Debit,3433.74,GST on purchases
+PUR5190,2026-01-20,Purchase,Debit,43739.04,Purchase - External SSD
+PUR5190,2026-01-20,Cash,Credit,51612.07,Alpha Components
+PUR5190,2026-01-20,Input GST,Debit,7873.03,GST on purchases
+PUR5191,2026-04-14,Purchase,Debit,397528.8,Purchase - Laptop
+PUR5191,2026-04-14,Credit,Credit,469083.98,Bright Office Supplies
+PUR5191,2026-04-14,Input GST,Debit,71555.18,GST on purchases
+PUR5192,2026-06-17,Purchase,Debit,42483.6,Purchase - Desk
+PUR5192,2026-06-17,Cash,Credit,50130.65,Bright Office Supplies
+PUR5192,2026-06-17,Input GST,Debit,7647.05,GST on purchases
+PUR5193,2026-03-16,Purchase,Debit,31609.3,Purchase - UPS
+PUR5193,2026-03-16,Credit,Credit,35402.42,Bright Office Supplies
+PUR5193,2026-03-16,Input GST,Debit,3793.12,GST on purchases
+PUR5194,2026-05-09,Purchase,Debit,140292.0,Purchase - Printer
+PUR5194,2026-05-09,Cash,Credit,165544.56,Alpha Components
+PUR5194,2026-05-09,Input GST,Debit,25252.56,GST on purchases
+PUR5195,2026-02-12,Purchase,Debit,11252.4,Purchase - UPS
+PUR5195,2026-02-12,Cash,Credit,13277.83,Bright Office Supplies
+PUR5195,2026-02-12,Input GST,Debit,2025.43,GST on purchases
+PUR5196,2026-02-07,Purchase,Debit,10603.4,Purchase - Desk
+PUR5196,2026-02-07,Bank,Credit,11875.81,Delta Electronics
+PUR5196,2026-02-07,Input GST,Debit,1272.41,GST on purchases
+PUR5197,2026-01-17,Purchase,Debit,24792.4,Purchase - Desk
+PUR5197,2026-01-17,Cash,Credit,26032.02,Chennai Packaging Co
+PUR5197,2026-01-17,Input GST,Debit,1239.62,GST on purchases
+PUR5198,2026-04-03,Purchase,Debit,31955.67,Purchase - UPS
+PUR5198,2026-04-03,Cash,Credit,33553.45,Delta Electronics
+PUR5198,2026-04-03,Input GST,Debit,1597.78,GST on purchases
+PUR5199,2026-03-24,Purchase,Debit,57536.28,Purchase - External SSD
+PUR5199,2026-03-24,Credit,Credit,67892.81,Alpha Components
+PUR5199,2026-03-24,Input GST,Debit,10356.53,GST on purchases
+PUR5200,2026-05-29,Purchase,Debit,18652.8,Purchase - Router
+PUR5200,2026-05-29,Cash,Credit,22010.3,Bright Office Supplies
+PUR5200,2026-05-29,Input GST,Debit,3357.5,GST on purchases
+PUR5201,2026-01-20,Purchase,Debit,8144.2,Purchase - Router
+PUR5201,2026-01-20,Credit,Credit,9121.5,Chennai Packaging Co
+PUR5201,2026-01-20,Input GST,Debit,977.3,GST on purchases
+PUR5202,2026-05-05,Purchase,Debit,11166.84,Purchase - Barcode Scanner
+PUR5202,2026-05-05,Credit,Credit,11725.18,Delta Electronics
+PUR5202,2026-05-05,Input GST,Debit,558.34,GST on purchases
+PUR5203,2026-02-12,Purchase,Debit,99019.5,Purchase - Monitor
+PUR5203,2026-02-12,Bank,Credit,103970.48,Bright Office Supplies
+PUR5203,2026-02-12,Input GST,Debit,4950.98,GST on purchases
+PUR5204,2026-02-17,Purchase,Debit,69011.14,Purchase - Desk
+PUR5204,2026-02-17,Cash,Credit,72461.7,Bright Office Supplies
+PUR5204,2026-02-17,Input GST,Debit,3450.56,GST on purchases
+PUR5205,2026-02-28,Purchase,Debit,66248.13,Purchase - Desk
+PUR5205,2026-02-28,Credit,Credit,78172.79,Delta Electronics
+PUR5205,2026-02-28,Input GST,Debit,11924.66,GST on purchases
+PUR5206,2026-05-03,Purchase,Debit,23415.6,Purchase - Barcode Scanner
+PUR5206,2026-05-03,Bank,Credit,26225.47,Bright Office Supplies
+PUR5206,2026-05-03,Input GST,Debit,2809.87,GST on purchases
+PUR5207,2026-03-04,Purchase,Debit,7143.29,Purchase - Keyboard
+PUR5207,2026-03-04,Cash,Credit,7500.45,Alpha Components
+PUR5207,2026-03-04,Input GST,Debit,357.16,GST on purchases
+PUR5208,2026-05-12,Purchase,Debit,19016.0,Purchase - Barcode Scanner
+PUR5208,2026-05-12,Bank,Credit,21297.92,Alpha Components
+PUR5208,2026-05-12,Input GST,Debit,2281.92,GST on purchases
+PUR5209,2026-05-13,Purchase,Debit,64195.78,Purchase - Barcode Scanner
+PUR5209,2026-05-13,Cash,Credit,75751.02,Delta Electronics
+PUR5209,2026-05-13,Input GST,Debit,11555.24,GST on purchases
+PUR5210,2026-06-19,Purchase,Debit,46449.95,Purchase - Monitor
+PUR5210,2026-06-19,Credit,Credit,52023.94,Chennai Packaging Co
+PUR5210,2026-06-19,Input GST,Debit,5573.99,GST on purchases
+PUR5211,2026-02-13,Purchase,Debit,15697.66,Purchase - Router
+PUR5211,2026-02-13,Bank,Credit,18523.24,Bright Office Supplies
+PUR5211,2026-02-13,Input GST,Debit,2825.58,GST on purchases
+PUR5212,2026-06-09,Purchase,Debit,8696.61,Purchase - Keyboard
+PUR5212,2026-06-09,Cash,Credit,9740.2,Chennai Packaging Co
+PUR5212,2026-06-09,Input GST,Debit,1043.59,GST on purchases
+PUR5213,2026-06-01,Purchase,Debit,62326.0,Purchase - Printer
+PUR5213,2026-06-01,Bank,Credit,65442.3,Alpha Components
+PUR5213,2026-06-01,Input GST,Debit,3116.3,GST on purchases
+PUR5214,2026-02-21,Purchase,Debit,5997.42,Purchase - Keyboard
+PUR5214,2026-02-21,Cash,Credit,6717.11,Delta Electronics
+PUR5214,2026-02-21,Input GST,Debit,719.69,GST on purchases
+PUR5215,2026-06-03,Purchase,Debit,46834.3,Purchase - External SSD
+PUR5215,2026-06-03,Credit,Credit,49176.02,Alpha Components
+PUR5215,2026-06-03,Input GST,Debit,2341.72,GST on purchases
+PUR5216,2026-06-18,Purchase,Debit,61891.9,Purchase - Barcode Scanner
+PUR5216,2026-06-18,Cash,Credit,73032.44,Bright Office Supplies
+PUR5216,2026-06-18,Input GST,Debit,11140.54,GST on purchases
+PUR5217,2026-04-21,Purchase,Debit,74395.5,Purchase - Desk
+PUR5217,2026-04-21,Credit,Credit,87786.69,Delta Electronics
+PUR5217,2026-04-21,Input GST,Debit,13391.19,GST on purchases
+PUR5218,2026-02-28,Purchase,Debit,11676.63,Purchase - Router
+PUR5218,2026-02-28,Cash,Credit,13778.42,Delta Electronics
+PUR5218,2026-02-28,Input GST,Debit,2101.79,GST on purchases
+PUR5219,2026-05-28,Purchase,Debit,5949.76,Purchase - Router
+PUR5219,2026-05-28,Bank,Credit,6247.25,Alpha Components
+PUR5219,2026-05-28,Input GST,Debit,297.49,GST on purchases
+PUR5220,2026-03-14,Purchase,Debit,19542.65,Purchase - Office Chair
+PUR5220,2026-03-14,Bank,Credit,23060.33,Delta Electronics
+PUR5220,2026-03-14,Input GST,Debit,3517.68,GST on purchases

@@ -1,0 +1,221 @@
+voucher_no,date,supplier_id,supplier_name,city,item_id,item_name,category,quantity,unit_cost,base_amount,tax,total_amount,payment_mode
+PUR5001,2026-02-20,S004,Delta Electronics,Guindy,ITM006,Desk,Furniture,12,6104.08,73248.96,13184.81,86433.77,Bank
+PUR5002,2026-05-30,S003,Chennai Packaging Co,Redhills,ITM002,Monitor,Electronics,2,11016.06,22032.12,1101.61,23133.73,Cash
+PUR5003,2026-04-24,S002,Bright Office Supplies,Ambattur,ITM002,Monitor,Electronics,15,10487.47,157312.05,18877.45,176189.5,Bank
+PUR5004,2026-01-11,S004,Delta Electronics,Guindy,ITM001,Laptop,Electronics,4,49307.5,197230.0,23667.6,220897.6,Cash
+PUR5005,2026-04-12,S004,Delta Electronics,Guindy,ITM001,Laptop,Electronics,8,45838.27,366706.16,18335.31,385041.47,Credit
+PUR5006,2026-02-24,S002,Bright Office Supplies,Ambattur,ITM005,Office Chair,Furniture,6,4595.78,27574.68,1378.73,28953.41,Bank
+PUR5007,2026-06-07,S002,Bright Office Supplies,Ambattur,ITM005,Office Chair,Furniture,9,4542.71,40884.39,7359.19,48243.58,Credit
+PUR5008,2026-01-16,S001,Alpha Components,Chennai,ITM005,Office Chair,Furniture,8,4114.09,32912.72,1645.64,34558.36,Cash
+PUR5009,2026-05-15,S002,Bright Office Supplies,Ambattur,ITM009,External SSD,Storage,14,3628.12,50793.68,6095.24,56888.92,Cash
+PUR5010,2026-04-02,S004,Delta Electronics,Guindy,ITM009,External SSD,Storage,14,4297.94,60171.16,10830.81,71001.97,Cash
+PUR5011,2026-03-24,S004,Delta Electronics,Guindy,ITM005,Office Chair,Furniture,4,3940.66,15762.64,2837.28,18599.92,Bank
+PUR5012,2026-01-08,S003,Chennai Packaging Co,Redhills,ITM001,Laptop,Electronics,14,50278.05,703892.7,126700.69,830593.39,Credit
+PUR5013,2026-05-30,S002,Bright Office Supplies,Ambattur,ITM003,Keyboard,Accessories,3,577.05,1731.15,86.56,1817.71,Credit
+PUR5014,2026-05-17,S001,Alpha Components,Chennai,ITM004,Printer,Electronics,11,9035.56,99391.16,11926.94,111318.1,Credit
+PUR5015,2026-02-14,S002,Bright Office Supplies,Ambattur,ITM004,Printer,Electronics,11,7608.61,83694.71,15065.05,98759.76,Cash
+PUR5016,2026-04-02,S001,Alpha Components,Chennai,ITM006,Desk,Furniture,11,5974.03,65714.33,11828.58,77542.91,Bank
+PUR5017,2026-05-07,S003,Chennai Packaging Co,Redhills,ITM003,Keyboard,Accessories,9,532.97,4796.73,239.84,5036.57,Bank
+PUR5018,2026-06-04,S002,Bright Office Supplies,Ambattur,ITM001,Laptop,Electronics,10,42883.04,428830.4,51459.65,480290.05,Cash
+PUR5019,2026-02-21,S002,Bright Office Supplies,Ambattur,ITM006,Desk,Furniture,13,5221.05,67873.65,8144.84,76018.49,Bank
+PUR5020,2026-01-06,S002,Bright Office Supplies,Ambattur,ITM010,Barcode Scanner,POS,13,6356.04,82628.52,4131.43,86759.95,Cash
+PUR5021,2026-04-04,S001,Alpha Components,Chennai,ITM006,Desk,Furniture,13,6711.75,87252.75,10470.33,97723.08,Cash
+PUR5022,2026-01-26,S003,Chennai Packaging Co,Redhills,ITM005,Office Chair,Furniture,7,4112.86,28790.02,1439.5,30229.52,Cash
+PUR5023,2026-04-22,S004,Delta Electronics,Guindy,ITM006,Desk,Furniture,4,6254.01,25016.04,4502.89,29518.93,Cash
+PUR5024,2026-06-07,S003,Chennai Packaging Co,Redhills,ITM004,Printer,Electronics,12,8340.17,100082.04,5004.1,105086.14,Credit
+PUR5025,2026-03-20,S003,Chennai Packaging Co,Redhills,ITM003,Keyboard,Accessories,4,678.05,2712.2,488.2,3200.4,Cash
+PUR5026,2026-04-11,S001,Alpha Components,Chennai,ITM003,Keyboard,Accessories,11,591.83,6510.13,1171.82,7681.95,Bank
+PUR5027,2026-06-13,S001,Alpha Components,Chennai,ITM008,UPS,Electronics,4,2972.73,11890.92,594.55,12485.47,Bank
+PUR5028,2026-03-30,S003,Chennai Packaging Co,Redhills,ITM003,Keyboard,Accessories,12,710.92,8531.04,426.55,8957.59,Cash
+PUR5029,2026-06-21,S003,Chennai Packaging Co,Redhills,ITM008,UPS,Electronics,2,2903.47,5806.94,290.35,6097.29,Cash
+PUR5030,2026-01-18,S003,Chennai Packaging Co,Redhills,ITM005,Office Chair,Furniture,14,4068.53,56959.42,2847.97,59807.39,Bank
+PUR5031,2026-04-09,S004,Delta Electronics,Guindy,ITM007,Router,Networking,4,1827.66,7310.64,877.28,8187.92,Credit
+PUR5032,2026-03-31,S004,Delta Electronics,Guindy,ITM002,Monitor,Electronics,15,9385.39,140780.85,25340.55,166121.4,Cash
+PUR5033,2026-06-25,S002,Bright Office Supplies,Ambattur,ITM003,Keyboard,Accessories,9,540.48,4864.32,243.22,5107.54,Credit
+PUR5034,2026-01-06,S003,Chennai Packaging Co,Redhills,ITM005,Office Chair,Furniture,3,4015.75,12047.25,602.36,12649.61,Credit
+PUR5035,2026-02-11,S001,Alpha Components,Chennai,ITM009,External SSD,Storage,3,4086.65,12259.95,2206.79,14466.74,Credit
+PUR5036,2026-06-30,S001,Alpha Components,Chennai,ITM007,Router,Networking,12,1439.1,17269.2,2072.3,19341.5,Bank
+PUR5037,2026-01-14,S001,Alpha Components,Chennai,ITM006,Desk,Furniture,5,6775.08,33875.4,4065.05,37940.45,Cash
+PUR5038,2026-05-22,S003,Chennai Packaging Co,Redhills,ITM005,Office Chair,Furniture,6,4270.58,25623.48,1281.17,26904.65,Credit
+PUR5039,2026-05-27,S004,Delta Electronics,Guindy,ITM003,Keyboard,Accessories,2,600.77,1201.54,144.18,1345.72,Bank
+PUR5040,2026-03-17,S004,Delta Electronics,Guindy,ITM004,Printer,Electronics,3,6819.49,20458.47,1022.92,21481.39,Cash
+PUR5041,2026-03-16,S001,Alpha Components,Chennai,ITM008,UPS,Electronics,15,2746.28,41194.2,4943.3,46137.5,Credit
+PUR5042,2026-05-06,S003,Chennai Packaging Co,Redhills,ITM002,Monitor,Electronics,12,9589.0,115068.0,5753.4,120821.4,Credit
+PUR5043,2026-04-08,S003,Chennai Packaging Co,Redhills,ITM003,Keyboard,Accessories,9,534.37,4809.33,577.12,5386.45,Credit
+PUR5044,2026-03-09,S002,Bright Office Supplies,Ambattur,ITM005,Office Chair,Furniture,11,3996.16,43957.76,7912.4,51870.16,Cash
+PUR5045,2026-01-25,S001,Alpha Components,Chennai,ITM006,Desk,Furniture,14,5930.83,83031.62,14945.69,97977.31,Bank
+PUR5046,2026-05-22,S001,Alpha Components,Chennai,ITM007,Router,Networking,15,1632.19,24482.85,4406.91,28889.76,Cash
+PUR5047,2026-05-02,S002,Bright Office Supplies,Ambattur,ITM008,UPS,Electronics,6,2707.9,16247.4,2924.53,19171.93,Bank
+PUR5048,2026-05-09,S002,Bright Office Supplies,Ambattur,ITM002,Monitor,Electronics,14,9289.48,130052.72,6502.64,136555.36,Bank
+PUR5049,2026-02-19,S002,Bright Office Supplies,Ambattur,ITM001,Laptop,Electronics,8,37128.51,297028.08,53465.05,350493.13,Credit
+PUR5050,2026-02-21,S002,Bright Office Supplies,Ambattur,ITM010,Barcode Scanner,POS,6,5244.73,31468.38,5664.31,37132.69,Bank
+PUR5051,2026-01-23,S004,Delta Electronics,Guindy,ITM009,External SSD,Storage,8,4394.96,35159.68,4219.16,39378.84,Cash
+PUR5052,2026-04-28,S001,Alpha Components,Chennai,ITM010,Barcode Scanner,POS,11,5621.97,61841.67,7421.0,69262.67,Bank
+PUR5053,2026-04-17,S002,Bright Office Supplies,Ambattur,ITM003,Keyboard,Accessories,11,648.47,7133.17,356.66,7489.83,Bank
+PUR5054,2026-05-25,S001,Alpha Components,Chennai,ITM005,Office Chair,Furniture,15,4735.59,71033.85,8524.06,79557.91,Credit
+PUR5055,2026-03-09,S004,Delta Electronics,Guindy,ITM008,UPS,Electronics,11,3264.41,35908.51,1795.43,37703.94,Bank
+PUR5056,2026-03-12,S004,Delta Electronics,Guindy,ITM003,Keyboard,Accessories,11,652.82,7181.02,1292.58,8473.6,Credit
+PUR5057,2026-01-10,S004,Delta Electronics,Guindy,ITM006,Desk,Furniture,13,5338.28,69397.64,12491.58,81889.22,Credit
+PUR5058,2026-03-10,S003,Chennai Packaging Co,Redhills,ITM001,Laptop,Electronics,7,47770.36,334392.52,40127.1,374519.62,Credit
+PUR5059,2026-03-13,S004,Delta Electronics,Guindy,ITM002,Monitor,Electronics,15,8593.07,128896.05,15467.53,144363.58,Cash
+PUR5060,2026-04-24,S003,Chennai Packaging Co,Redhills,ITM005,Office Chair,Furniture,13,4550.17,59152.21,10647.4,69799.61,Bank
+PUR5061,2026-02-18,S004,Delta Electronics,Guindy,ITM004,Printer,Electronics,15,7849.36,117740.4,14128.85,131869.25,Cash
+PUR5062,2026-04-06,S001,Alpha Components,Chennai,ITM009,External SSD,Storage,14,3828.92,53604.88,6432.59,60037.47,Cash
+PUR5063,2026-05-10,S004,Delta Electronics,Guindy,ITM003,Keyboard,Accessories,14,703.77,9852.78,1773.5,11626.28,Bank
+PUR5064,2026-02-14,S002,Bright Office Supplies,Ambattur,ITM004,Printer,Electronics,15,6905.59,103583.85,5179.19,108763.04,Credit
+PUR5065,2026-01-13,S003,Chennai Packaging Co,Redhills,ITM004,Printer,Electronics,6,7744.55,46467.3,5576.08,52043.38,Cash
+PUR5066,2026-04-12,S001,Alpha Components,Chennai,ITM001,Laptop,Electronics,5,41363.52,206817.6,37227.17,244044.77,Credit
+PUR5067,2026-02-15,S004,Delta Electronics,Guindy,ITM010,Barcode Scanner,POS,10,5300.55,53005.5,2650.28,55655.78,Credit
+PUR5068,2026-06-26,S001,Alpha Components,Chennai,ITM005,Office Chair,Furniture,2,4503.04,9006.08,450.3,9456.38,Cash
+PUR5069,2026-02-24,S002,Bright Office Supplies,Ambattur,ITM004,Printer,Electronics,12,7308.17,87698.04,15785.65,103483.69,Credit
+PUR5070,2026-05-12,S001,Alpha Components,Chennai,ITM001,Laptop,Electronics,9,49125.82,442132.38,79583.83,521716.21,Bank
+PUR5071,2026-06-03,S001,Alpha Components,Chennai,ITM004,Printer,Electronics,6,8392.53,50355.18,6042.62,56397.8,Cash
+PUR5072,2026-06-14,S003,Chennai Packaging Co,Redhills,ITM007,Router,Networking,8,1809.86,14478.88,1737.47,16216.35,Credit
+PUR5073,2026-02-25,S004,Delta Electronics,Guindy,ITM005,Office Chair,Furniture,12,4712.2,56546.4,10178.35,66724.75,Credit
+PUR5074,2026-05-30,S001,Alpha Components,Chennai,ITM001,Laptop,Electronics,10,50391.78,503917.8,60470.14,564387.94,Cash
+PUR5075,2026-06-15,S003,Chennai Packaging Co,Redhills,ITM005,Office Chair,Furniture,12,4068.64,48823.68,2441.18,51264.86,Credit
+PUR5076,2026-03-12,S003,Chennai Packaging Co,Redhills,ITM005,Office Chair,Furniture,6,4923.55,29541.3,5317.43,34858.73,Credit
+PUR5077,2026-02-18,S002,Bright Office Supplies,Ambattur,ITM009,External SSD,Storage,14,3946.03,55244.42,2762.22,58006.64,Cash
+PUR5078,2026-04-14,S003,Chennai Packaging Co,Redhills,ITM003,Keyboard,Accessories,13,530.35,6894.55,827.35,7721.9,Credit
+PUR5079,2026-03-08,S004,Delta Electronics,Guindy,ITM007,Router,Networking,8,1747.84,13982.72,2516.89,16499.61,Cash
+PUR5080,2026-05-27,S002,Bright Office Supplies,Ambattur,ITM006,Desk,Furniture,13,6266.07,81458.91,14662.6,96121.51,Cash
+PUR5081,2026-06-13,S004,Delta Electronics,Guindy,ITM006,Desk,Furniture,10,5460.38,54603.8,2730.19,57333.99,Cash
+PUR5082,2026-05-23,S002,Bright Office Supplies,Ambattur,ITM005,Office Chair,Furniture,3,4634.42,13903.26,2502.59,16405.85,Credit
+PUR5083,2026-05-24,S002,Bright Office Supplies,Ambattur,ITM006,Desk,Furniture,12,5049.13,60589.56,7270.75,67860.31,Bank
+PUR5084,2026-03-20,S004,Delta Electronics,Guindy,ITM006,Desk,Furniture,7,5383.09,37681.63,4521.8,42203.43,Credit
+PUR5085,2026-01-31,S004,Delta Electronics,Guindy,ITM001,Laptop,Electronics,15,45135.31,677029.65,121865.34,798894.99,Cash
+PUR5086,2026-01-19,S004,Delta Electronics,Guindy,ITM004,Printer,Electronics,10,7073.5,70735.0,12732.3,83467.3,Credit
+PUR5087,2026-05-16,S003,Chennai Packaging Co,Redhills,ITM007,Router,Networking,2,1820.26,3640.52,182.03,3822.55,Bank
+PUR5088,2026-02-21,S003,Chennai Packaging Co,Redhills,ITM007,Router,Networking,11,1832.14,20153.54,2418.42,22571.96,Bank
+PUR5089,2026-03-22,S002,Bright Office Supplies,Ambattur,ITM002,Monitor,Electronics,9,8922.78,80305.02,4015.25,84320.27,Credit
+PUR5090,2026-06-12,S001,Alpha Components,Chennai,ITM001,Laptop,Electronics,9,39938.8,359449.2,17972.46,377421.66,Cash
+PUR5091,2026-02-10,S004,Delta Electronics,Guindy,ITM002,Monitor,Electronics,4,9810.61,39242.44,7063.64,46306.08,Credit
+PUR5092,2026-04-14,S004,Delta Electronics,Guindy,ITM008,UPS,Electronics,8,2629.9,21039.2,3787.06,24826.26,Bank
+PUR5093,2026-04-06,S001,Alpha Components,Chennai,ITM006,Desk,Furniture,14,6499.8,90997.2,4549.86,95547.06,Bank
+PUR5094,2026-06-23,S001,Alpha Components,Chennai,ITM004,Printer,Electronics,5,8622.52,43112.6,5173.51,48286.11,Credit
+PUR5095,2026-02-03,S001,Alpha Components,Chennai,ITM007,Router,Networking,10,1667.88,16678.8,833.94,17512.74,Bank
+PUR5096,2026-01-12,S003,Chennai Packaging Co,Redhills,ITM005,Office Chair,Furniture,9,5035.42,45318.78,8157.38,53476.16,Cash
+PUR5097,2026-03-28,S004,Delta Electronics,Guindy,ITM003,Keyboard,Accessories,7,734.19,5139.33,616.72,5756.05,Credit
+PUR5098,2026-02-18,S002,Bright Office Supplies,Ambattur,ITM007,Router,Networking,2,1473.35,2946.7,530.41,3477.11,Bank
+PUR5099,2026-02-24,S001,Alpha Components,Chennai,ITM010,Barcode Scanner,POS,10,4964.31,49643.1,5957.17,55600.27,Cash
+PUR5100,2026-06-16,S001,Alpha Components,Chennai,ITM007,Router,Networking,12,1488.13,17857.56,3214.36,21071.92,Cash
+PUR5101,2026-01-13,S001,Alpha Components,Chennai,ITM002,Monitor,Electronics,12,10508.78,126105.36,6305.27,132410.63,Cash
+PUR5102,2026-01-30,S004,Delta Electronics,Guindy,ITM008,UPS,Electronics,8,2754.77,22038.16,2644.58,24682.74,Credit
+PUR5103,2026-06-29,S002,Bright Office Supplies,Ambattur,ITM004,Printer,Electronics,13,8601.5,111819.5,5590.98,117410.48,Credit
+PUR5104,2026-04-18,S001,Alpha Components,Chennai,ITM009,External SSD,Storage,6,4496.83,26980.98,4856.58,31837.56,Bank
+PUR5105,2026-04-18,S001,Alpha Components,Chennai,ITM009,External SSD,Storage,13,4489.49,58363.37,7003.6,65366.97,Bank
+PUR5106,2026-01-28,S004,Delta Electronics,Guindy,ITM004,Printer,Electronics,11,7289.32,80182.52,9621.9,89804.42,Cash
+PUR5107,2026-02-21,S003,Chennai Packaging Co,Redhills,ITM007,Router,Networking,6,1436.6,8619.6,1551.53,10171.13,Credit
+PUR5108,2026-02-23,S004,Delta Electronics,Guindy,ITM006,Desk,Furniture,5,4880.34,24401.7,4392.31,28794.01,Bank
+PUR5109,2026-01-29,S004,Delta Electronics,Guindy,ITM003,Keyboard,Accessories,3,688.7,2066.1,103.31,2169.41,Cash
+PUR5110,2026-01-26,S003,Chennai Packaging Co,Redhills,ITM004,Printer,Electronics,9,9419.4,84774.6,10172.95,94947.55,Credit
+PUR5111,2026-04-29,S001,Alpha Components,Chennai,ITM002,Monitor,Electronics,15,8425.31,126379.65,6318.98,132698.63,Credit
+PUR5112,2026-04-03,S003,Chennai Packaging Co,Redhills,ITM007,Router,Networking,13,1412.59,18363.67,918.18,19281.85,Bank
+PUR5113,2026-02-05,S002,Bright Office Supplies,Ambattur,ITM006,Desk,Furniture,7,6619.33,46335.31,8340.36,54675.67,Credit
+PUR5114,2026-01-24,S003,Chennai Packaging Co,Redhills,ITM006,Desk,Furniture,4,5096.97,20387.88,2446.55,22834.43,Credit
+PUR5115,2026-03-11,S004,Delta Electronics,Guindy,ITM008,UPS,Electronics,14,3067.83,42949.62,2147.48,45097.1,Bank
+PUR5116,2026-02-03,S001,Alpha Components,Chennai,ITM003,Keyboard,Accessories,3,612.37,1837.11,330.68,2167.79,Credit
+PUR5117,2026-05-26,S004,Delta Electronics,Guindy,ITM003,Keyboard,Accessories,11,604.75,6652.25,798.27,7450.52,Cash
+PUR5118,2026-01-08,S002,Bright Office Supplies,Ambattur,ITM008,UPS,Electronics,9,2743.58,24692.22,2963.07,27655.29,Credit
+PUR5119,2026-01-12,S001,Alpha Components,Chennai,ITM005,Office Chair,Furniture,12,4390.21,52682.52,9482.85,62165.37,Cash
+PUR5120,2026-05-15,S002,Bright Office Supplies,Ambattur,ITM006,Desk,Furniture,10,5895.05,58950.5,10611.09,69561.59,Cash
+PUR5121,2026-01-25,S004,Delta Electronics,Guindy,ITM004,Printer,Electronics,9,7683.52,69151.68,12447.3,81598.98,Cash
+PUR5122,2026-04-09,S002,Bright Office Supplies,Ambattur,ITM009,External SSD,Storage,11,3678.58,40464.38,7283.59,47747.97,Bank
+PUR5123,2026-05-10,S004,Delta Electronics,Guindy,ITM008,UPS,Electronics,15,2798.67,41980.05,5037.61,47017.66,Credit
+PUR5124,2026-03-03,S003,Chennai Packaging Co,Redhills,ITM005,Office Chair,Furniture,2,4690.81,9381.62,1688.69,11070.31,Cash
+PUR5125,2026-04-07,S004,Delta Electronics,Guindy,ITM004,Printer,Electronics,3,7989.56,23968.68,4314.36,28283.04,Credit
+PUR5126,2026-01-23,S004,Delta Electronics,Guindy,ITM008,UPS,Electronics,7,2749.64,19247.48,2309.7,21557.18,Cash
+PUR5127,2026-06-17,S001,Alpha Components,Chennai,ITM002,Monitor,Electronics,8,9173.87,73390.96,13210.37,86601.33,Cash
+PUR5128,2026-01-01,S001,Alpha Components,Chennai,ITM010,Barcode Scanner,POS,11,5835.82,64194.02,11554.92,75748.94,Cash
+PUR5129,2026-02-22,S004,Delta Electronics,Guindy,ITM006,Desk,Furniture,7,6484.36,45390.52,2269.53,47660.05,Credit
+PUR5130,2026-03-26,S004,Delta Electronics,Guindy,ITM006,Desk,Furniture,13,5757.44,74846.72,3742.34,78589.06,Cash
+PUR5131,2026-02-26,S001,Alpha Components,Chennai,ITM006,Desk,Furniture,7,6493.27,45452.89,5454.35,50907.24,Cash
+PUR5132,2026-05-14,S003,Chennai Packaging Co,Redhills,ITM002,Monitor,Electronics,2,10700.16,21400.32,2568.04,23968.36,Bank
+PUR5133,2026-04-15,S001,Alpha Components,Chennai,ITM005,Office Chair,Furniture,11,4205.64,46262.04,2313.1,48575.14,Credit
+PUR5134,2026-02-25,S004,Delta Electronics,Guindy,ITM004,Printer,Electronics,13,7662.42,99611.46,11953.38,111564.84,Bank
+PUR5135,2026-06-12,S001,Alpha Components,Chennai,ITM008,UPS,Electronics,9,3316.38,29847.42,5372.54,35219.96,Bank
+PUR5136,2026-05-08,S001,Alpha Components,Chennai,ITM009,External SSD,Storage,13,3669.94,47709.22,5725.11,53434.33,Cash
+PUR5137,2026-05-04,S002,Bright Office Supplies,Ambattur,ITM010,Barcode Scanner,POS,4,6008.72,24034.88,1201.74,25236.62,Bank
+PUR5138,2026-04-10,S003,Chennai Packaging Co,Redhills,ITM009,External SSD,Storage,8,4202.88,33623.04,6052.15,39675.19,Cash
+PUR5139,2026-03-05,S003,Chennai Packaging Co,Redhills,ITM007,Router,Networking,7,1874.07,13118.49,1574.22,14692.71,Bank
+PUR5140,2026-02-05,S004,Delta Electronics,Guindy,ITM010,Barcode Scanner,POS,13,6298.77,81884.01,14739.12,96623.13,Credit
+PUR5141,2026-06-29,S003,Chennai Packaging Co,Redhills,ITM009,External SSD,Storage,12,3912.97,46955.64,2347.78,49303.42,Cash
+PUR5142,2026-03-16,S003,Chennai Packaging Co,Redhills,ITM003,Keyboard,Accessories,13,661.52,8599.76,429.99,9029.75,Cash
+PUR5143,2026-05-19,S003,Chennai Packaging Co,Redhills,ITM002,Monitor,Electronics,14,8984.55,125783.7,15094.04,140877.74,Cash
+PUR5144,2026-05-27,S004,Delta Electronics,Guindy,ITM009,External SSD,Storage,6,4863.57,29181.42,3501.77,32683.19,Bank
+PUR5145,2026-05-14,S001,Alpha Components,Chennai,ITM001,Laptop,Electronics,8,38092.7,304741.6,54853.49,359595.09,Bank
+PUR5146,2026-02-21,S003,Chennai Packaging Co,Redhills,ITM003,Keyboard,Accessories,6,668.51,4011.06,200.55,4211.61,Bank
+PUR5147,2026-06-26,S003,Chennai Packaging Co,Redhills,ITM004,Printer,Electronics,14,8211.16,114956.24,13794.75,128750.99,Credit
+PUR5148,2026-01-27,S002,Bright Office Supplies,Ambattur,ITM009,External SSD,Storage,8,3942.14,31537.12,5676.68,37213.8,Credit
+PUR5149,2026-06-27,S001,Alpha Components,Chennai,ITM007,Router,Networking,8,1574.95,12599.6,2267.93,14867.53,Credit
+PUR5150,2026-05-22,S001,Alpha Components,Chennai,ITM001,Laptop,Electronics,13,39619.31,515051.03,92709.19,607760.22,Credit
+PUR5151,2026-02-27,S003,Chennai Packaging Co,Redhills,ITM010,Barcode Scanner,POS,10,6023.52,60235.2,3011.76,63246.96,Cash
+PUR5152,2026-02-19,S003,Chennai Packaging Co,Redhills,ITM008,UPS,Electronics,4,3657.63,14630.52,731.53,15362.05,Bank
+PUR5153,2026-02-14,S001,Alpha Components,Chennai,ITM007,Router,Networking,2,1581.39,3162.78,569.3,3732.08,Credit
+PUR5154,2026-02-03,S002,Bright Office Supplies,Ambattur,ITM010,Barcode Scanner,POS,15,5124.33,76864.95,9223.79,86088.74,Credit
+PUR5155,2026-02-09,S001,Alpha Components,Chennai,ITM003,Keyboard,Accessories,7,650.34,4552.38,819.43,5371.81,Cash
+PUR5156,2026-06-19,S003,Chennai Packaging Co,Redhills,ITM008,UPS,Electronics,14,3226.31,45168.34,5420.2,50588.54,Bank
+PUR5157,2026-03-23,S002,Bright Office Supplies,Ambattur,ITM003,Keyboard,Accessories,10,539.32,5393.2,970.78,6363.98,Bank
+PUR5158,2026-04-17,S004,Delta Electronics,Guindy,ITM002,Monitor,Electronics,7,8571.77,60002.39,3000.12,63002.51,Cash
+PUR5159,2026-03-26,S003,Chennai Packaging Co,Redhills,ITM006,Desk,Furniture,6,5300.97,31805.82,5725.05,37530.87,Cash
+PUR5160,2026-05-02,S001,Alpha Components,Chennai,ITM002,Monitor,Electronics,12,8964.92,107579.04,5378.95,112957.99,Cash
+PUR5161,2026-06-07,S002,Bright Office Supplies,Ambattur,ITM001,Laptop,Electronics,12,48753.51,585042.12,70205.05,655247.17,Bank
+PUR5162,2026-04-09,S003,Chennai Packaging Co,Redhills,ITM009,External SSD,Storage,13,4007.27,52094.51,9377.01,61471.52,Credit
+PUR5163,2026-05-12,S004,Delta Electronics,Guindy,ITM008,UPS,Electronics,2,2936.26,5872.52,1057.05,6929.57,Bank
+PUR5164,2026-03-24,S001,Alpha Components,Chennai,ITM002,Monitor,Electronics,4,10935.63,43742.52,7873.65,51616.17,Cash
+PUR5165,2026-01-02,S001,Alpha Components,Chennai,ITM004,Printer,Electronics,12,8449.69,101396.28,5069.81,106466.09,Cash
+PUR5166,2026-04-19,S001,Alpha Components,Chennai,ITM004,Printer,Electronics,10,8987.62,89876.2,16177.72,106053.92,Credit
+PUR5167,2026-06-15,S001,Alpha Components,Chennai,ITM003,Keyboard,Accessories,2,621.44,1242.88,149.15,1392.03,Bank
+PUR5168,2026-01-23,S001,Alpha Components,Chennai,ITM001,Laptop,Electronics,4,47436.69,189746.76,34154.42,223901.18,Bank
+PUR5169,2026-05-28,S002,Bright Office Supplies,Ambattur,ITM005,Office Chair,Furniture,8,4505.33,36042.64,6487.68,42530.32,Credit
+PUR5170,2026-04-21,S003,Chennai Packaging Co,Redhills,ITM001,Laptop,Electronics,8,45695.5,365564.0,65801.52,431365.52,Bank
+PUR5171,2026-06-14,S001,Alpha Components,Chennai,ITM010,Barcode Scanner,POS,2,5953.64,11907.28,595.36,12502.64,Credit
+PUR5172,2026-05-09,S001,Alpha Components,Chennai,ITM005,Office Chair,Furniture,14,4969.97,69579.58,12524.32,82103.9,Bank
+PUR5173,2026-03-14,S004,Delta Electronics,Guindy,ITM007,Router,Networking,8,1793.95,14351.6,717.58,15069.18,Credit
+PUR5174,2026-02-10,S002,Bright Office Supplies,Ambattur,ITM003,Keyboard,Accessories,13,607.11,7892.43,1420.64,9313.07,Credit
+PUR5175,2026-06-12,S002,Bright Office Supplies,Ambattur,ITM005,Office Chair,Furniture,12,5283.69,63404.28,11412.77,74817.05,Cash
+PUR5176,2026-04-06,S001,Alpha Components,Chennai,ITM009,External SSD,Storage,15,4399.3,65989.5,3299.48,69288.98,Bank
+PUR5177,2026-01-02,S004,Delta Electronics,Guindy,ITM009,External SSD,Storage,10,4963.65,49636.5,5956.38,55592.88,Bank
+PUR5178,2026-03-30,S002,Bright Office Supplies,Ambattur,ITM007,Router,Networking,12,1809.79,21717.48,1085.87,22803.35,Bank
+PUR5179,2026-02-17,S002,Bright Office Supplies,Ambattur,ITM010,Barcode Scanner,POS,15,5120.1,76801.5,3840.08,80641.58,Bank
+PUR5180,2026-06-21,S001,Alpha Components,Chennai,ITM009,External SSD,Storage,9,4528.33,40754.97,2037.75,42792.72,Credit
+PUR5181,2026-06-21,S001,Alpha Components,Chennai,ITM005,Office Chair,Furniture,3,4207.97,12623.91,2272.3,14896.21,Credit
+PUR5182,2026-03-26,S003,Chennai Packaging Co,Redhills,ITM003,Keyboard,Accessories,12,662.65,7951.8,397.59,8349.39,Credit
+PUR5183,2026-06-08,S001,Alpha Components,Chennai,ITM004,Printer,Electronics,7,8061.83,56432.81,6771.94,63204.75,Cash
+PUR5184,2026-06-18,S003,Chennai Packaging Co,Redhills,ITM010,Barcode Scanner,POS,4,5701.93,22807.72,2736.93,25544.65,Credit
+PUR5185,2026-04-20,S002,Bright Office Supplies,Ambattur,ITM001,Laptop,Electronics,7,39544.92,276814.44,13840.72,290655.16,Cash
+PUR5186,2026-06-14,S004,Delta Electronics,Guindy,ITM005,Office Chair,Furniture,15,4460.8,66912.0,12044.16,78956.16,Cash
+PUR5187,2026-03-26,S004,Delta Electronics,Guindy,ITM008,UPS,Electronics,9,3001.68,27015.12,3241.81,30256.93,Credit
+PUR5188,2026-05-22,S001,Alpha Components,Chennai,ITM003,Keyboard,Accessories,12,652.39,7828.68,939.44,8768.12,Bank
+PUR5189,2026-05-18,S002,Bright Office Supplies,Ambattur,ITM005,Office Chair,Furniture,13,5282.68,68674.84,3433.74,72108.58,Cash
+PUR5190,2026-01-20,S001,Alpha Components,Chennai,ITM009,External SSD,Storage,12,3644.92,43739.04,7873.03,51612.07,Cash
+PUR5191,2026-04-14,S002,Bright Office Supplies,Ambattur,ITM001,Laptop,Electronics,10,39752.88,397528.8,71555.18,469083.98,Credit
+PUR5192,2026-06-17,S002,Bright Office Supplies,Ambattur,ITM006,Desk,Furniture,8,5310.45,42483.6,7647.05,50130.65,Cash
+PUR5193,2026-03-16,S002,Bright Office Supplies,Ambattur,ITM008,UPS,Electronics,10,3160.93,31609.3,3793.12,35402.42,Credit
+PUR5194,2026-05-09,S001,Alpha Components,Chennai,ITM004,Printer,Electronics,15,9352.8,140292.0,25252.56,165544.56,Cash
+PUR5195,2026-02-12,S002,Bright Office Supplies,Ambattur,ITM008,UPS,Electronics,4,2813.1,11252.4,2025.43,13277.83,Cash
+PUR5196,2026-02-07,S004,Delta Electronics,Guindy,ITM006,Desk,Furniture,2,5301.7,10603.4,1272.41,11875.81,Bank
+PUR5197,2026-01-17,S003,Chennai Packaging Co,Redhills,ITM006,Desk,Furniture,5,4958.48,24792.4,1239.62,26032.02,Cash
+PUR5198,2026-04-03,S004,Delta Electronics,Guindy,ITM008,UPS,Electronics,9,3550.63,31955.67,1597.78,33553.45,Cash
+PUR5199,2026-03-24,S001,Alpha Components,Chennai,ITM009,External SSD,Storage,12,4794.69,57536.28,10356.53,67892.81,Credit
+PUR5200,2026-05-29,S002,Bright Office Supplies,Ambattur,ITM007,Router,Networking,12,1554.4,18652.8,3357.5,22010.3,Cash
+PUR5201,2026-01-20,S003,Chennai Packaging Co,Redhills,ITM007,Router,Networking,5,1628.84,8144.2,977.3,9121.5,Credit
+PUR5202,2026-05-05,S004,Delta Electronics,Guindy,ITM010,Barcode Scanner,POS,2,5583.42,11166.84,558.34,11725.18,Credit
+PUR5203,2026-02-12,S002,Bright Office Supplies,Ambattur,ITM002,Monitor,Electronics,10,9901.95,99019.5,4950.98,103970.48,Bank
+PUR5204,2026-02-17,S002,Bright Office Supplies,Ambattur,ITM006,Desk,Furniture,11,6273.74,69011.14,3450.56,72461.7,Cash
+PUR5205,2026-02-28,S004,Delta Electronics,Guindy,ITM006,Desk,Furniture,13,5096.01,66248.13,11924.66,78172.79,Credit
+PUR5206,2026-05-03,S002,Bright Office Supplies,Ambattur,ITM010,Barcode Scanner,POS,4,5853.9,23415.6,2809.87,26225.47,Bank
+PUR5207,2026-03-04,S001,Alpha Components,Chennai,ITM003,Keyboard,Accessories,11,649.39,7143.29,357.16,7500.45,Cash
+PUR5208,2026-05-12,S001,Alpha Components,Chennai,ITM010,Barcode Scanner,POS,4,4754.0,19016.0,2281.92,21297.92,Bank
+PUR5209,2026-05-13,S004,Delta Electronics,Guindy,ITM010,Barcode Scanner,POS,11,5835.98,64195.78,11555.24,75751.02,Cash
+PUR5210,2026-06-19,S003,Chennai Packaging Co,Redhills,ITM002,Monitor,Electronics,5,9289.99,46449.95,5573.99,52023.94,Credit
+PUR5211,2026-02-13,S002,Bright Office Supplies,Ambattur,ITM007,Router,Networking,11,1427.06,15697.66,2825.58,18523.24,Bank
+PUR5212,2026-06-09,S003,Chennai Packaging Co,Redhills,ITM003,Keyboard,Accessories,13,668.97,8696.61,1043.59,9740.2,Cash
+PUR5213,2026-06-01,S001,Alpha Components,Chennai,ITM004,Printer,Electronics,8,7790.75,62326.0,3116.3,65442.3,Bank
+PUR5214,2026-02-21,S004,Delta Electronics,Guindy,ITM003,Keyboard,Accessories,11,545.22,5997.42,719.69,6717.11,Cash
+PUR5215,2026-06-03,S001,Alpha Components,Chennai,ITM009,External SSD,Storage,10,4683.43,46834.3,2341.72,49176.02,Credit
+PUR5216,2026-06-18,S002,Bright Office Supplies,Ambattur,ITM010,Barcode Scanner,POS,10,6189.19,61891.9,11140.54,73032.44,Cash
+PUR5217,2026-04-21,S004,Delta Electronics,Guindy,ITM006,Desk,Furniture,15,4959.7,74395.5,13391.19,87786.69,Credit
+PUR5218,2026-02-28,S004,Delta Electronics,Guindy,ITM007,Router,Networking,7,1668.09,11676.63,2101.79,13778.42,Cash
+PUR5219,2026-05-28,S001,Alpha Components,Chennai,ITM007,Router,Networking,4,1487.44,5949.76,297.49,6247.25,Bank
+PUR5220,2026-03-14,S004,Delta Electronics,Guindy,ITM005,Office Chair,Furniture,5,3908.53,19542.65,3517.68,23060.33,Bank

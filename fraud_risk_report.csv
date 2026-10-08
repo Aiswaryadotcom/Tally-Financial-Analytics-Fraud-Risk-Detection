@@ -1,0 +1,92 @@
+voucher_no,date,customer_name,item_name,total_amount,payment_mode,fraud_risk_score,risk_level,risk_reasons
+INV-FRAUD-001,2026-05-18,Greenline Enterprises,External SSD,3687500.0,Cash,60,High,unusually high transaction value; unusually high quantity; unusual unit price; high-value cash transaction
+INV1404,2026-02-08,Metro Office Mart,Laptop,394266.78,Cash,35,Medium,unusually high transaction value; high-value cash transaction
+INV1337,2026-02-04,Delta Distributors,Laptop,379302.28,Cash,35,Medium,unusually high transaction value; high-value cash transaction
+INV1034,2026-02-12,Prime Tech Solutions,Laptop,356539.68,Cash,35,Medium,unusually high transaction value; high-value cash transaction
+INV1205,2026-04-06,Greenline Enterprises,Laptop,347085.97,Cash,35,Medium,unusually high transaction value; high-value cash transaction
+INV1250,2026-04-14,Vetri Agencies,Laptop,343977.85,Cash,35,Medium,unusually high transaction value; high-value cash transaction
+INV1143,2026-01-24,Prime Tech Solutions,Laptop,286125.17,Cash,35,Medium,unusually high transaction value; high-value cash transaction
+INV1393,2026-05-31,Sri Lakshmi Stores,Laptop,281328.32,Cash,35,Medium,unusually high transaction value; high-value cash transaction
+INV1036,2026-03-22,Arun Traders,Laptop,441255.64,UPI,30,Medium,unusually high transaction value; unusually high quantity
+INV1145,2026-06-06,Greenline Enterprises,Monitor,122735.67,Credit,30,Medium,unusually high transaction value; unusually high quantity
+INV1026,2026-05-31,Greenline Enterprises,Laptop,111615.88,Bank,30,Medium,possible duplicate voucher
+INV-DUP-001,2026-05-31,Greenline Enterprises,Laptop,111615.88,Bank,30,Medium,possible duplicate voucher
+INV-DUP-002,2026-05-31,Greenline Enterprises,Laptop,111615.88,Bank,30,Medium,possible duplicate voucher
+INV1212,2026-04-10,Bright Retail Hub,Laptop,452381.61,Bank,20,Low,unusually high transaction value
+INV1288,2026-05-29,Sri Lakshmi Stores,Laptop,421256.78,Bank,20,Low,unusually high transaction value
+INV1287,2026-06-22,Delta Distributors,Laptop,416852.38,UPI,20,Low,unusually high transaction value
+INV1204,2026-01-07,Prime Tech Solutions,Laptop,407145.94,Bank,20,Low,unusually high transaction value
+INV1381,2026-04-06,Metro Office Mart,Laptop,400201.08,UPI,20,Low,unusually high transaction value
+INV1030,2026-06-22,Sri Lakshmi Stores,Laptop,352387.8,UPI,20,Low,unusually high transaction value
+INV1372,2026-02-04,Prime Tech Solutions,Laptop,319148.23,UPI,20,Low,unusually high transaction value
+INV1206,2026-02-07,Metro Office Mart,Laptop,314488.7,UPI,20,Low,unusually high transaction value
+INV1001,2026-06-13,Sri Lakshmi Stores,Laptop,297417.58,Bank,20,Low,unusually high transaction value
+INV1389,2026-05-22,Delta Distributors,Laptop,281237.83,UPI,20,Low,unusually high transaction value
+INV1292,2026-02-27,Arun Traders,Laptop,280632.92,Credit,20,Low,unusually high transaction value
+INV1097,2026-03-29,Metro Office Mart,Laptop,280562.51,Bank,20,Low,unusually high transaction value
+INV1216,2026-03-17,Greenline Enterprises,Laptop,242833.38,Credit,20,Low,unusually high transaction value
+INV1289,2026-01-18,Bright Retail Hub,Laptop,242772.81,Credit,20,Low,unusually high transaction value
+INV1115,2026-06-10,Bright Retail Hub,Laptop,226423.55,Credit,20,Low,unusually high transaction value
+INV1324,2026-02-15,Vetri Agencies,Laptop,222744.94,Credit,20,Low,unusually high transaction value
+INV1390,2026-04-11,Delta Distributors,Laptop,217936.91,Credit,20,Low,unusually high transaction value
+INV1012,2026-06-25,Vetri Agencies,Laptop,217022.68,Credit,20,Low,unusually high transaction value
+INV1174,2026-05-15,Delta Distributors,Laptop,204686.84,Bank,20,Low,unusually high transaction value
+INV1227,2026-03-05,Sri Lakshmi Stores,Laptop,180101.23,Bank,20,Low,unusually high transaction value
+INV1242,2026-04-27,Sri Lakshmi Stores,Laptop,169784.87,UPI,20,Low,unusually high transaction value
+INV1270,2026-06-24,Metro Office Mart,Laptop,169147.48,UPI,20,Low,unusually high transaction value
+INV1261,2026-05-09,Bright Retail Hub,Laptop,166081.68,Credit,20,Low,unusually high transaction value
+INV1171,2026-05-26,Sri Lakshmi Stores,Laptop,149301.42,Bank,20,Low,unusually high transaction value
+INV1055,2026-05-29,Delta Distributors,Laptop,123880.41,Cash,20,Low,unusually high transaction value
+INV-FRAUD-002,2026-03-26,Bright Retail Hub,Router,1254.25,Bank,20,Low,unusually high discount
+INV-FRAUD-003,2026-05-26,Arun Traders,Barcode Scanner,2.36,UPI,15,Low,unusual unit price
+INV1133,2026-06-23,Metro Office Mart,Monitor,111439.01,Credit,10,Low,unusually high quantity
+INV1321,2026-06-29,Metro Office Mart,Monitor,105844.58,Bank,10,Low,unusually high quantity
+INV1158,2026-04-13,Prime Tech Solutions,Monitor,102943.22,Bank,10,Low,unusually high quantity
+INV1066,2026-01-13,Greenline Enterprises,Monitor,102188.85,Cash,10,Low,unusually high quantity
+INV1234,2026-02-02,Vetri Agencies,Monitor,101155.76,UPI,10,Low,unusually high quantity
+INV1336,2026-04-03,Delta Distributors,Printer,98586.79,Bank,10,Low,unusually high quantity
+INV1028,2026-05-27,Bright Retail Hub,Printer,97935.77,Bank,10,Low,unusually high quantity
+INV1149,2026-01-09,Vetri Agencies,Printer,94485.17,Bank,10,Low,unusually high quantity
+INV1077,2026-04-18,Delta Distributors,Monitor,85855.62,Cash,10,Low,unusually high quantity
+INV1416,2026-01-31,Vetri Agencies,Printer,85062.6,Bank,10,Low,unusually high quantity
+INV1375,2026-05-12,Delta Distributors,Desk,83990.61,Bank,10,Low,unusually high quantity
+INV1127,2026-03-26,Prime Tech Solutions,Desk,82236.65,Bank,10,Low,unusually high quantity
+INV1052,2026-05-01,Greenline Enterprises,Printer,77516.08,UPI,10,Low,unusually high quantity
+INV1121,2026-03-14,Delta Distributors,Barcode Scanner,74561.99,Credit,10,Low,unusually high quantity
+INV1350,2026-03-31,Delta Distributors,Desk,72362.81,Cash,10,Low,unusually high quantity
+INV1344,2026-01-19,Bright Retail Hub,Barcode Scanner,67188.08,Credit,10,Low,unusually high quantity
+INV1103,2026-04-15,Bright Retail Hub,Barcode Scanner,61898.1,Cash,10,Low,unusually high quantity
+INV1414,2026-06-29,Vetri Agencies,Desk,61142.68,UPI,10,Low,unusually high quantity
+INV1092,2026-04-19,Vetri Agencies,Desk,61121.84,Bank,10,Low,unusually high quantity
+INV1263,2026-06-23,Delta Distributors,Barcode Scanner,60118.73,Cash,10,Low,unusually high quantity
+INV1068,2026-03-08,Greenline Enterprises,Office Chair,59013.52,Bank,10,Low,unusually high quantity
+INV1285,2026-01-30,Greenline Enterprises,Barcode Scanner,55382.73,Bank,10,Low,unusually high quantity
+INV1222,2026-02-12,Bright Retail Hub,Desk,54279.27,Credit,10,Low,unusually high quantity
+INV1067,2026-04-24,Prime Tech Solutions,External SSD,54159.39,Credit,10,Low,unusually high quantity
+INV1224,2026-01-08,Metro Office Mart,Barcode Scanner,53708.0,Cash,10,Low,unusually high quantity
+INV1132,2026-03-01,Bright Retail Hub,Office Chair,52204.54,Cash,10,Low,unusually high quantity
+INV1363,2026-02-19,Prime Tech Solutions,External SSD,49694.41,Credit,10,Low,unusually high quantity
+INV1107,2026-06-29,Prime Tech Solutions,Office Chair,49473.21,Credit,10,Low,unusually high quantity
+INV1283,2026-03-05,Sri Lakshmi Stores,External SSD,49405.19,Bank,10,Low,unusually high quantity
+INV1299,2026-06-10,Prime Tech Solutions,External SSD,47044.15,Credit,10,Low,unusually high quantity
+INV1274,2026-03-27,Delta Distributors,UPS,46510.97,Credit,10,Low,unusually high quantity
+INV1031,2026-02-19,Greenline Enterprises,External SSD,46211.92,Credit,10,Low,unusually high quantity
+INV1125,2026-04-23,Sri Lakshmi Stores,External SSD,44124.77,UPI,10,Low,unusually high quantity
+INV1407,2026-03-25,Sri Lakshmi Stores,External SSD,44001.4,Cash,10,Low,unusually high quantity
+INV1184,2026-02-15,Bright Retail Hub,UPS,41337.19,Cash,10,Low,unusually high quantity
+INV1254,2026-03-27,Bright Retail Hub,External SSD,41287.88,Cash,10,Low,unusually high quantity
+INV1090,2026-05-23,Greenline Enterprises,UPS,35732.84,Cash,10,Low,unusually high quantity
+INV1190,2026-01-11,Greenline Enterprises,UPS,34870.45,Cash,10,Low,unusually high quantity
+INV1100,2026-05-14,Prime Tech Solutions,UPS,34250.25,Cash,10,Low,unusually high quantity
+INV1351,2026-05-02,Sri Lakshmi Stores,UPS,34075.94,Bank,10,Low,unusually high quantity
+INV1379,2026-02-01,Metro Office Mart,UPS,29396.72,UPI,10,Low,unusually high quantity
+INV1348,2026-04-25,Vetri Agencies,Router,23433.21,UPI,10,Low,unusually high quantity
+INV1172,2026-03-11,Bright Retail Hub,Router,21484.15,UPI,10,Low,unusually high quantity
+INV1147,2026-03-02,Metro Office Mart,Router,19186.81,Credit,10,Low,unusually high quantity
+INV1419,2026-02-14,Arun Traders,Router,19114.41,Bank,10,Low,unusually high quantity
+INV1233,2026-01-17,Delta Distributors,Router,19070.15,Bank,10,Low,unusually high quantity
+INV1033,2026-03-02,Metro Office Mart,Router,18710.5,Bank,10,Low,unusually high quantity
+INV1074,2026-03-28,Prime Tech Solutions,Keyboard,9404.84,Bank,10,Low,unusually high quantity
+INV1219,2026-04-09,Vetri Agencies,Keyboard,9118.19,Cash,10,Low,unusually high quantity
+INV1042,2026-04-05,Delta Distributors,Keyboard,8387.29,Bank,10,Low,unusually high quantity
+INV1185,2026-06-10,Vetri Agencies,Keyboard,6835.34,Cash,10,Low,unusually high quantity
